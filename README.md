@@ -1,3 +1,6 @@
-# My Awesome Book
+# Palette
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The Trello color palette comes with 10 different weights for each hue, ranging from 50 \(lightest\) to 900 \(darkest.\) When using Trello colors start with the 500 weight then go up or down in weight. Trello “Shades” are an exception, where Trello 600 and Trello 400 are our primary and secondary weights respectively.
+
+![](https://lh6.googleusercontent.com/2SjB4W4x2y3LojJMIpYUkW-Kr8XJZND_mGXWoVfPMndZ47Qv1ePeoykptBDeiGE6-2OHdhUafaXIb2EGhUeP5YsRPPtd711XBl3G9x0IIGFIWAMKNSRGQ_FsTIEWQxUheFHWplmR "sidebar-expanded.png")
+
