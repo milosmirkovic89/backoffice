@@ -1,4 +1,4 @@
-# Typography
+Typography
 
 WeWork’s primary brand typefaces are Knockout48 and Aperçu. A few additional typefaces are used in our digital products due to their appropriateness for digital, for various reasons including their suitability to the content, platform \(e.g. iOS, Android\), localization, greater legibility or faster loading time.
 
