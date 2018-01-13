@@ -4,3 +4,4 @@
 .book-summary ul.summary li.divider {background: #e0e0e0;}
 .book-summary {background: #f0f0f0;}
 .book-summary ul.summary li.active>a {color: #4CAF50;}
+.book-summary ul.summary li a {font-weight: bold;}
