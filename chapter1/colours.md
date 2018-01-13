@@ -4,7 +4,7 @@ The Trello color palette comes with 10 different weights for each hue, ranging f
 
 #### Green
 
-![](blob:https://www.gitbook.com/ac4ff00a-8855-4029-8d95-aeec9902ac81)
+![](/assets/green.png)
 
 | Green 100 | Green 200 | Green 300 | Green 400 | Green 500 |
 | :--- | :--- | :--- | :--- | :--- |
