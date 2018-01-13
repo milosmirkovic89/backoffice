@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Typography](test-2.md)
-  * [Test \#3](test-2/test-3.md)
+  * Introduction
+* [Foundations](chapter1.md)
+  * [Colours](chapter1/colours.md)
 
