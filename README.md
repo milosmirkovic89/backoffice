@@ -11,9 +11,9 @@ The Trello color palette comes with 10 different weights for each hue, ranging f
 ```
 Green 100
 green-100
-#F0F0F0
+#E5F4E5
 
-Green 200
+
 green-200
 #C9E7CB
 
