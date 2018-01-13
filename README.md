@@ -1,18 +1,12 @@
-# Headline \#1 {#plasma}
+# Introduction {#plasma}
 
-The Trello color palette comes with 10 different weights for each hue, ranging from 50 \(lightest\) to 900 \(darkest.\) When using Trello colors start with the 500 weight then go up or down in weight. Trello “Shades” are an exception, where Trello 600 and Trello 400 are our primary and secondary weights respectively.
+Trusted by millions, Trello is a visual collaboration tool that creates a shared perspective on any project. Trello’s boards, lists, and cards enable you to organize and prioritize your personal and work life in a fun, flexible, and rewarding way.
 
-#### Green
+At Trello, we believe the best way to get things done is by taking each challenge on step-by-step, focusing on what can be achieved today while keeping an eye on the goals of tomorrow, and beyond. That way you never get so deep in the weeds that you lose sight of the big picture. We believe in living with perspective, in every sense.
 
-![](/assets/green.png)
+Trello was created to deliver an invaluable visual perspective, no matter what you’re working on. There’s no substitute for the sense of clarity and control you get when you see a big, intimidating project broken down into individual, achievable goals.
 
-| Green 100 | Green 200 | Green 300 | Green 400 | Green 500 |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
-| \#E5F4E5 | \#C9E7CB | \#4CAF50 | \#459E49 | \#3D8C40 |
-|  |  |  |  |  |
+Trello accomplishes this with its intuitive boards, lists, and cards that strip away the inessential, enabling individuals and teams to focus on what really matters.
 
-## 
-
-
+This works for everything, from planning a family reunion, to launching a new app, to building a new kitchen. Perspective enables individuals and teams to work together at their highest levels.
 
