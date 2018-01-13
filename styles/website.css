@@ -2,3 +2,5 @@
 .book-header {border-bottom: 1px solid #e0e0e0; margin-top: 1px;}
 #book-search-input {border-bottom: 1px solid #e0e0e0; border-top: 1px solid #e0e0e0;}
 .book-summary ul.summary li.divider {background: #e0e0e0;}
+.book-summary {background: #f0f0f0;}
+.book-summary ul.summary li.active>a {color: #4CAF50;}
