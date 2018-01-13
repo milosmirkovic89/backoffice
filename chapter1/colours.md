@@ -10,8 +10,6 @@ The Trello color palette comes with 10 different weights for each hue, ranging f
 | :--- | :--- | :--- | :--- | :--- |
 | \#E5F4E5 | \#C9E7CB | \#4CAF50 | \#459E49 | \#3D8C40 |
 
----
-
 #### Red
 
 ![](/assets/foundations/color-Red.png)
