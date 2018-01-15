@@ -48,7 +48,7 @@ The Trello color palette comes with 10 different weights for each hue, ranging f
 
 | Shade 100 | Shade 200 | Shade 300 | Shade 400 | Shade 500 |
 | :--- | :--- | :--- | :--- | :--- |
-| \#F0F0F0 | \#E0E0E0 | \#D0D0D0 | \#C0C0C0 | \#B0B0B0 |
+| \#FFFFFF | \#F0F0F0 | \#E0E0E0 | \#D0D0D0 | \#C0C0C0 |
 
 ---
 
