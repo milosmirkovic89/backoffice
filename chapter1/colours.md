@@ -1,6 +1,6 @@
 # Color
 
-The Trello color palette comes with 10 different weights for each hue, ranging from 50 \(lightest\) to 900 \(darkest.\) When using Trello colors start with the 500 weight then go up or down in weight. Trello “Shades” are an exception, where Trello 600 and Trello 400 are our primary and secondary weights respectively.
+The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest.\) When using Back Office colors start with the 300 weight then go up or down in weight.
 
 #### Green {#green}
 
