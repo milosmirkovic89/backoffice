@@ -8,8 +8,8 @@
   * [Grid](chapter1/grid.md)
 * [Atoms](atoms.md)
   * [Buttons](atoms/buttons.md)
-  * Dropdowns
+  * [Dropdowns](atoms/dropdowns.md)
   * [Inputs](atoms/buttons/inputs.md)
-* Molecules
-* Organisms
+* [Molecules](molecules.md)
+* [Organisms](organisms.md)
 
