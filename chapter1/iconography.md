@@ -4,5 +4,5 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 #### Sidebar Icons
 
-![](/assets/foundations/iconography-sidebar-icons-customers.png)
+![](/assets/foundations/iconography-sidebar-icons-customers.png)![](/assets/foundations/iconography-sidebar-icons.png)
 
