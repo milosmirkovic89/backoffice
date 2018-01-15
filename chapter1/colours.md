@@ -20,7 +20,7 @@ The Trello color palette comes with 10 different weights for each hue, ranging f
 | Red 100 | Red 200 | Red 300 | Red 400 | Red 500 |
 | :--- | :--- | :--- | :--- | :--- |
 | \#FEE3E2 | \#FCC7C3 | \#F44336 | \#DD3D31 | \#C4362C |
-| rgb\(254,227,226\) | rgb\(252,199,195\) | rgb\(244,67,54\) | rgb\(221,61,49\) | rgb\(196,54,44\) |
+| 254,227,226 | 252,199,195 | 244,67,54 | 221,61,49 | 196,54,44 |
 
 ---
 
