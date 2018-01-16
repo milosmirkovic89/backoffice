@@ -5,7 +5,7 @@
 .book-summary ul.summary li.active>a {color: #4CAF50;}
 .book-summary ul.summary li a {font-weight: bold; color: #303030;}
 .book-summary ul.articles li a {font-weight: normal; color: #505050;}
-.markdown-section hr {height: 8px; background-color: #f0f0f0; margin-top: 80px; margin-bottom: 60px;}
+.markdown-section hr {height: 8px; background-color: #f0f0f0; margin-top: 60px; margin-bottom: 60px;}
 .book-summary ul.summary li a, .book-summary ul.summary li span {padding: 10px 20px;}
 .markdown-section h6 {color: #4CAF50;}
 
