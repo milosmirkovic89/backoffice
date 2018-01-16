@@ -22,13 +22,13 @@ Color: Black 200
 
 ###### ![](/assets/foundations/iconography-sidebar-icons.png)
 
-###### On hover state
+###### On-hover state
 
 Color: Shade 500
 
 ###### ![](/assets/foundations/iconography-sidebar-icons-on-hover.png)
 
-###### On focus state
+###### On-focus state
 
 Color: Green 300
 
