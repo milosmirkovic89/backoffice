@@ -4,7 +4,9 @@ Icons are visual representations of commands, files, devices, directories, or co
 
 #### Sizing
 
-There are two major icon size groups: small and medium. Small has a container of 16x16px and medium has a container of 24x24px. **Note:** Some icons are smaller than its container.
+There are two major icon size groups: small and medium. Small has a container of 16x16px and medium has a container of 24x24px.
+
+**Note:** Some icons are smaller than its container.
 
 ![](/assets/foundations/iconography-sizing-example.png)
 
