@@ -10,21 +10,27 @@ There are two major icon size groups: small and medium. Small has a container of
 
 ![](/assets/foundations/iconography-sizing-example.png)
 
+#### Sidebar icons
+
+Sidebar icons fall into the group of medium icons that contain 24x24px container. These icons have three different states: **default**, **on-hover** and **on-focus **state.
+
+
+
 ###### Default state
 
-The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest.\)
+Color: Black 200
 
 ###### ![](/assets/foundations/iconography-sidebar-icons.png)
 
 ###### On hover state
 
-The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest.\)
+Color: Shade 500
 
 ###### ![](/assets/foundations/iconography-sidebar-icons-on-hover.png)
 
 ###### On focus state
 
-The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest.\)
+Color: Green 300
 
 ###### ![](/assets/foundations/iconography-sidebar-icons-on-focus.png)
 
