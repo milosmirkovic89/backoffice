@@ -2,7 +2,7 @@
 
 Icons are visual representations of commands, files, devices, directories, or common actions and are used to provide visual context and enhance usability. They should be simple, yet bold enough to grab attention and leave a lasting impression.
 
-#### Sizing
+### Sizing
 
 There are two major icon size groups: small and medium. Small has a container of 16x16px and medium has a container of 24x24px.
 
