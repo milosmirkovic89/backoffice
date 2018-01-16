@@ -1,6 +1,6 @@
 # Color
 
-The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest.\) When using Back Office colors start with the 300 weight then go up or down in weight.
+The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest.\) When using Back Office colors start with the 300 weight then go up or down in weight \(except _Shade_ and _Black_\).
 
 ##### Green
 
