@@ -12,7 +12,7 @@ There are two major icon size groups: small and medium. Small has a container of
 
 ---
 
-#### Sidebar icons
+### Sidebar icons
 
 Sidebar icons fall into the group of medium icons that contain 24x24px container. These icons have three different states: **default**, **on-hover** and **on-focus **state.
 
