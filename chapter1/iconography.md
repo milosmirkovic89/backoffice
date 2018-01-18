@@ -38,7 +38,17 @@ Color: Green 300
 
 ### UI icons
 
-UI icons fall into the group of medium icons that contain 16x16px container. These icons have four different states: **default**, **on-hover, on-focus** and **disabled **state.
+UI icons fall into the group of small icons that contain 16x16px container. These icons have four different states: **default**, **on-hover, on-focus** and **disabled **state.
 
 ![](/assets/foundations/iconography-ui-icons.png)
+
+---
+
+Arrow icons
+
+Arrow icons fall into the group of small icons that contain 16x16px container. These icons are used in four colors: **Shade 200**, **Shade 500**, **Black 100** and **Black 200**.
+
+![](/foundations/iconography-arrows.png)
+
+
 
