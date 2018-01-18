@@ -48,5 +48,5 @@ UI icons fall into the group of small icons that contain 16x16px container. Thes
 
 Arrow icons fall into the group of small icons that contain 16x16px container. These icons are used in four colors: **Shade 200**, **Shade 500**, **Black 100** and **Black 200**.
 
-![](/foundations/iconography-arrows.png)
+![](/assets/foundations/iconography-arrows.png)
 
