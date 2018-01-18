@@ -20,19 +20,19 @@ Sidebar icons fall into the group of medium icons that contain 24x24px container
 
 Color: Black 200
 
-###### ![](/assets/foundations/iconography-sidebar-icons.png)
+![](/assets/foundations/iconography-sidebar-icons.png)
 
 ##### On-hover state
 
 Color: Shade 500
 
-###### ![](/assets/foundations/iconography-sidebar-icons-on-hover.png)
+![](/assets/foundations/iconography-sidebar-icons-on-hover.png)
 
 ##### On-focus state
 
 Color: Green 300
 
-###### ![](/assets/foundations/iconography-sidebar-icons-on-focus.png)
+![](/assets/foundations/iconography-sidebar-icons-on-focus.png)
 
 ---
 
