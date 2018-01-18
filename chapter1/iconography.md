@@ -32,7 +32,7 @@ Color: Green 300
 
 ###### ![](/assets/foundations/iconography-sidebar-icons-on-focus.png)
 
-UI icons
+# UI icons
 
 UI icons fall into the group of medium icons that contain 16x16px container. These icons have four different states: **default**, **on-hover, on-focus** and **disabled **state.
 
