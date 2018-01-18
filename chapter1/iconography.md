@@ -50,3 +50,11 @@ Arrow icons fall into the group of small icons that contain 16x16px container. T
 
 ![](/assets/foundations/iconography-arrows.png)
 
+---
+
+### Downloads
+
+All icons are in SVG format and can be viewed and downloaded in Google Drive shared folder.
+
+[Download Icons](#)
+
