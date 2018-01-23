@@ -8,7 +8,7 @@
 
 This typeface is used in two different weights: **Regular** and **Semibold**.
 
-##### ![](/assets/foundations/typography-open-sans-weight.png)
+![](/assets/foundations/typography-open-sans-weight.png)
 
 ##### Text Sizes
 
