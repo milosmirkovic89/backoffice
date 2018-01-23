@@ -14,7 +14,7 @@ This typeface is used in two different weights: **Regular** and **Semibold**.
 
 Open Sans typeface is used in following sizes: **23pt,** **19pt, 15pt, 13pt and 11pt.**
 
-![](/assets/foundations/typography-open-sans-text-sizes.png)
+![](/assets/foundations/typography-open-sans-text-size.png)
 
 ##### Color
 
@@ -22,21 +22,21 @@ Open Sans typeface is used in following colors: **Black 300**, **Black 200**, **
 
 ![](/assets/foundations/typography-open-sans-color.png)
 
-Montserrat
+### Montserrat
 
-Weight
+### Weight
 
 This typeface is used only in **Regular** weight.
 
 ![](/assets/foundations/typography-montserrat-weight.png)
 
-Text Size
+### Text Size
 
 Montserrat typeface is used in following sizes: **14pt, 13pt, 12pt.**
 
 ![](/assets/foundations/typography-montserrat-text-size.png)
 
-Color
+### Color
 
 Montserrat typeface is used in following colors: **Black 300**, **Black 200**, **Black 100**, **Shade 500**, **Shade 300**, **Shade 100**, **Green 300**, **Green 200**, **Red 300** and **Red 200**.
 
