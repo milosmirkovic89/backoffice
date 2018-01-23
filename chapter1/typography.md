@@ -22,6 +22,8 @@ Open Sans typeface is used in following colors: **Black 300**, **Black 200**, **
 
 ![](/assets/foundations/typography-open-sans-color.png)
 
+---
+
 ### Montserrat
 
 ### Weight
