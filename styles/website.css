@@ -7,7 +7,9 @@
 .book-summary ul.articles li a {font-weight: normal; color: #505050;}
 .markdown-section hr {height: 4px; background-color: #f0f0f0; margin-bottom: 60px;}
 .book-summary ul.summary li a, .book-summary ul.summary li span {padding: 10px 20px;}
-.markdown-section h3 {color: #4CAF50;}
+.markdown-section h3 {color: #4CAF50; font-size: 2em;}
+.markdown-section h1 {font-size: 5em;}
+
 
 
 #book-search-input {border-bottom: 1px solid #e0e0e0; border-top: 1px solid #e0e0e0;}
