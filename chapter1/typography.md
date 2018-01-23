@@ -10,7 +10,7 @@ This typeface is used in two different weights: **Regular** and **Semibold**.
 
 ![](/assets/foundations/typography-open-sans-weight.png)
 
-##### Text Sizes
+##### Text Size
 
 Open Sans typeface is used in following sizes: **23pt,** **19pt, 15pt, 13pt and 11pt.**
 
