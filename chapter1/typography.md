@@ -4,6 +4,8 @@ Open Sans is the primary typeface for Back Office application while Montserrat i
 
 ### Open Sans
 
+##### Weight
+
 Open Sans typeface is used in two different weights: **Regular** and **Semibold**.
 
 ![](/assets/foundations/typography-open-sans-weight.png)
