@@ -22,7 +22,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-### Orange
+#### Orange
 
 ![](/assets/foundations/color-Orange.png)
 
@@ -32,7 +32,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-### Yellow
+#### Yellow
 
 ![](/assets/foundations/color-Yellow.png)
 
@@ -42,7 +42,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-### Shade
+#### Shade
 
 ![](/assets/foundations/color-Shade.png)
 
@@ -52,7 +52,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-### Black
+#### Black
 
 ![](/assets/foundations/color-Black.png)
 
