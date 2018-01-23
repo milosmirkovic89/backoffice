@@ -10,6 +10,12 @@ This typeface is used in two different weights: **Regular** and **Semibold**.
 
 ##### ![](/assets/foundations/typography-open-sans-weight.png)
 
+##### Text Sizes
+
+Open Sans typeface is used in following sizes: **23pt,** **19pt, 15pt, 13pt and 11pt.**
+
+![](/assets/foundations/typography-open-sans-text-sizes.png)
+
 ##### Color
 
 Open Sans typeface is used in following colors: **Black 300**, **Black 200**, **Black 100**, **Shade 500**, **Shade 100**, **Green 300**, **Red 300** and **Orange 300**.
