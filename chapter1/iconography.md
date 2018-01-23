@@ -54,7 +54,9 @@ Arrow icons fall into the group of small icons that contain 16x16px container. T
 
 ### Downloads
 
-All icons are in SVG format and can be viewed and downloaded in Google Drive shared folder.
+All icons are available in SVG and PNG formats and can be viewed and downloaded in Google Drive shared folder.
 
 [Download Icons](#)
+
+**Note:** Use SVG format whenever possible.
 
