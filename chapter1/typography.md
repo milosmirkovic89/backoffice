@@ -44,3 +44,12 @@ Montserrat typeface is used in following colors: **Black 300**, **Black 200**, *
 
 ![](/assets/foundations/typography-montserrat-color.png)
 
+#### Things to note:
+
+* Only use sizes, weights and colors noted above.
+* Never end a header or label with a period \(.\)
+* Only use a period \(.\) for sentences, paragraphs and copy.
+* Avoid use of all caps wherever possible.
+
+
+
