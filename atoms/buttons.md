@@ -13,7 +13,7 @@ Primary buttons come in 3 different height sizes: **48px**, **40px** and **32px*
 * Some scenarios are more suited to the **Positive** button style as the primary positive action, when the action doesn't need to be so prominent / stand-out.
 * Ideally there should only be one Primary button on any screen/scenario \(the core action to proceed/progress/take action on the page\). If there isn’t any one clear primary action, then consider using one or a combination of the other button styles.
 
-![](/assets/atoms/buttons-primary.png)
+### ![](/assets/atoms/buttons-primary.png)
 
 ```
 /* Default 32px */
@@ -59,5 +59,5 @@ color: $shade100;
 background-color: $green200;
 ```
 
- 
+
 
