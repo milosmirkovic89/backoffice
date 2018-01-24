@@ -16,35 +16,27 @@ Primary buttons come in 3 different height sizes: **48px**, **40px** and **32px*
 ![](/assets/atoms/buttons-primary.png)
 
 ```
-/* Default 32px */
+/* Default All */
 background-color: $green300;
 border-radius: 3px;
+transition: all 0.2s;
+font-family: Montserrat;
+color: $shade100;
+
+/* Default 32px */
 height: 32px;
 padding: 0 12px;
-transition: all 0.2s;
-font-family: Montserrat;
 font-size: 12px;
-color: $shade100;
 
 /* Default 40px */
-background-color: $green300;
-border-radius: 3px;
 height: 40px;
 padding: 0 16px;
-transition: all 0.2s;
-font-family: Montserrat;
 font-size: 13px;
-color: $shade100;
 
 /* Default 48px */
-background-color: $green300;
-border-radius: 3px;
 height: 48px;
 padding: 0 24px;
-transition: all 0.2s;
-font-family: Montserrat;
 font-size: 14px;
-color: $shade100;
 
 /* On-hover All */
 background-color: $green400;
