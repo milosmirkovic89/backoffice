@@ -4,10 +4,13 @@ There are 4 types of buttons: **Primary**, **Neutral**, **Positive** and **Negat
 
 **Note:** All CSS shown is for guiding purposes and it's not absolute.
 
-General guidelines
+#### General guidelines
 
 * Montserrat typeface should be always used for the text on buttons.
 * There should be no icons on any type of the buttons.
+
+#### Spacing guidelines
+
 * Depending on the height size, buttons have left and right padding of 12px, 16px, or 24px.
 * Buttons contained in narrow spaces \(e.g. quote screen\) should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
 * If multiple buttons are horizontally aligned, there should be a 16px margin separating them.
