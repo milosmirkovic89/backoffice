@@ -12,6 +12,7 @@
 .markdown-section pre {padding: 1.5em 2em; margin-top: 2em;}
 .markdown-section pre>code {font-size: .75em;}
 .markdown-section ol, .markdown-section ul {padding-left: 1em; padding-top: 0.5em; padding-bottom: 1.5em;}
+.markdown-section h4 {margin-bottom: .15em;}
 
 
 #book-search-input {border-bottom: 1px solid #e0e0e0; border-top: 1px solid #e0e0e0;}
