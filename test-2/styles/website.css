@@ -11,6 +11,7 @@
 .markdown-section h1 {font-size: 5em;}
 .markdown-section ol, .markdown-section ul {padding-left: 1em;}
 .markdown-section pre {padding: 2em 2em;}
+.markdown-section pre>code {font-size: .75em;}
 
 
 
