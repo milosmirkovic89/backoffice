@@ -114,7 +114,7 @@ color: $green200;
 
 ---
 
-Negative buttons
+### Negative buttons
 
 Negataive buttons come in 2 different height sizes: **40px** and **32px**. Each of them has 5 states noted above.
 
@@ -122,8 +122,4 @@ Negataive buttons come in 2 different height sizes: **40px** and **32px**. Each 
 * Any negative action in any scenario.
 
 ![](/assets/atoms/buttons-negative.png)
-
-
-
-
 
