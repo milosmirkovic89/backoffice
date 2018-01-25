@@ -159,5 +159,52 @@ border: 1px solid $shade300;
 color: $red200;
 ```
 
+---
+
+### Neutral buttons
+
+Neutral buttons come in 2 different height sizes: **40px** and **32px**. Each of them has 5 states noted above.
+
+* Ideal for tertiary actions such as: 'Browse', 'Details, 'Edit'.
+* Similar to the Positive button, but intended to play a more supportive or less important action button role.
+
+![](/assets/atoms/buttons-neutral.png)
+
+```
+/* Default All */
+background-color: $shade200;
+border-radius: 3px;
+border: 1px solid $shade400;
+transition: all 0.2s;
+font-family: Montserrat;
+color: $black200;
+
+/* Default 32px */
+height: 32px;
+padding: 0 12px;
+font-size: 12px;
+
+/* Default 40px */
+height: 40px;
+padding: 0 16px;
+font-size: 13px;
+
+/* On-hover All */
+background-color: $shade300;
+border: 1px solid $shade500;
+
+/* Pressed All */
+background-color: $shade400;
+border: 1px solid $shade500;
+
+/* Loading Icon All*/
+color: $black300;
+
+/* Disabled All */
+background-color: $shade100;
+border: 1px solid $shade300;
+color: $shade500;
+```
+
 
 
