@@ -20,6 +20,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 | Red 100 | Red 200 | Red 300 | Red 400 | Red 500 |
 | :--- | :--- | :--- | :--- | :--- |
 | \#FEE3E2 | \#FCC7C3 | \#F44336 | \#DD3D31 | \#C4362C |
+| $R100 | $R200 | $R300 | $R400 | $R500 |
 
 ---
 
