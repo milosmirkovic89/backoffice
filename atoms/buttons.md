@@ -43,7 +43,7 @@ background-color: $green300;
 border-radius: 3px;
 transition: all 0.2s;
 font-family: Montserrat;
-color: $shade100;
+color: $S100;
 
 /* Default 32px */
 height: 32px;
@@ -61,16 +61,16 @@ padding: 0 24px;
 font-size: 14px;
 
 /* On-hover All */
-background-color: $green400;
+background-color: $G400;
 
 /* Pressed All */
-background-color: $green500;
+background-color: $G500;
 
 /* Loading Icon All*/
 color: $shade100;
 
 /* Disabled All */
-background-color: $green200;
+background-color: $G200;
 ```
 
 ---
@@ -87,12 +87,12 @@ Positive buttons come in 2 different height sizes: **40px** and **32px**. Each o
 
 ```
 /* Default All */
-background-color: $shade200;
+background-color: $S200;
 border-radius: 3px;
-border: 1px solid $shade400;
+border: 1px solid $S400;
 transition: all 0.2s;
 font-family: Montserrat;
-color: $green300;
+color: $G300;
 
 /* Default 32px */
 height: 32px;
@@ -105,20 +105,20 @@ padding: 0 16px;
 font-size: 13px;
 
 /* On-hover All */
-background-color: $shade300;
-border: 1px solid $shade500;
+background-color: $S300;
+border: 1px solid $S500;
 
 /* Pressed All */
-background-color: $shade400;
-border: 1px solid $shade500;
+background-color: $S400;
+border: 1px solid $S500;
 
 /* Loading Icon All*/
-color: $green300;
+color: $G300;
 
 /* Disabled All */
-background-color: $shade100;
-border: 1px solid $shade300;
-color: $green200;
+background-color: $S100;
+border: 1px solid $S300;
+color: $G200;
 ```
 
 ---
@@ -134,12 +134,12 @@ Negataive buttons come in 2 different height sizes: **40px** and **32px**. Each 
 
 ```
 /* Default All */
-background-color: $shade200;
+background-color: $S200;
 border-radius: 3px;
-border: 1px solid $shade400;
+border: 1px solid $S400;
 transition: all 0.2s;
 font-family: Montserrat;
-color: $red300;
+color: $R300;
 
 /* Default 32px */
 height: 32px;
@@ -152,20 +152,20 @@ padding: 0 16px;
 font-size: 13px;
 
 /* On-hover All */
-background-color: $shade300;
-border: 1px solid $shade500;
+background-color: $S300;
+border: 1px solid $S500;
 
 /* Pressed All */
-background-color: $shade400;
-border: 1px solid $shade500;
+background-color: $S400;
+border: 1px solid $S500;
 
 /* Loading Icon All*/
 color: $red300;
 
 /* Disabled All */
-background-color: $shade100;
-border: 1px solid $shade300;
-color: $red200;
+background-color: $S100;
+border: 1px solid $S300;
+color: $R200;
 ```
 
 ---
@@ -181,12 +181,12 @@ Neutral buttons come in 2 different height sizes: **40px** and **32px**. Each of
 
 ```
 /* Default All */
-background-color: $shade200;
+background-color: $S200;
 border-radius: 3px;
-border: 1px solid $shade400;
+border: 1px solid $S400;
 transition: all 0.2s;
 font-family: Montserrat;
-color: $black200;
+color: $B200;
 
 /* Default 32px */
 height: 32px;
@@ -199,20 +199,20 @@ padding: 0 16px;
 font-size: 13px;
 
 /* On-hover All */
-background-color: $shade300;
-border: 1px solid $shade500;
+background-color: $S300;
+border: 1px solid $S500;
 
 /* Pressed All */
-background-color: $shade400;
-border: 1px solid $shade500;
+background-color: $S400;
+border: 1px solid $S500;
 
 /* Loading Icon All*/
 color: $black300;
 
 /* Disabled All */
-background-color: $shade100;
-border: 1px solid $shade300;
-color: $shade500;
+background-color: $S100;
+border: 1px solid $S300;
+color: $S500;
 ```
 
 
