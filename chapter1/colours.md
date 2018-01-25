@@ -9,6 +9,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 | Green 100 | Green 200 | Green 300 | Green 400 | Green 500 |
 | :--- | :--- | :--- | :--- | :--- |
 | \#E5F4E5 | \#C9E7CB | \#4CAF50 | \#459E49 | \#3D8C40 |
+| $G100 | $G200 | $G300 | $G400 | $G500 |
 
 ---
 
