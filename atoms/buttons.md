@@ -21,7 +21,7 @@ There are 4 types of buttons: **Primary**, **Neutral**, **Positive** and **Negat
 
 Primary buttons come in 3 different height sizes: **48px**, **40px** and **32px**. Each of them has 5 states noted above.
 
-* Action oriented button. Think: ''Continue', 'Next', 'Submit'.
+* Action oriented button. Think: ''Save', 'Next', 'Submit'.
 * Normally the primary positive action in any scenario.
 * Some scenarios are more suited to the **Positive** button style as the primary positive action, when the action doesn't need to be so prominent / stand-out.
 * Ideally there should only be one Primary button on any screen/scenario \(the core action to proceed/progress/take action on the page\). If there isn’t any one clear primary action, then consider using one or a combination of the other button styles.
@@ -64,12 +64,15 @@ color: $shade100;
 background-color: $green200;
 ```
 
+---
+
 ### Positive buttons
 
 Positive buttons come in 2 different height sizes: **40px** and **32px**. Each of them has 5 states noted above.
 
-* Action oriented button. Think: 'Done', 'Save', 'Update'.
+* Action oriented button. Think: 'Update', 'Approve, 'Add'.
 * Normally the secondary positive action in any scenario.
+* Similar to the Primary button, but intended to play a more supportive or less important action button role.
 
 ![](/assets/atoms/buttons-positive.png)
 
@@ -108,6 +111,19 @@ background-color: $shade100;
 border: 1px solid $shade300;
 color: $green200;
 ```
+
+---
+
+Negative buttons
+
+Negataive buttons come in 2 different height sizes: **40px** and **32px**. Each of them has 5 states noted above.
+
+* Action oriented button. Think: 'Close', 'Delete', 'Suspend'.
+* Any negative action in any scenario.
+
+![](/assets/atoms/buttons-negative.png)
+
+
 
 
 
