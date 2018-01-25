@@ -17,6 +17,14 @@ There are 4 types of buttons: **Primary**, **Neutral**, **Positive** and **Negat
 * Buttons contained in narrow spaces \(e.g. quote screen\) should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
 * If multiple buttons are horizontally aligned, there should be a 16px margin separating them.
 
+##### Padding
+
+![](/assets/atoms/buttons-padding.png)
+
+##### Margin
+
+![](/assets/atoms/buttons-margin.png)
+
 ### Primary buttons
 
 Primary buttons come in 3 different height sizes: **48px**, **40px** and **32px**. Each of them has 5 states noted above.
