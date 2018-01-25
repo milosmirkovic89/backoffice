@@ -7,7 +7,7 @@
   * [Typography](foundations/typography.md)
 * [Atoms](atoms.md)
   * [Buttons](atoms/buttons.md)
-  * [Input types](atoms/inputs.md)
+  * [Input types](atoms/input-types.md)
 * [Molecules](molecules.md)
 * [Organisms](organisms.md)
 
