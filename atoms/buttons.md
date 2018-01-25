@@ -1,6 +1,6 @@
 # Buttons
 
-There are 4 types of buttons: **Primary**, **Neutral**, **Positive** and **Negative**. Each button style has 5 states, including: default, on-hover, pressed, loading and disabled. All button types come in two different height sizes of 40px and 32px, except Primary button which has additional 48px height size.
+There are 4 types of buttons: **Primary**, **Positive, Negative** and **Neutral**. Each button style has 5 states, including: default, on-hover, pressed, loading and disabled. All button types come in two different height sizes of 40px and 32px, except Primary button which has additional 48px height size.
 
 **Note:** All CSS shown is for guiding purposes and it's not absolute.
 
