@@ -10,5 +10,17 @@ Labels are used inline before all text inputs, text areas and drop-downs. For el
 
 ![](/assets/atoms/intpu-types-labels-size.png)
 
+```
+/* Label */
+max-width: 380px;
+height: 40px;
+font-family: Open Sans;
+font-weight: Regular;
+color: $B200;
+
+/* Label Asterisk */
+color: $R300;
+```
+
 
 
