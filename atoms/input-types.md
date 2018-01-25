@@ -8,6 +8,8 @@ All input fields have the same height but they differ in width size which separa
 
 Labels are used inline before all text inputs, text areas and drop-downs. For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\). The max width of labels is 380px.
 
+##### Size
+
 ![](/assets/atoms/intpu-types-labels-size.png)
 
 ```
