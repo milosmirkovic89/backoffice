@@ -1,4 +1,4 @@
-# Introduction the Design System {#plasma}
+# Introducing the Design System {#plasma}
 
 Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible. This is the heart and primary value of design systems.
 
