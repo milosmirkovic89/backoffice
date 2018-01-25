@@ -18,19 +18,19 @@ Sidebar icons fall into the group of medium icons that contain 24x24px container
 
 ##### Default state
 
-Color: Black 200
+Color: $B200
 
 ![](/assets/foundations/iconography-sidebar-icons.png)
 
 ##### On-hover state
 
-Color: Shade 500
+Color: $S500
 
 ![](/assets/foundations/iconography-sidebar-icons-on-hover.png)
 
 ##### On-focus state
 
-Color: Green 300
+Color: $G300
 
 ![](/assets/foundations/iconography-sidebar-icons-on-focus.png)
 
@@ -46,7 +46,7 @@ UI icons fall into the group of small icons that contain 16x16px container. Thes
 
 ### Arrow icons
 
-Arrow icons fall into the group of small icons that contain 16x16px container. These icons are used in four colors: **Shade 200**, **Shade 500**, **Black 100** and **Black 200**.
+Arrow icons fall into the group of small icons that contain 16x16px container. These icons are used in four colors: **$S200**, **$S500**, **$B100** and **$B200**.
 
 ![](/assets/foundations/iconography-arrows.png)
 
