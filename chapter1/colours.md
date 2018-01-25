@@ -2,6 +2,8 @@
 
 The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest\). When using Back Office colors start with the 300 weight then go up or down in weight \(except _Shade_ and _Black_\).
 
+**Note:** Each color has a short name \(third row\) which will be used across the design system.
+
 ##### Green
 
 ![](/assets/foundations/color-Green.png)
@@ -31,16 +33,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 | Orange 100 | Orange 200 | Orange 300 | Orange 400 | Orange 500 |
 | :--- | :--- | :--- | :--- | :--- |
 | \#FFF0D9 | \#FFE0B2 | \#FF9800 | \#E68A00 | \#CC7A00 |
-
----
-
-##### Yellow
-
-![](/assets/foundations/color-Yellow.png)
-
-| Yellow 100 | Yellow 200 | Yellow 300 | Yellow 400 | Yellow 500 |
-| :--- | :--- | :--- | :--- | :--- |
-| \#FFFDE2 | \#FFF9C4 | \#FFEB3B | \#E6D436 | \#CCBC30 |
+| $O100 | $O200 | $O300 | $O400 | $O500 |
 
 ---
 
@@ -51,6 +44,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 | Shade 100 | Shade 200 | Shade 300 | Shade 400 | Shade 500 |
 | :--- | :--- | :--- | :--- | :--- |
 | \#FFFFFF | \#F0F0F0 | \#E0E0E0 | \#D0D0D0 | \#C0C0C0 |
+| $S100 | $S200 | $S300 | $S400 | $S500 |
 
 ---
 
@@ -61,6 +55,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 | Black 100 | Black 200 | Black 300 | Black 400 | Black 500 |
 | :--- | :--- | :--- | :--- | :--- |
 | \#909090 | \#707070 | \#505050 | \#202020 | \#101010 |
+| $B100 | $B200 | $B300 | $B400 | $B500 |
 
 
 
