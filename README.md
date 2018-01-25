@@ -1,4 +1,4 @@
-# Introduction {#plasma}
+# Introduction the Design System {#plasma}
 
 Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible. This is the heart and primary value of design systems.
 
@@ -25,6 +25,4 @@ Inconsistent interface conventions hinder usability. When CSS for countless uniq
 [Design System Handbook](https://www.designbetter.co/design-systems-handbook)
 
 [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/)
-
-
 
