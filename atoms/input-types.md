@@ -10,7 +10,7 @@ Labels are used inline before all text inputs, text areas and drop-downs. For el
 
 ##### Size
 
-![](/assets/atoms/intpu-types-labels-size.png)
+![](/assets/atoms/intput-types-labels.png)
 
 ```
 /* Label */
@@ -18,6 +18,7 @@ max-width: 380px;
 height: 40px;
 font-family: Open Sans;
 font-weight: Regular;
+line-height: 20px;
 color: $B200;
 
 /* Label Asterisk */
