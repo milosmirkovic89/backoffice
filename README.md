@@ -1,12 +1,14 @@
 # Introduction {#plasma}
 
-Trusted by millions, Trello is a visual collaboration tool that creates a shared perspective on any project. Trello’s boards, lists, and cards enable you to organize and prioritize your personal and work life in a fun, flexible, and rewarding way.
+Design systems enable teams to build better products faster by making design reusable—reusability makes scale possible. This is the heart and primary value of design systems.
 
-At Trello, we believe the best way to get things done is by taking each challenge on step-by-step, focusing on what can be achieved today while keeping an eye on the goals of tomorrow, and beyond. That way you never get so deep in the weeds that you lose sight of the big picture. We believe in living with perspective, in every sense.
+##### Components
 
-Trello was created to deliver an invaluable visual perspective, no matter what you’re working on. There’s no substitute for the sense of clarity and control you get when you see a big, intimidating project broken down into individual, achievable goals.
+**A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.**
 
-Trello accomplishes this with its intuitive boards, lists, and cards that strip away the inessential, enabling individuals and teams to focus on what really matters.
+Components are portions of reusable code within your system and they serve as the building blocks of your application’s interface. Components range in complexity. Reducing components to a single function, like a button or a drop down increases flexibility, making them more reusable. More complex components, like tables for specific types of data, can serve their use cases well, but this complexity limits the number of applicable scenarios. The more reusable your components are, the less you need to maintain, and the easier scale becomes.
 
-This works for everything, from planning a family reunion, to launching a new app, to building a new kitchen. Perspective enables individuals and teams to work together at their highest levels.
+
+
+
 
