@@ -10,19 +10,19 @@ Components are portions of reusable code within your system and they serve as th
 
 ### The value of design systems
 
-#### Manage your debt
+##### Manage your debt
 
 As applications and their teams age, they build debt. Not financial debt, but technical and design debt. Debt is acquired by building for the short-term. Design debt is made up of an overabundance of non-reusable and inconsistent styles and conventions, and the interest is the impossible task of maintaining them. Over time, the accumulation of this debt becomes a great weight that slows growth. The act of creation does not inherently create debt—just like spending money doesn’t inherently create financial debt. But using a design system will keep you on budget by keeping your design and code overhead low, while still allowing you to grow and evolve your application.
 
-#### Prototype faster
+##### Prototype faster
 
 Working within an existing design system allows you to piece together flows and interactions as quickly as pulling LEGO blocks from a bin. This allows you to build an endless amount of prototypes and variants for experimentation, helping your team gain insights and data fast.
 
-#### Iterate more quickly
+##### Iterate more quickly
 
 Whether evolving the style of your UI or making UX changes to a flow, using a design system reduces effort from hundreds of lines of code to as little as a few characters. This makes iterations quick and painless, and experimentation much faster.
 
-#### Improve usability
+##### Improve usability
 
 Inconsistent interface conventions hinder usability. When CSS for countless unique interface elements and their interactions increase, so does cognitive load and page weight. This makes for a terrible user experience. It can also create conflicting CSS and JavaScript, potentially breaking your app. By using a design system, you’re able to avoid these conflicts by building a holistic library of components, instead of per page, which means you’ll spend less time in quality assurance.
 
