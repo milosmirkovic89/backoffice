@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Foundations](chapter1.md)
+* [Foundations](assets/foundations/README.md)
   * [Color](foundations/colors.md)
   * [Iconography](foundations/iconography.md)
   * [Typography](foundations/typography.md)
