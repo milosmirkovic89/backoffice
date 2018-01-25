@@ -2,7 +2,7 @@
 
 The Back Office color palette comes with 5 different weights for each hue, ranging from 100 \(lightest\) to 500 \(darkest\). When using Back Office colors start with the 300 weight then go up or down in weight \(except _Shade_ and _Black_\).
 
-#### Green
+##### Green
 
 ![](/assets/foundations/color-Green.png)
 
@@ -12,7 +12,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-#### Red
+##### Red
 
 ![](/assets/foundations/color-Red.png)
 
@@ -22,7 +22,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-#### Orange
+##### Orange
 
 ![](/assets/foundations/color-Orange.png)
 
@@ -32,7 +32,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-#### Yellow
+##### Yellow
 
 ![](/assets/foundations/color-Yellow.png)
 
@@ -42,7 +42,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-#### Shade
+##### Shade
 
 ![](/assets/foundations/color-Shade.png)
 
@@ -52,7 +52,7 @@ The Back Office color palette comes with 5 different weights for each hue, rangi
 
 ---
 
-#### Black
+##### Black
 
 ![](/assets/foundations/color-Black.png)
 
