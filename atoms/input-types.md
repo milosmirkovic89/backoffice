@@ -34,7 +34,7 @@ Text inputs are used for simple text fields such as name, email, number or passw
 ![](/assets/atoms/input-types-text-input-states.png)
 
 ```
-/* Text input */
+/* Default */
 background-color: $S100;
 height: 40px;
 padding: 0 16px;
@@ -44,6 +44,41 @@ font-family: Open Sans;
 font-weight: Regular;
 font-size: 13px;
 color: $B100;
+
+/* On hover */
+box-shadow: 1px 1px 4px 0 $S300;
+
+/* On focus */
+border: 1px solid $G200;
+background-color: $S200;
+font-weight: Semibold;
+color: $B300;
+
+/* Filled out */
+font-weight: Semibold;
+color: $B300;
+
+/* Disabled */
+opacity: 50%;
+
+/* Error state */
+border: 1px solid $R300;
+background-color: $R100;
+
+/* Error state icon */
+color: $R300;
+
+/* Error state message */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $R300;
+
+/* Hint message */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $B200;
 ```
 
 ### Labels
