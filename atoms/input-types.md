@@ -4,6 +4,20 @@ All input fields have the same height but they differ in width size which separa
 
 **Note:** All CSS shown is for guiding purposes, it's not absolute.
 
+### Inputs
+
+Text inputs are used for simple text fields such as name, email, number or password inputs, which all use the same text input style. 
+
+![](/assets/atoms/intput-types-input-sizes.png)
+
+
+
+
+
+
+
+
+
 ### Labels
 
 Labels are used inline before all text inputs, text areas and drop-downs. For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\). The max width of labels is 380px.
@@ -22,6 +36,8 @@ color: $B200;
 /* Label Asterisk */
 color: $R300;
 ```
+
+
 
 
 
