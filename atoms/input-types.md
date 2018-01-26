@@ -4,19 +4,26 @@ All input fields have the same height but they differ in width size which separa
 
 **Note:** All CSS shown is for guiding purposes, it's not absolute.
 
-### Inputs
+### Text inputs
 
-Text inputs are used for simple text fields such as name, email, number or password inputs, which all use the same text input style. 
+Text inputs are used for simple text fields such as name, email, number or password inputs, which all use the same text input style. The image below shows how to use the input sizes depending on how much input fields we need in one row.
+
+##### Sizing
 
 ![](/assets/atoms/intput-types-input-sizes.png)
 
-
-
-
-
-
-
-
+```
+/* Text input */
+background-color: $S100;
+height: 40px;
+padding: 0 16px;
+border: 1px solid $S400;
+border-radius: 3px;
+font-family: Open Sans;
+font-weight: Regular;
+font-size: 13px;
+color: $B100;
+```
 
 ### Labels
 
@@ -36,8 +43,6 @@ color: $B200;
 /* Label Asterisk */
 color: $R300;
 ```
-
-
 
 
 
