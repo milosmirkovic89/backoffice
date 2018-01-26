@@ -17,6 +17,7 @@
 .markdown-section a {color: #4CAF50;}
 .book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {line-height: 1.5em;}
 .gitbook-link {display:none;}
+.markdown-section img {margin-top: 10px;}
 
 #book-search-input {border-bottom: 1px solid #e0e0e0; border-top: 1px solid #e0e0e0;}
 #book-search-input input, #book-search-input input:focus, #book-search-input input:hover {padding: 7px 12px;}
