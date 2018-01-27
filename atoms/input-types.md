@@ -86,6 +86,8 @@ color: $B200;
 
 Useful to add extra clarity as to what is expected of a text input.
 
+##### Prefix
+
 ![](/assets/atoms/input-types-prefix-states.png)
 
 ```
@@ -100,7 +102,9 @@ font-size: 13px;
 color: $B100;
 ```
 
-##### ![](/assets/atoms/input-types-suffix-states.png)
+##### Suffix
+
+![](/assets/atoms/input-types-suffix-states.png)
 
 ```
 /* Suffix area */
