@@ -27,9 +27,7 @@ width: 116px;
 width: 83px;
 ```
 
-### Inputs
-
-##### Text inputs
+### Text inputs
 
 Text inputs are used for simple text fields such as name, email, number or password inputs.
 
@@ -82,7 +80,7 @@ font-size: 11px;
 color: $B200;
 ```
 
-##### Prefix & suffix inputs
+### Prefix & suffix inputs
 
 Useful to add extra clarity as to what is expected of a text input.
 
@@ -114,7 +112,7 @@ font-size: 13px;
 color: $B100;
 ```
 
-##### Value inputs
+### Value inputs
 
 Value inputs are used for number fields only such as currency amounts. The font size is the only difference compared to text inputs.
 
