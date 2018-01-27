@@ -1,6 +1,6 @@
 # Input types
 
-Below are specs for all the form input types. Each input has up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error.
+There are 4 types of input fields: **Text inputs**, **Prefix & suffix**, **Value inputs** and **Search inputs**. Each of them has up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error.
 
 **Note:** All CSS shown is for guiding purposes, it's not absolute.
 
