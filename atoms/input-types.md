@@ -32,7 +32,7 @@ width: 83px;
 
 ### Text inputs
 
-Text inputs are used for simple text fields such as name, email, number or password inputs.
+Text inputs are used for simple text fields such as name, email address, phone number, etc.
 
 ![](/assets/atoms/input-types-text-input-states.png)
 
@@ -125,7 +125,7 @@ color: $B100;
 
 ### Value inputs
 
-Value inputs are used for number fields only such as currency amounts. The font size is the only difference compared to text inputs.
+Value inputs are used for currency amount fields only. The increased font size of 2px is the only difference compared to text inputs.
 
 ![](/assets/atoms/input-types-value-input-states.png)
 
