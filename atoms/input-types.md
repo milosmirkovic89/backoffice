@@ -6,7 +6,7 @@ Below are specs for all the form input types. Each input has up to 7 states, inc
 
 ### Sizing
 
-All input fields have the same height but they differ in width size which separate them in 5 group sizes: **XL**, **L**, **M**, **S** and **XS**. Input fields are mostly used in forms so the group sizes are designed to fit them perfectly. The total width of the input fields must be 380px, therefore use input sizes depending on how much input fields are needed in a row.
+Based on their width size, input types are categorized in 5 groups: **XL**, **L**, **M**, **S** and **XS**. Input types are mostly used in forms so the group sizes are designed to fit them perfectly. The total width of the input types per row must be 380px, therefore use width sizes depending on how much input fields are needed in a row.
 
 ![](/assets/atoms/input-types-input-sizes.png)
 
@@ -28,8 +28,6 @@ width: 83px;
 ```
 
 ### Text inputs
-
-##### Default
 
 Text inputs are used for simple text fields such as name, email, number or password inputs.
 
@@ -84,7 +82,7 @@ color: $B200;
 
 ---
 
-##### Prefix & suffix
+### Prefix & suffix
 
 Useful to add extra clarity as to what is expected of a text input.
 
@@ -118,7 +116,7 @@ color: $B100;
 
 ---
 
-##### Value
+### Value inputs
 
 Value inputs are used for number fields only such as currency amounts. The font size is the only difference compared to text inputs.
 
@@ -128,6 +126,8 @@ Value inputs are used for number fields only such as currency amounts. The font 
 /* Value Input */
 font-size: 15px;
 ```
+
+---
 
 ### Labels
 
