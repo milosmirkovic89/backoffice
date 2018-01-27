@@ -7,7 +7,7 @@ There are 4 types of buttons: **Primary**, **Positive, Negative** and **Neutral*
 #### General guidelines
 
 * Montserrat typeface should be always used for the text on buttons.
-* There should be no icons on any type of the buttons.
+* There should be no icons on any type of buttons.
 * There is a subtle fade transition from normal to hover state on buttons \(_transition: all 0.2s;_\).
 * Loading animation \(spinner icon\) on buttons found [here](https://projects.lukehaas.me/css-loaders/).
 
