@@ -63,7 +63,6 @@ opacity: 50%;
 
 /* Error state */
 border: 1px solid $R300;
-background-color: $R100;
 
 /* Error state icon */
 color: $R300;
