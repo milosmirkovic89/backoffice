@@ -82,6 +82,8 @@ font-size: 11px;
 color: $B200;
 ```
 
+---
+
 ##### Prefix & suffix inputs
 
 Useful to add extra clarity as to what is expected of a text input.
@@ -113,6 +115,8 @@ font-weight: Semibold;
 font-size: 13px;
 color: $B100;
 ```
+
+---
 
 ##### Value inputs
 
