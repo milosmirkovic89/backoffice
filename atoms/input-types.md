@@ -150,12 +150,14 @@ background-color: $S200;
 height: 40px;
 width: 48px;
 border-radius: 0 3px 3px 0;
-
-/* Search button icon */
 color: $S500;
-width: 16px;
-height: 16px;
+
+/* On focus */
+background-color: $G300;
+color: $G200;
 ```
+
+---
 
 ### Labels
 
