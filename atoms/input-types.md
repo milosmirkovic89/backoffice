@@ -105,6 +105,8 @@ font-size: 13px;
 color: $B100;
 ```
 
+---
+
 ##### Suffix
 
 ![](/assets/atoms/input-types-suffix-states.png)
