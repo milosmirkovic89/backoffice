@@ -138,6 +138,25 @@ font-size: 15px;
 
 ---
 
+### Search inputs
+
+Search inputs use the same style as text inputs with additional search button on the right side.
+
+![](/assets/atoms/input-types-search-states.png)
+
+```
+/* Search button */
+background-color: $S200;
+height: 40px;
+width: 48px;
+border-radius: 0 3px 3px 0;
+
+/* Search button icon */
+color: $S500;
+width: 16px;
+height: 16px;
+```
+
 ### Labels
 
 Labels are used inline before all text inputs, text areas and drop-downs. For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\). The max width of labels is 380px.
