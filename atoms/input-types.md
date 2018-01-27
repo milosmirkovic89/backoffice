@@ -27,7 +27,9 @@ width: 116px;
 width: 83px;
 ```
 
-### Text inputs
+### Inputs
+
+##### Text inputs
 
 Text inputs are used for simple text fields such as name, email, number or password inputs.
 
@@ -80,7 +82,39 @@ font-size: 11px;
 color: $B200;
 ```
 
-### Value inputs
+##### Prefix & suffix inputs
+
+Useful to add extra clarity as to what is expected of a text input.
+
+![](/assets/atoms/input-types-prefix-states.png)
+
+```
+/* Prefix area */
+background-color: $S200;
+height: 38px;
+padding: 0 16px;
+border-radius: 3px 0 0 3px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+color: $B100;
+```
+
+##### ![](/assets/atoms/input-types-suffix-states.png)
+
+```
+/* Prefix area */
+background-color: $S200;
+height: 38px;
+padding: 0 16px;
+border-radius: 0 3px 3px 0;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+color: $B100;
+```
+
+##### Value inputs
 
 Value inputs are used for number fields only such as currency amounts. The font size is the only difference compared to text inputs.
 
