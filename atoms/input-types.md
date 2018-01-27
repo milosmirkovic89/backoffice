@@ -103,7 +103,7 @@ color: $B100;
 ##### ![](/assets/atoms/input-types-suffix-states.png)
 
 ```
-/* Prefix area */
+/* Suffix area */
 background-color: $S200;
 height: 38px;
 padding: 0 16px;
