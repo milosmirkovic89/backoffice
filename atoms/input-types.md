@@ -82,7 +82,7 @@ color: $B200;
 
 ### Value inputs
 
-Value inputs are used for only number fields such as currency amounts. The font size is the only difference compared to text inputs.
+Value inputs are used for number fields only such as currency amounts. The font size is the only difference compared to text inputs.
 
 ![](/assets/atoms/input-types-value-input-states.png)
 
