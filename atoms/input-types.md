@@ -43,7 +43,7 @@ border-radius: 3px;
 font-family: Open Sans;
 font-weight: Regular;
 font-size: 13px;
-color: $B100;
+color: $S500;
 
 /* On hover */
 box-shadow: 1px 1px 4px 0 $S300;
@@ -82,13 +82,12 @@ color: $B200;
 
 ### Value inputs
 
-Value inputs are used for only number fields such as currency amounts. The font weight and size are the only difference compared to text inputs.
+Value inputs are used for only number fields such as currency amounts. The font size is the only difference compared to text inputs.
 
 ![](/assets/atoms/input-types-value-input-states.png)
 
 ```
 /* Value Input */
-font-weight: Semibold;
 font-size: 15px;
 ```
 
