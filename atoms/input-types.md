@@ -1,12 +1,15 @@
 # Input types
 
-There are 4 types of input fields: **Text inputs**, **Prefix & suffix**, **Value inputs** and **Search inputs**. Each of them has up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error.
+There are 4 types of input fields: **Text inputs**, **Prefix & suffix**, **Value inputs** and **Search inputs**. Each of them has up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error. All input types have the height size of 40px and they come in 5 different width sizes.
 
 **Note:** All CSS shown is for guiding purposes, it's not absolute.
 
-### Sizing
+#### Spacing guidelines
 
-Based on their width size, input types are categorized in 5 groups: **XL**, **L**, **M**, **S** and **XS**. Input types are mostly used in forms so the group sizes are designed to fit them perfectly. The total width of the input types per row must be 380px, therefore use width sizes depending on how much input fields are needed in a row.
+* Based on their width size, input types are categorized in 5 groups: **XL**, **L**, **M**, **S** and **XS**.
+* Input types are mostly used in forms so the group sizes are designed to fit them perfectly.
+* The total width of the input types per row must be 380px, therefore use width sizes depending on how much input fields are needed in a single row.
+* The margin between input types in a single row must be 16px.
 
 ![](/assets/atoms/input-types-input-sizes.png)
 
