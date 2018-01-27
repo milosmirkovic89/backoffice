@@ -94,7 +94,7 @@ Useful to add extra clarity as to what is expected of a text input.
 ![](/assets/atoms/input-types-prefix-states.png)
 
 ```
-/* Prefix area */
+/* Prefix */
 background-color: $S200;
 height: 38px;
 padding: 0 16px;
@@ -112,7 +112,7 @@ color: $B100;
 ![](/assets/atoms/input-types-suffix-states.png)
 
 ```
-/* Suffix area */
+/* Suffix */
 background-color: $S200;
 height: 38px;
 padding: 0 16px;
@@ -132,7 +132,7 @@ Value inputs are used for currency amount fields only. The increased font size o
 ![](/assets/atoms/input-types-value-input-states.png)
 
 ```
-/* Value Input */
+/* Value input */
 font-size: 15px;
 ```
 
@@ -145,15 +145,19 @@ Search inputs use the same style as text inputs with additional search button on
 ![](/assets/atoms/input-types-search-states.png)
 
 ```
-/* Search button */
+/* Search input */
 background-color: $S200;
 height: 40px;
 width: 48px;
 border-radius: 0 3px 3px 0;
+
+/* Search icon */
 color: $S500;
 
-/* On focus */
+/* Search input on focus */
 background-color: $G300;
+
+/* Search icon on focus */
 color: $G200;
 ```
 
