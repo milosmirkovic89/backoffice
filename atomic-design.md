@@ -1,6 +1,6 @@
 # Atomic design
 
-The process of building the design system for Back Office application is base on **Atomic Design** methodology which is composed of five distinct stages working together to create interface design systems in a more deliberate and hierarchical manner. The five stages of Atomic Design are: **Atoms**, **Molecules**, **Organisms**, **Templates **and **Pages**.
+The process of building the design system for Back Office application is based on **Atomic Design** methodology which is composed of five distinct stages working together to create interface design systems in a more deliberate and hierarchical manner. The five stages of Atomic Design are: **Atoms**, **Molecules**, **Organisms**, **Templates **and **Pages**.
 
 ![](/assets/atomic-design/atomic-design.png)
 
