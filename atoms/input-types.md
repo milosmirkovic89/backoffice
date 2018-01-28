@@ -94,6 +94,8 @@ Useful to add extra clarity as to what is expected of a text input.
 ![](/assets/atoms/input-types-prefix-states.png)
 
 ```
+/* Differences compared to Text input CSS */
+
 /* Prefix */
 background-color: $S200;
 height: 38px;
@@ -112,6 +114,8 @@ color: $B100;
 ![](/assets/atoms/input-types-suffix-states.png)
 
 ```
+/* Differences compared to Text input CSS */
+
 /* Suffix */
 background-color: $S200;
 height: 38px;
@@ -132,6 +136,8 @@ Value inputs are used for currency amount fields only. The increased font size o
 ![](/assets/atoms/input-types-value-input-states.png)
 
 ```
+/* Differences compared to Text input CSS */
+
 /* Value input */
 font-size: 15px;
 ```
@@ -145,6 +151,8 @@ Search inputs use the same style as text inputs with additional search button on
 ![](/assets/atoms/input-types-search-states.png)
 
 ```
+/* Differences compared to Text input CSS */
+
 /* Search input */
 background-color: $S200;
 height: 40px;
@@ -163,7 +171,30 @@ color: $G200;
 
 ---
 
-### Text area
+### Textarea
 
 Used when at least a sentence of text is expected or necessary to be entered. Consider setting a minimum 4 rows. This increases the height of the text area to 106px, making it clearer to the user that they can write more. When the expectation is for the user to write significantly more, consider setting the the number of rows to 10\(+\) so they know they can write more, and there’s less vertical scroll for them as they type.
+
+![](/assets/atoms/input-types-text-area-states.png)
+
+```
+/* Differences compared to Text input CSS */
+
+/* Default */
+min-height: 106px;
+padding: 11px 16px;
+line-height: 21px;
+color: $S500;
+
+/* On focus */
+font-weight: Regular;
+color: $B200;
+
+/* Filled out */
+font-weight: Regular;
+color: $B200;
+padding: 11px 16px;
+```
+
+
 
