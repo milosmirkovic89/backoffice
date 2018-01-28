@@ -56,9 +56,5 @@ Arrow icons fall into the group of small icons that contain 16x16px container. T
 
 ![](/assets/foundations/iconography-arrows.png)
 
----
-
-### 
-
 
 
