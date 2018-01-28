@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [The process](the-process.md)
+* [Atomic Design](the-process.md)
 * [Foundations](/foundations.md#foundations)
   * [Color](foundations/colors.md)
   * [Iconography](foundations/iconography.md)
