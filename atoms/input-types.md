@@ -163,24 +163,9 @@ color: $G200;
 
 ---
 
-### Labels
+### Text area
 
-Labels are used inline before all text inputs, text areas and drop-downs. For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\). The max width of labels is 380px.
-
-![](/assets/atoms/input-types-labels.png)
-
-```
-/* Label */
-max-width: 380px;
-height: 40px;
-font-family: Open Sans;
-font-weight: Regular;
-line-height: 20px;
-color: $B200;
-
-/* Label Asterisk */
-color: $R300;
-```
+Used when at least a sentence of text is expected or necessary to be entered. Consider setting a minimum 4 rows. This increases the height of the text area \(to roughly 100px\), making it clearer to the user that they can write more. When the expectation is for the user to write significantly more, consider setting the the number of rows to 10\(+\) so they know they can write more, and there’s less vertical scroll for them as they type.
 
 
 
