@@ -18,8 +18,6 @@ All icons are available in SVG and PNG formats and can be viewed and downloaded 
 
 **Note:** Use SVG format whenever possible.
 
----
-
 ### Sidebar icons
 
 Sidebar icons fall into the group of medium icons that contain 24x24px container. These icons have three different states: **default**, **on-hover** and **on-focus **state.
