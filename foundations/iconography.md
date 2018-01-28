@@ -2,13 +2,21 @@
 
 Icons are visual representations of commands, files, devices, directories, or common actions and are used to provide visual context and enhance usability. They should be simple, yet bold enough to grab attention and leave a lasting impression.
 
-### Sizing
+#### Spacing guidelines
 
 There are two major icon size groups: small and medium. Small has a container of 16x16px and medium has a container of 24x24px.
 
 **Note:** Some icons are smaller than its container.
 
 ![](/assets/foundations/iconography-sizing-example.png)
+
+#### Download
+
+All icons are available in SVG and PNG formats and can be viewed and downloaded in Google Drive shared folder.
+
+[Download Icons](#)
+
+**Note:** Use SVG format whenever possible.
 
 ---
 
@@ -52,11 +60,7 @@ Arrow icons fall into the group of small icons that contain 16x16px container. T
 
 ---
 
-### Downloads
+### 
 
-All icons are available in SVG and PNG formats and can be viewed and downloaded in Google Drive shared folder.
 
-[Download Icons](#)
-
-**Note:** Use SVG format whenever possible.
 
