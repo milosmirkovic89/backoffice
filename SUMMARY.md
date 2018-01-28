@@ -5,7 +5,7 @@
   * [Color](foundations/colors.md)
   * [Iconography](foundations/iconography.md)
   * [Typography](foundations/typography.md)
-* [Atoms](atoms.md)
+* [Atoms](#)
   * [Buttons](atoms/buttons.md)
   * [Input types](atoms/input-types.md)
 * [Molecules](molecules.md)
