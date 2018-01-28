@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Foundations](#)
+* [Foundations](/foundations.md#foundations)
   * [Color](foundations/colors.md)
   * [Iconography](foundations/iconography.md)
   * [Typography](foundations/typography.md)
