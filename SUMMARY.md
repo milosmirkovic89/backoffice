@@ -12,4 +12,6 @@
 * [Molecules](molecules.md)
   * [Forms](molecules/forms.md)
 * [Organisms](organisms.md)
+* [Templates](templates.md)
+* [Pages](pages.md)
 
