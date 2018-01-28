@@ -1,6 +1,6 @@
 # Input types
 
-There are 4 types of input fields: **Text inputs**, **Prefix & suffix**, **Value inputs** and **Search inputs**. Each of them has up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error. All input types have the height size of 40px and they come in 5 different width sizes.
+There are 5 types of input fields: **Text inputs**, **Prefix & suffix**, **Value inputs,** **Search inputs **and** Textarea**. Each of them has up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error. All input types have the height size of 40px and they come in 5 different width sizes.
 
 **Note:** All CSS shown is for guiding purposes, it's not absolute.
 
