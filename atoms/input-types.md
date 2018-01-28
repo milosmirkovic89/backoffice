@@ -165,7 +165,5 @@ color: $G200;
 
 ### Text area
 
-Used when at least a sentence of text is expected or necessary to be entered. Consider setting a minimum 4 rows. This increases the height of the text area \(to roughly 100px\), making it clearer to the user that they can write more. When the expectation is for the user to write significantly more, consider setting the the number of rows to 10\(+\) so they know they can write more, and there’s less vertical scroll for them as they type.
-
-
+Used when at least a sentence of text is expected or necessary to be entered. Consider setting a minimum 4 rows. This increases the height of the text area to 106px, making it clearer to the user that they can write more. When the expectation is for the user to write significantly more, consider setting the the number of rows to 10\(+\) so they know they can write more, and there’s less vertical scroll for them as they type.
 
