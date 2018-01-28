@@ -4,5 +4,5 @@ Templates consist mostly of groups of organisms stitched together to form pages.
 
 ![](/assets/atomic-design/templates.png)
 
-Learn more about [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+Learn more about Atomic Design
 
