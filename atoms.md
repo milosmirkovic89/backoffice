@@ -4,5 +4,5 @@ Atoms serve as the building blocks that comprise all user interfaces. They demon
 
 ![](/assets/atomic-design/atoms.png)
 
-Continue reading: [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+Learn more about [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
 
