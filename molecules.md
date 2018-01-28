@@ -2,7 +2,7 @@
 
 **Molecules are groups of atoms bonded together and are the smallest fundamental units of a compound. These molecules take on their own properties and serve as the backbone of our design systems.**
 
-For example, a form label, input or button aren’t too useful by themselves, but combine them together as a form and now they can actually do something together.
+![](/assets/atomic-design/molecules.png)
 
 In chemistry, molecules are groups of atoms bonded together that take on distinct new properties. For instance, water molecules and hydrogen peroxide molecules have their own unique properties and behave quite differently, even though they’re made up of the same atomic elements \(hydrogen and oxygen\). In interfaces, molecules are relatively simple groups of UI elements functioning together as a unit. For example, a form label, search input, and button can join together to create a search form molecule.
 
