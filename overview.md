@@ -2,7 +2,7 @@
 
 The process of building the design system for Back Office application is based on **Atomic Design** methodology which is composed of five distinct stages working together to create interface design systems in a more deliberate and hierarchical manner. The five stages of Atomic Design are: **Atoms**, **Molecules**, **Organisms**, **Templates **and **Pages**.
 
-![](/assets/atomic-design/atomic-design.png)
+![](/assets/overview/atomic-design.png)
 
 Atomic design is a design process created by [Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/) and it is inspired by chemistry. In the natural world, atomic elements combine together to form molecules. These molecules can combine further to form relatively complex organisms.
 
