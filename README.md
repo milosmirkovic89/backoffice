@@ -30,7 +30,7 @@ Inconsistent interface conventions hinder usability. When CSS for countless uniq
 
 ##### Further reading:
 
-[Design System Handbook](https://www.designbetter.co/design-systems-handbook)
+[Design system handbook](https://www.designbetter.co/design-systems-handbook)
 
 [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/)
 
