@@ -40,5 +40,72 @@ width: 83px;
 
 ![](/assets/atoms/dropdowns-classic-single-select-states.png)
 
+```
+/* Default */
+background-color: $S200;
+height: 40px;
+padding: 0 16px;
+border: 1px solid $S400;
+border-radius: 3px;
+font-family: Open Sans;
+font-weight: Regular;
+font-size: 13px;
+color: $B100;
+
+/* Default arrow*/
+color: $B100;
+margin-left: 16px;
+
+/* On hover */
+box-shadow: 1px 1px 4px 0 $S300;
+
+/* On focus */
+border: 1px solid $G200;
+
+/* On focus list item */
+height: 48px;
+padding-left: 16px;
+border-bottom: 1px solid $S400;
+background: $S100;
+font-family: Open Sans;
+font-weight: Semibold;
+color: $B200;
+
+/* On focus list item hover */
+background: $S200;
+
+/* On focus list base */
+border: 1px solid $S400;
+box-shadow: 2px 2px 4px 0 #E0E0E0;
+border-radius: 3px;
+
+/* Filled out */
+font-weight: Semibold;
+color: $B300;
+
+/* Disabled */
+opacity: 50%;
+
+/* Error state */
+border: 1px solid $R300;
+
+/* Error state icon */
+color: $R300;
+
+/* Error state message */
+margin-top: 8px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $R300;
+
+/* Hint message */
+margin-top: 8px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $B200;
+```
+
 
 
