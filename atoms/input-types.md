@@ -71,12 +71,14 @@ border: 1px solid $R300;
 color: $R300;
 
 /* Error state message */
+margin-top: 8px;
 font-family: Open Sans;
 font-weight: Semibold;
 font-size: 11px;
 color: $R300;
 
 /* Hint message */
+margin-top: 8px;
 font-family: Open Sans;
 font-weight: Semibold;
 font-size: 11px;
