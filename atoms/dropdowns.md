@@ -30,5 +30,13 @@ width: 116px;
 width: 83px;
 ```
 
+### Single-select
 
+* Used when there are multiple choices, but only one option can be selected.
+* Consider using radio buttons, as opposed to a select if there are only a couple/few options, or a simple either/or choice.
+* A select also uses less space than a group of radio buttons — something to consider if your form is long, or space is limited.
+
+##### Classic list
+
+![](/assets/atoms/dropdowns-classic-single-select-states.png)
 
