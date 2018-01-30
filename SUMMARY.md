@@ -9,6 +9,7 @@
 * [Atoms](atoms.md)
   * [Buttons](atoms/buttons.md)
   * [Input types](atoms/input-types.md)
+  * [Dropdowns](atoms/dropdowns.md)
 * [Molecules](molecules.md)
   * [Forms](molecules/forms.md)
 * [Organisms](organisms.md)

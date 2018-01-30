@@ -8,7 +8,7 @@ There are 5 types of input fields: **Text inputs**, **Prefix & suffix**, **Value
 
 * Based on their width size, input types are categorized in 5 groups: **XL**, **L**, **M**, **S** and **XS**.
 * Input types are mostly used in forms so the group sizes are designed to fit them perfectly.
-* The total width of the input types per row must be 380px, therefore use width sizes depending on how much input fields are needed in a single row.
+* In forms, the total width of the input types per row must be 380px, therefore use width sizes depending on how much input fields are needed in a single row.
 * The margin between input types in a single row must be 16px.
 
 ![](/assets/atoms/input-types-input-sizes.png)
