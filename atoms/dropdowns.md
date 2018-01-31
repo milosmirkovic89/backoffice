@@ -116,7 +116,7 @@ color: $B200;
 ![](/assets/atoms/dropdowns-currency-states.png)
 
 ```
-/* Currency list CSS is largely the same as a classic list, with the below differences */
+/* Differences compared to the Classic list */
 
 /* On focus / flag image */
 width: 24px;
@@ -156,7 +156,7 @@ color: $B300;
 ![](/assets/atoms/dropdowns-multi-select-states.png)
 
 ```
-/* Multi-select CSS is largely the same as a Single-select, with the below differences */
+/* Differences compared to the Single-select */
 
 /* On focus / default / checkbox base */
 width: 24px;
