@@ -1,6 +1,6 @@
 # Dropdowns
 
-Dropdown list menus can be categorized in two main groups: **Single-select** and **Multi-select** dropdowns. Both of them have up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error. All input types have the height size of 40px and they come in 5 different width sizes.
+Dropdown list menus are categorized in two main groups: **Single-select** and **Multi-select** dropdowns. Both of them have up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error. All input types have the height size of 40px and they come in 5 different width sizes.
 
 **Note:** All CSS shown is for guiding purposes, it's not absolute.
 
