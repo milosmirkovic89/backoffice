@@ -30,6 +30,8 @@ width: 116px;
 width: 83px;
 ```
 
+---
+
 ### Single-select
 
 * Used when there are multiple choices, but only one option can be selected.
@@ -116,6 +118,4 @@ color: $B200;
 * More options/tags can be added. A maximum number of options can optionally be set.
 
 ![](/assets/atoms/dropdowns-multi-select-states.png)
-
-
 
