@@ -40,7 +40,7 @@ width: 83px;
 
 ##### Classic list
 
-![](/assets/atoms/dropdowns-classic-single-select-states.png)
+![](/assets/atoms/dropdowns-single-select-states.png)
 
 ```
 /* Default */
