@@ -135,7 +135,17 @@ color: $B200;
 width: 24px;
 height: 24px;
 margin-right: 8px;
+
+/* Filled out / currency short code */
+text-align: right;
+float: right;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+color: $B300;
 ```
+
+---
 
 ### Multi-select
 
