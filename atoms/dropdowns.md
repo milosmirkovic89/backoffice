@@ -119,3 +119,40 @@ color: $B200;
 
 ![](/assets/atoms/dropdowns-multi-select-states.png)
 
+```
+Multi-select CSS is the same as Single-select for following classes:
+
+/* Default */
+/* Default arrow*/
+/* On hover */
+/* On focus */
+/* On focus list item */
+/* On focus list item hover */
+/* On focus list base */
+/* Disabled */
+/* Error state icon */
+/* Error state message */
+/* Hint message */
+
+
+
+Differences below:
+
+/* On focus / default / checkbox base */
+width: 24px;
+height: 24px;
+border: 1px solid $S400;
+border-radius: 3px;
+margin-right: 8px;
+
+
+
+
+
+/* Filled out */
+font-weight: Semibold;
+color: $B300;
+```
+
+
+
