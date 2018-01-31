@@ -6,7 +6,7 @@ Checkboxes are mostly used in forms and tables in two ways: **Single-select** \(
 
 #### General guidelines
 
-* Consider using a [_Dropdown Multi-select_](//atoms/dropdowns.html#multi-select) if there are several \(6+\) choices; something to consider if your form is long, or space is limited.
+* Consider using a [_Dropdown Multi-select_](//atoms/dropdowns.html#multi-select) if there are several \(6+\) choices; or in cases the form is long, or space is limited.
 * Checkboxes are preferable over a[ _Dropdown Multi-select_](https://www.gitbook.com/book/milosmirkovic89/back-office/edit#) when it’s important that the user sees the options available to them, to understand and consider, versus a more passive scan of their options via a multi-select.
 
 
