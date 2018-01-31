@@ -149,7 +149,8 @@ color: $B300;
 
 ### Multi-select
 
-* Used when there are multiple choices, and more than one option can be selected.
+* Consider using a Dropdown Multi-select if there are several \(6+\) choices; something to consider if your form is long, or space is limited.
+* [Checkbox Multi-select](//atoms/checkboxes.html#multi-select) are preferable over a Dropdown Multi-select when it’s important that the user sees the options available to them, to understand and consider, versus a more passive scan of their options via a multi-select.
 * Selecting an option adds a ‘tag’ for that option, which can be removed by clicking the ‘x’ icon on the tag.
 * More options/tags can be added. A maximum number of options can optionally be set.
 
