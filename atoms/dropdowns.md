@@ -66,7 +66,7 @@ border: 1px solid $G200;
 
 /* On focus list item */
 height: 48px;
-padding-left: 16px;
+padding: 0 16px 0 16px;
 border-bottom: 1px solid $S400;
 background: $S100;
 font-family: Open Sans;
@@ -111,6 +111,32 @@ color: $B200;
 
 ---
 
+##### Currency list
+
+![](/assets/atoms/dropdowns-currency-states.png)
+
+```
+/* Currency list CSS is largely the same as a classic list, with the below differences */
+
+/* On focus / flag image */
+width: 24px;
+height: 24px;
+margin-right: 8px;
+
+/* On focus / currency short code */
+text-align: right;
+float: right;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+color: $B200;
+
+/* Filled out / flag image */
+width: 24px;
+height: 24px;
+margin-right: 8px;
+```
+
 ### Multi-select
 
 * Used when there are multiple choices, and more than one option can be selected.
@@ -120,23 +146,7 @@ color: $B200;
 ![](/assets/atoms/dropdowns-multi-select-states.png)
 
 ```
-Multi-select CSS is the same as Single-select for following classes:
-
-/* Default */
-/* Default arrow*/
-/* On hover */
-/* On focus */
-/* On focus list item */
-/* On focus list item hover */
-/* On focus list base */
-/* Disabled */
-/* Error state icon */
-/* Error state message */
-/* Hint message */
-
-
-
-Differences below:
+/* Multi-select CSS is largely the same as a Single-select, with the below differences */
 
 /* On focus / default / checkbox base */
 width: 24px;
