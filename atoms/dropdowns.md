@@ -107,5 +107,15 @@ font-size: 11px;
 color: $B200;
 ```
 
+---
+
+### Multi-select
+
+* Used when there are multiple choices, and more than one option can be selected.
+* Selecting an option adds a ‘tag’ for that option, which can be removed by clicking the ‘x’ icon on the tag.
+* More options/tags can be added. A maximum number of options can optionally be set.
+
+![](/assets/atoms/dropdowns-multi-select-states.png)
+
 
 
