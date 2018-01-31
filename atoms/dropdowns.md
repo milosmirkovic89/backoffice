@@ -145,13 +145,20 @@ border: 1px solid $S400;
 border-radius: 3px;
 margin-right: 8px;
 
-
-
-
-
-/* Filled out */
+/* On focus / tags */
+height: 32px;
+padding: 0 32px 0 12px;
+border-radius: 3px;
+margin-left: 4px;
+border: 1px solid $S500;
+font-family: Open Sans;
 font-weight: Semibold;
+font-size: 13px;
 color: $B300;
+
+/* On focus / tags / remove icon */
+color: $S500;
+margin: 0 8px 0 8px;
 ```
 
 
