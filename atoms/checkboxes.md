@@ -13,6 +13,10 @@ There are two types of checboxes: **Single-select** \(without a label\) in cases
 
 #### Spacing guidelines
 
+* The width and height of the checkbox base is always 24px.
+* Multi-select checkboxes have a right margin of 8px.
+* Multi-select checkboxes have a bottom margin of 16px.
+
 ![](/assets/atoms/checkboxes-spacing.png)
 
 ### Single-select
@@ -32,7 +36,7 @@ border-radius: 3px;
 /* On hover */
 box-shadow: 1px 1px 4px 0 #E0E0E0;
 
-/* On hover */
+/* On focus */
 border: 1px solid $G200;
 
 /* Disabled */
@@ -46,4 +50,39 @@ opacity: 50%;
 Multi-select checkboxes are used when there are multiple choices, and more than one option can be selected. Like Single-select checkboxes, these ones require a submit button press as well.
 
 ![](/assets/atoms/checkboxes-multi-select-states.png)
+
+```
+/* Differences compared to the Single-select */
+
+/* Default */
+margin-right: 8px;
+margin-bottom: 16px;
+font-family: Open Sans;
+font-weight: Regular;
+font-size: 13px;
+color: $B200;
+
+/* On hover */
+color: $B300;
+
+/* On focus */
+color: $B300;
+
+/* Disabled */
+opacity: 50%;
+
+/* Error */
+border: 1px solid $G300;
+
+/* Error state message */
+margin-top: 8px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $R300;
+
+
+```
+
+
 
