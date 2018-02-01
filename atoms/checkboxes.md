@@ -14,8 +14,7 @@ There are two types of checboxes: **Single-select** \(without a label\) in cases
 #### Spacing guidelines
 
 * The width and height of the checkbox base is always 24px.
-* Multi-select checkboxes have a right margin of 8px.
-* Multi-select checkboxes have a bottom margin of 16px.
+* Checkboxes have a top, right and bottom margin of 8px.
 
 ![](/assets/atoms/checkboxes-spacing.png)
 
@@ -32,6 +31,7 @@ width: 24px;
 height: 24px;
 border: 1px solid $S400;
 border-radius: 3px;
+margin: 8px 8px 8px 0
 
 /* On hover */
 box-shadow: 1px 1px 4px 0 #E0E0E0;
@@ -80,8 +80,6 @@ font-family: Open Sans;
 font-weight: Semibold;
 font-size: 11px;
 color: $R300;
-
-
 ```
 
 
