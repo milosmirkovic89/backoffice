@@ -21,6 +21,26 @@ Single-select checkboxes are standalone and they are used as an enable/disable a
 
 ![](/assets/atoms/checkboxes-single-select-states.png)
 
+```
+/* Default */
+background: $S100;
+width: 24px;
+height: 24px;
+border: 1px solid $S400;
+border-radius: 3px;
+
+/* On hover */
+box-shadow: 1px 1px 4px 0 #E0E0E0;
+
+/* On hover */
+border: 1px solid $G200;
+
+/* Disabled */
+opacity: 50%;
+```
+
+---
+
 ### Multi-select
 
 Multi-select checkboxes are used when there are multiple choices, and more than one option can be selected. Like Single-select checkboxes, these ones require a submit button press as well.
