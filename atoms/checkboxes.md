@@ -40,7 +40,6 @@ box-shadow: 1px 1px 4px 0 $S300;
 border: 1px solid $G200;
 box-shadow: 1px 1px 4px 0 $G200;
 
-
 /* Disabled */
 opacity: 50%;
 ```

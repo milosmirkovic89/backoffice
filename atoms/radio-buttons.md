@@ -18,3 +18,51 @@ Radio buttons are mostly used when there are multiple choices, but only one opti
 
 ![](/assets/atoms/radio-buttons-states.png)
 
+```
+/* Default base */
+background: $S100;
+width: 20px;
+height: 20px;
+border: 1px solid $S400;
+border-radius: 100%;
+margin: 10px 8px 10px 0;
+
+/* Default label */
+font-family: Open Sans;
+font-weight: Regular;
+font-size: 13px;
+color: $B200;
+
+/* Default dot */
+background: $G300;
+width: 10px;
+height: 10px;
+border-radius: 100%;
+margin: 5px 0 0 5px
+
+/* On hover base */
+box-shadow: 1px 1px 4px 0 $S300;
+
+/* On hover label */
+color: $S500;
+
+/* On focus base */
+border: 1px solid $G200;
+box-shadow: 1px 1px 4px 0 $G200;
+
+/* On focus label */
+color: $S500;
+
+/* Disabled */
+opacity: 50%;
+
+/* Hint message */
+margin-top: 8px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $B300;
+```
+
+
+
