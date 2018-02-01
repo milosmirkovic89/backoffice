@@ -34,10 +34,12 @@ border-radius: 3px;
 margin: 8px 8px 8px 0
 
 /* On hover */
-box-shadow: 1px 1px 4px 0 #E0E0E0;
+box-shadow: 1px 1px 4px 0 $S300;
 
 /* On focus */
 border: 1px solid $G200;
+box-shadow: 1px 1px 4px 0 $G200;
+
 
 /* Disabled */
 opacity: 50%;
@@ -61,10 +63,10 @@ font-size: 13px;
 color: $B200;
 
 /* On hover */
-color: $B300;
+color: $S500;
 
 /* On focus */
-color: $B300;
+color: $S500;
 
 /* Disabled */
 opacity: 50%;
