@@ -13,7 +13,7 @@ There are two types of checkboxes: **Single-select** \(without a label\) in case
 
 #### Spacing guidelines
 
-* The width and height of the checkbox base is always 24px.
+* The width and height of the checkbox base are always 24px.
 * Checkboxes have a top, right and bottom margin of 8px.
 
 ![](/assets/atoms/checkboxes-spacing.png)

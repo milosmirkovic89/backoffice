@@ -11,5 +11,10 @@ Radio buttons are mostly used when there are multiple choices, but only one opti
 * Radio buttons are preferable over a [_Dropdown Multi-select_](//atoms/dropdowns.html#multi-select) when it’s important that the user sees the options available to them, to understand and consider, versus a more passive scan of their options via a select.
 * A radio button can never be used singularly \(e.g. for a yes/no or opt-in/out data capture\), as it can only be selected, not un-selected. Therefore, a minimum of two options must be presented to use radio buttons. Use a [_Checkbox Single-select_](//atoms/checkboxes.html#single-select) if there is only one option.
 
+#### Spacing guidelines
 
+* The width and height of the radio buttons are always 20px.
+* Radio buttons have a top and bottom margin of 10px and a right margin of 8px.
+
+![](/assets/atoms/radio-buttons-states.png)
 
