@@ -55,8 +55,6 @@ Multi-select checkboxes are used when there are multiple choices, and more than 
 /* Differences compared to the Single-select */
 
 /* Default */
-margin-right: 8px;
-margin-bottom: 16px;
 font-family: Open Sans;
 font-weight: Regular;
 font-size: 13px;
@@ -74,12 +72,19 @@ opacity: 50%;
 /* Error */
 border: 1px solid $G300;
 
-/* Error state message */
+/* Error message */
 margin-top: 8px;
 font-family: Open Sans;
 font-weight: Semibold;
 font-size: 11px;
 color: $R300;
+
+/* Hint message */
+margin-top: 8px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $B300;
 ```
 
 
