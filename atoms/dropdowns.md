@@ -94,7 +94,7 @@ border: 1px solid $R300;
 /* Error state icon */
 color: $R300;
 
-/* Error state message */
+/* Error message */
 margin-top: 8px;
 font-family: Open Sans;
 font-weight: Semibold;
