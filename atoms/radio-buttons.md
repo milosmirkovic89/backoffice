@@ -31,7 +31,7 @@ margin: 10px 8px 10px 0;
 font-family: Open Sans;
 font-weight: Regular;
 font-size: 13px;
-color: $B200;
+color: $B300;
 
 /* Default dot */
 background: $G300;

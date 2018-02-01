@@ -59,7 +59,7 @@ Multi-select checkboxes are used when there are multiple choices, and more than 
 font-family: Open Sans;
 font-weight: Regular;
 font-size: 13px;
-color: $B200;
+color: $B300;
 
 /* On hover */
 color: $S500;
