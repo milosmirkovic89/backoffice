@@ -27,9 +27,22 @@ height: 24px;
 border: 1px solid $S400;
 border-radius: 100%;
 
-/* Default / on icon */
-margin
+/* Default / on icons */
+margin: 4px;
+color: $G300;
 
+/* Default / off icons */
+margin: 4px;
+color: $S500;
+
+/* On hover base */
+box-shadow: 1px 1px 4px 0 $S300;
+
+/* On focus base */
+box-shadow: 1px 1px 4px 0 $G200;
+
+/* Disabled */
+opacity: 50%;
 ```
 
 
