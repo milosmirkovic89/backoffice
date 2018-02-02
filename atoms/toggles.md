@@ -27,6 +27,8 @@ height: 24px;
 border: 1px solid $S400;
 border-radius: 100%;
 
+/* Default / on icon */
+margin
 
 ```
 
