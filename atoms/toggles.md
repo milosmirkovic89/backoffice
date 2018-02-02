@@ -12,7 +12,7 @@ Toggles are a quick way to view and switch between enabled or disabled states. T
 
 * When you require users to press a submit button with a toggle, you may confuse them because it’s not the expected next step. In those cases, use [_Checkboxes_](/atoms/checkboxes.md) instead.
 
-#### Spacing guidelines {#spacing-guidelines}
+#### Spacing guidelines
 
 * The width of the toggle is 48px.
 * The height of the toggle is 24px.
