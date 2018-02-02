@@ -12,7 +12,7 @@
 .markdown-section pre {padding: 1em 1.5em; margin-top: 2em;}
 .markdown-section pre>code {font-size: .7em;}
 .markdown-section code {font-size: .7em;}
-.markdown-section ol, .markdown-section ul {padding-left: 1em; padding-top: 0.5em; padding-bottom: 1em;}
+.markdown-section ol, .markdown-section ul {padding-left: 1em; padding-top: 0.5em;}
 .markdown-section h4 {margin-bottom: .15em;}
 .markdown-section a {color: #4CAF50;}
 .book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {line-height: 1.5em;}
