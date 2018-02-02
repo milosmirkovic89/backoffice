@@ -12,6 +12,7 @@
   * [Checkboxes](atoms/checkboxes.md)
   * [Input types](atoms/input-types.md)
   * [Radio buttons](atoms/radio-buttons.md)
+  * [Toggles](atoms/toggles.md)
 * [Molecules](molecules.md)
   * [Forms](molecules/forms.md)
 * [Organisms](organisms.md)
