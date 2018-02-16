@@ -70,7 +70,7 @@ background-color: $G500;
 color: $shade100;
 
 /* Disabled All */
-background-color: $G200;
+opacity: 33%;
 ```
 
 ---
@@ -116,9 +116,7 @@ border: 1px solid $S500;
 color: $G300;
 
 /* Disabled All */
-background-color: $S100;
-border: 1px solid $S300;
-color: $G200;
+opacity: 33%;
 ```
 
 ---
@@ -163,9 +161,7 @@ border: 1px solid $S500;
 color: $red300;
 
 /* Disabled All */
-background-color: $S100;
-border: 1px solid $S300;
-color: $R200;
+opacity: 33%;
 ```
 
 ---
@@ -210,9 +206,7 @@ border: 1px solid $S500;
 color: $black300;
 
 /* Disabled All */
-background-color: $S100;
-border: 1px solid $S300;
-color: $S500;
+opacity: 33%;
 ```
 
 
