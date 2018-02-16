@@ -15,6 +15,7 @@
   * [Toggles](atoms/toggles.md)
 * [Molecules](molecules.md)
   * [Forms](molecules/forms.md)
+  * [Pagination](molecules/pagination.md)
 * [Organisms](organisms.md)
 * [Templates](templates.md)
 * [Pages](pages.md)
