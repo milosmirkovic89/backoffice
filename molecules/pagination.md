@@ -8,8 +8,8 @@ Pagination is displayed below tables when there are a significant number of tabl
 
 * Pagination is centrally aligned.
 * If the user is on the first page of table results, the ‘Back’ button is disabled. If they are on the last page of table results, ‘Next’ is disabled.
-* If ≤ 6 pages, no need for truncating the pagination \(adding "..."\).
-* An ellipses \(...\) is shown between non-consecutive pages
+* If ≤ 7 pages, no need for truncating the pagination \(adding "..."\).
+* An ellipses \(...\) is shown between non-consecutive pages.
 * The first and last page should always be visible.
 * The previous two and the next two pages should always be visible.
 * The max limit of the visible pages should be 7 \(first, last, selected, two before and two after\).
