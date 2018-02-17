@@ -12,7 +12,7 @@ Pagination is displayed below tables when there are a significant number of tabl
 * An ellipses \(...\) is shown between non-consecutive pages.
 * The first and last page should always be visible.
 * The previous two and the next two pages should always be visible.
-* The max limit of the visible pages should be 7 only in cases when there are two pages before and two pages after plus the first and the last page.
+* The max limit of the visible pages should be 7 only in cases when there are two pages before and two pages after plus the first and the last page \(example at the very bottom of the image below\).
 
 ![](/assets/molecules/pagination-guidlines.png)
 
