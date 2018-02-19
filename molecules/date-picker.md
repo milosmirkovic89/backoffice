@@ -17,6 +17,18 @@ Date pickers are mostly used in forms as data inputs or in header sections as da
 
 ![](/assets/molecules/data-picker-input-base-sizing.png)
 
+```
+/* Form input */
+width: 380px;
+
+/* Filter input */
+width: 182px;
+```
+
+---
+
+### 
+
 ### Calendar dialog
 
 #### General guidelines {#spacing-guidelines}
