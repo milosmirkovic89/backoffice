@@ -14,6 +14,7 @@
   * [Radio buttons](atoms/radio-buttons.md)
   * [Toggles](atoms/toggles.md)
 * [Molecules](molecules.md)
+  * [Date picker](molecules/date-picker.md)
   * [Forms](molecules/forms.md)
   * [Pagination](molecules/pagination.md)
 * [Organisms](organisms.md)
