@@ -21,7 +21,7 @@ Pagination is displayed below tables when there are a significant number of tabl
 
 * The margin between pagination elements is always 8px.
 * The left and right padding of the pagination elements is always 16px.
-* Ellipses use: `font-family: Open Sans; font-weight: Semibold; font-size: 15px; margin: 0 4px 0 4px;`
+* Ellipses use following CSS: `font-family: Open Sans; font-weight: Semibold; font-size: 15px; margin: 0 4px 0 4px;`
 
 ![](/assets/molecules/pagination-spacing.png)
 
