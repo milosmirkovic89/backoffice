@@ -10,7 +10,6 @@ Pagination is displayed below tables when there are a significant number of tabl
 * If the user is on the first page of table results, the ‘Back’ button is disabled. If they are on the last page of table results, ‘Next’ is disabled.
 * If ≤ 7 pages, no need for truncating the pagination \(adding "..."\).
 * An ellipses \(...\) is shown between non-consecutive pages.
-* Ellipses use: `font-family: Open Sans; font-weight: Semibold; font-size: 15px; margin: 0 4px 0 4px;`
 * The first and last page should always be visible.
 * The previous two and the next two pages should always be visible.
 * The max limit of the visible pages should be 7 only in cases when there are two pages before and two pages after plus the first and the last page \(example at the very bottom of the image below\).
@@ -22,6 +21,7 @@ Pagination is displayed below tables when there are a significant number of tabl
 
 * The margin between pagination elements is always 8px.
 * The left and right padding of the pagination elements is always 16px.
+* Ellipses use: `font-family: Open Sans; font-weight: Semibold; font-size: 15px; margin: 0 4px 0 4px;`
 
 ![](/assets/molecules/pagination-spacing.png)
 
