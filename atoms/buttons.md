@@ -63,7 +63,7 @@ font-size: 14px;
 /* On-hover All */
 background-color: $G400;
 
-/* Pressed All */
+/* On-focus All */
 background-color: $G500;
 
 /* Loading Icon All*/
@@ -108,7 +108,7 @@ font-size: 13px;
 background-color: $S300;
 border: 1px solid $S500;
 
-/* Pressed All */
+/* On-focus All */
 background-color: $S400;
 border: 1px solid $S500;
 
@@ -153,7 +153,7 @@ font-size: 13px;
 background-color: $S300;
 border: 1px solid $S500;
 
-/* Pressed All */
+/* On-focus All */
 background-color: $S400;
 border: 1px solid $S500;
 
@@ -198,7 +198,7 @@ font-size: 13px;
 background-color: $S300;
 border: 1px solid $S500;
 
-/* Pressed All */
+/* On-focus All */
 background-color: $S400;
 border: 1px solid $S500;
 
