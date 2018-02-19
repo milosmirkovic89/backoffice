@@ -25,7 +25,7 @@ Pagination is displayed below tables when there are a significant number of tabl
 
 ![](/assets/molecules/pagination-spacing.png)
 
-### Page numbers
+#### Page numbers
 
 Page numbers have 4 different states: Default, On-hover, On-focus and Active. The height of the number boxes is always 32px.
 
