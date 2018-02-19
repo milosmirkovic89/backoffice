@@ -27,7 +27,65 @@ width: 182px;
 
 ---
 
-### ![](/assets/molecules/data-picker-input-base-states.png)
+![](/assets/molecules/data-picker-input-base-states.png)
+
+```
+/* Default */
+background-color: $S200;
+height: 40px;
+padding: 0 16px;
+border: 1px solid $S400;
+border-radius: 3px;
+font-family: Open Sans;
+font-weight: Regular;
+font-size: 13px;
+color: $B100;
+
+/* Default icon*/
+color: $S500;
+margin-left: 16px;
+
+/* On hover */
+box-shadow: 1px 1px 4px 0 $S300;
+
+/* On focus */
+border: 1px solid $G200;
+
+/* On focus icon */
+color: $G300;
+
+/* Filled out */
+font-weight: Semibold;
+color: $B300;
+
+/* Filled out icon */
+color: $G300;
+
+/* Disabled */
+opacity: 50%;
+
+/* Error state */
+border: 1px solid $R300;
+
+/* Error state icon */
+color: $R300;
+
+/* Error message */
+margin-top: 8px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $R300;
+
+/* Hint message */
+margin-top: 8px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $B200;
+```
+
+---
 
 ### Calendar dialog
 
