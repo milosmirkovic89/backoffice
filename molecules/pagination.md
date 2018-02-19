@@ -13,7 +13,7 @@ Pagination is displayed below tables when there are a significant number of tabl
 * The first and last page should always be visible.
 * The previous two and the next two pages should always be visible.
 * The max limit of the visible pages should be 7 only in cases when there are two pages before and two pages after plus the first and the last page \(example at the very bottom of the image below\).
-* [Neutral button](https://www.gitbook.com/book/milosmirkovic89/back-office/edit#) style with the height of 32px is applied to the Next and Back actions.
+* [Neutral button](//atoms/buttons.html#neutral-buttons) style with the height of 32px is applied to the Next and Back actions.
 
 ![](/assets/molecules/pagination-guidlines.png)
 
