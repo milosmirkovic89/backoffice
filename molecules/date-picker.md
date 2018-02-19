@@ -27,7 +27,7 @@ width: 182px;
 
 ---
 
-### 
+### ![](/assets/molecules/data-picker-input-base-states.png)
 
 ### Calendar dialog
 
