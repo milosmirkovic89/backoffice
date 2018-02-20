@@ -92,9 +92,13 @@ color: $B200;
 #### General guidelines {#spacing-guidelines}
 
 * The calendar dialog is displayed on top of everything when the input base is clicked.
-* The calendar dialog has a fixed width size of 320px.
 
-### 
+#### Spacing guidelines {#spacing-guidelines}
+
+* The calendar dialog has always a fixed width size of 320px.
+* The base has a padding of 4px and a top margin of 8px.
+
+![](/assets/molecules/data-picker-calendar-dialog-spacing.png)
 
 
 
