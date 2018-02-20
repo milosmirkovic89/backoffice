@@ -99,16 +99,18 @@ color: $B200;
 #### Spacing guidelines {#spacing-guidelines}
 
 * The calendar dialog has always a fixed width size of 320px.
-* The base has a padding of 4px and a top margin of 8px.
+* The base has a padding of 8px and a top margin of 8px.
 
-![](/assets/molecules/data-picker-calendar-dialog-spacing.png)
+##### Calendar base
+
+![](/assets/molecules/data-picker-calendar-base.png)
 
 ```
 /* Calendar dialog base */
 width: 320px;
 height: auto;
 top: 8px
-padding: 4px;
+padding: 8px;
 border: 1px solid $S500;
 border-radius: 3px;
 background-color: $S100;
@@ -118,13 +120,12 @@ background-color: $S100;
 
 ##### Months and years
 
-![](/assets/molecules/data-picker-calendar-dialog-months-and-years.png)
+![](/assets/molecules/data-picker-calendar-months-and-years.png)
 
 ```
 /* Months and years */
 width: 148x;
 height: 56px;
-margin: 4px;
 border: 1px solid $S500;
 border-radius: 3px 0 0 0;
 background-color: $S200;
@@ -134,6 +135,26 @@ font-size: 15px;
 text-align: center;
 color: $B300;
 ```
+
+---
+
+##### Week
+
+![](/assets/molecules/data-picker-calendar-week.png)
+
+```
+/* Days */
+width: 40px;
+height: 24px;
+background-color: $S100;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+text-align: center;
+color: $B200;
+```
+
+---
 
 
 
