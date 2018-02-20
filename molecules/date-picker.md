@@ -153,5 +153,22 @@ color: $B200;
 
 ---
 
+##### Days
+
+![](/assets/molecules/data-picker-calendar-days.png)
+
+```
+/* Days */
+width: 40px;
+height: 40px;
+background-color: $S200;
+border: 1px solid $S500;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+text-align: center;
+color: $B300;
+```
+
 
 
