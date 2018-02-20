@@ -109,7 +109,6 @@ color: $B200;
 /* Calendar dialog base */
 width: 320px;
 height: auto;
-top: 8px
 padding: 8px;
 border: 1px solid $S500;
 border-radius: 3px;
