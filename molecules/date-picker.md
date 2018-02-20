@@ -92,7 +92,7 @@ color: $B200;
 #### General guidelines {#spacing-guidelines}
 
 * The calendar dialog is displayed on top of everything when the input base is clicked.
-* [Nav arrows](#) are used for navigation through calendar.
+* [Nav arrows](#) are used to navigate through the calendar.
 
 #### Spacing guidelines {#spacing-guidelines}
 
@@ -140,7 +140,7 @@ color: $B300;
 ![](/assets/molecules/data-picker-calendar-week.png)
 
 ```
-/* Days */
+/* Week */
 width: 40px;
 height: 24px;
 background-color: $S100;
