@@ -158,7 +158,7 @@ color: $B200;
 ![](/assets/molecules/data-picker-calendar-days.png)
 
 ```
-/* Days */
+/* Default */
 width: 40px;
 height: 40px;
 background-color: $S200;
@@ -168,6 +168,19 @@ font-weight: Semibold;
 font-size: 13px;
 text-align: center;
 color: $B300;
+
+/* Selected date */
+background-color: $G200;
+border: 1px solid $G300;
+color: $G300;
+
+/* Current date */
+background-color: $O200;
+border: 1px solid $O300;
+color: $G300;
+
+/* Disabled */
+opacity: 50%;
 ```
 
 
