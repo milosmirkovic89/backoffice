@@ -27,8 +27,6 @@ width: 182px;
 
 ---
 
-##### States
-
 ![](/assets/molecules/data-picker-input-base-states.png)
 
 ```
