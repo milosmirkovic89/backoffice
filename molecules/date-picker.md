@@ -27,6 +27,8 @@ width: 182px;
 
 ---
 
+##### States
+
 ![](/assets/molecules/data-picker-input-base-states.png)
 
 ```
@@ -92,6 +94,7 @@ color: $B200;
 #### General guidelines {#spacing-guidelines}
 
 * The calendar dialog is displayed on top of everything when the input base is clicked.
+* [Nav arrows](#) are used for navigation through calendar.
 
 #### Spacing guidelines {#spacing-guidelines}
 
@@ -99,6 +102,38 @@ color: $B200;
 * The base has a padding of 4px and a top margin of 8px.
 
 ![](/assets/molecules/data-picker-calendar-dialog-spacing.png)
+
+```
+/* Calendar dialog base */
+width: 320px;
+height: auto;
+top: 8px
+padding: 4px;
+border: 1px solid $S500;
+border-radius: 3px;
+background-color: $S100;
+```
+
+---
+
+##### Months and years
+
+![](/assets/molecules/data-picker-calendar-dialog-months-and-years.png)
+
+```
+/* Months and years */
+width: 148x;
+height: 56px;
+margin: 4px;
+border: 1px solid $S500;
+border-radius: 3px 0 0 0;
+background-color: $S200;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 15px;
+text-align: center;
+color: $B300;
+```
 
 
 
