@@ -169,6 +169,13 @@ font-size: 13px;
 text-align: center;
 color: $B300;
 
+/* On hover */
+box-shadow: 1px 1px 4px 0 $S300;
+
+/* On focus */
+border: 1px solid $G200;
+box-shadow: 1px 1px 4px 0 $G200;
+
 /* Selected date */
 background-color: $G200;
 border: 1px solid $G300;
