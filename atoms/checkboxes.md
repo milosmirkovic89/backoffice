@@ -26,12 +26,12 @@ Single-select checkboxes are standalone and they are used as an enable/disable a
 
 ```
 /* Default */
-background: $S100;
 width: 24px;
 height: 24px;
+background: $S100;
 border: 1px solid $S400;
 border-radius: 3px;
-margin: 8px 8px 8px 0
+margin: 8px 8px 8px 0;
 
 /* On hover */
 box-shadow: 1px 1px 4px 0 $S300;
