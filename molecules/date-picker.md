@@ -92,7 +92,7 @@ color: $B200;
 #### General guidelines {#spacing-guidelines}
 
 * The calendar dialog is displayed on top of everything when the input base is clicked.
-* [Nav arrows](#) are used to navigate through the calendar.
+* [Nav arrows](/atoms/nav-arrows.md) are used to navigate through the calendar.
 
 #### Spacing guidelines {#spacing-guidelines}
 
