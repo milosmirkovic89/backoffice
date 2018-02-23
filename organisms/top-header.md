@@ -104,5 +104,50 @@ color: $S500;
 /* Use Dropdown Flag list style for dropdown option */
 ```
 
+---
+
+### Links
+
+Currently, there's only one link for the support in the top header section, but if needed use the same style for any other.
+
+![](/assets/organisms/top-header-links.png)
+
+```
+/* Default */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+color: $B200;
+margin-right: 32px;
+
+/* On hover */
+color: $G300;
+```
+
+---
+
+### User
+
+A simple dropdown list of the logged-in user options.
+
+#### General guidelines {#general-guidelines}
+
+* User section should always be at the far right of the top header.
+* User section has a CSS `float: right;`
+* Dropdown list items are aligned to the right.
+* Use 'M' size [Single-select Dropdown](//atoms/dropdowns.html#single-select) list.
+
+![](/assets/organisms/top-header-user.png)
+
+```
+/* User section text */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+text-align: right;
+color: $B200;
+margin-right: 4px;
+```
+
 
 
