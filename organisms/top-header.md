@@ -17,3 +17,50 @@ In other words, the main header on all pages across the back office application.
 
 ![](/assets/organisms/top-header-sizing.png)![](/assets/organisms/top-header-spacing.png)
 
+```
+/* Top header */
+width: 100px;
+height:72px;
+padding: 0 32px 0 32px;
+background-color: $S100;
+border-bottom: 1px solid $S400;
+```
+
+---
+
+### Breadcrumbs
+
+The main purpose of breadcrumbs is to enhance the way users find their way around.
+
+#### General guidelines {#general-guidelines}
+
+* The current version of the application does not need more then four-level breadcrumbs, but if needed the same pattern can be used to increase the number of levels.
+* The last link in the breadcrumbs section shows the current location and it's not clickable.
+* Always use ALL CAPS for breadcrumb links.
+* Use [Arrow Icons Outline](//foundations/iconography.html#arrow-icons) with $S500 color between links. 
+
+#### Spacing guidelines {#spacing-guidelines}
+
+* Arrow icons have the left and right margin of 8px.
+
+![](/assets/organisms/top-header-breadcrumbs.png)
+
+```
+/* Link default */
+font-family: Montserrat;
+font-size: 13px;
+text-transform: uppercase;
+color: $B200;
+
+/* Link on hover */
+color: $G300;
+
+/* Link current */
+color: $S500;
+
+/* Arrow */
+color: $S500;
+```
+
+
+
