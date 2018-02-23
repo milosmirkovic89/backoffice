@@ -82,13 +82,24 @@ A simple dropdown list to change the language of the application.
 ![](/assets/organisms/top-header-languages.png)
 
 ```
-/* Languages */
+/* Languages section */
+margin-right: 32px;
+
+/* Languages section flag */
+width: 24px;
+height: 24px;
+margin-right: 8px;
+
+/* Languages section text */
 font-family: Open Sans;
 font-weight: Semibold;
 font-size: 13px;
 text-transform: uppercase;
 color: $B200;
-margin-right: 32px;
+margin-right: 4px;
+
+/* Use dropdown list style for dropdown */
+
 ```
 
 

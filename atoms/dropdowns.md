@@ -111,7 +111,7 @@ color: $B200;
 
 ---
 
-##### Currency list
+##### Flag list
 
 ![](/assets/atoms/dropdowns-currency-states.png)
 
