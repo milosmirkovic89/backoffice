@@ -146,6 +146,9 @@ font-size: 13px;
 text-align: right;
 color: $B200;
 margin-right: 4px;
+
+/* User section arrow */
+color: $S500;
 ```
 
 
