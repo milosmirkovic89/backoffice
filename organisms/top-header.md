@@ -98,6 +98,9 @@ text-transform: uppercase;
 color: $B200;
 margin-right: 4px;
 
+/* Languages section arrow */
+color: $S500;
+
 /* Use Dropdown Flag list style for dropdown option */
 ```
 
