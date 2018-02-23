@@ -155,7 +155,7 @@ color: $B200;
 
 ##### Days
 
-![](/assets/molecules/data-picker-calendar-days.png)
+![](/assets/molecules/data-picker-calendar-days.png)![](/assets/molecules/data-picker-calendar-days-states.png)
 
 ```
 /* Default */
@@ -168,13 +168,7 @@ font-weight: Semibold;
 font-size: 13px;
 text-align: center;
 color: $B300;
-```
 
----
-
-![](/assets/molecules/data-picker-calendar-days-states.png)
-
-```
 /* On hover */
 box-shadow: 1px 1px 4px 0 $S300;
 
