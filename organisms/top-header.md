@@ -133,7 +133,6 @@ A simple dropdown list of the logged-in user options.
 #### General guidelines {#general-guidelines}
 
 * User section should always be at the far right of the top header.
-* User section has a CSS `float: right;`
 * Dropdown list items are aligned to the right.
 * Use 'M' size [Single-select Dropdown](//atoms/dropdowns.html#single-select) list.
 
