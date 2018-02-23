@@ -73,7 +73,7 @@ A simple dropdown list to change the language of the application.
 * Always use short language codes.
 * Always use ALL CAPS for language codes.
 * Always list languages alphabetically.
-* Use 'S' size [dropdown list](//atoms/dropdowns.html).
+* Use 'S' size [Flag Dropdown](//atoms/dropdowns.html#flag-list) list.
 
 #### Spacing guidelines {#spacing-guidelines}
 
@@ -98,8 +98,7 @@ text-transform: uppercase;
 color: $B200;
 margin-right: 4px;
 
-/* Use dropdown list style for dropdown */
-
+/* Use Dropdown Flag list style for dropdown option */
 ```
 
 
