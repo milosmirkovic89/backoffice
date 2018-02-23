@@ -168,7 +168,13 @@ font-weight: Semibold;
 font-size: 13px;
 text-align: center;
 color: $B300;
+```
 
+---
+
+![](/assets/molecules/data-picker-calendar-days-states.png)
+
+```
 /* On hover */
 box-shadow: 1px 1px 4px 0 $S300;
 
@@ -176,12 +182,12 @@ box-shadow: 1px 1px 4px 0 $S300;
 border: 1px solid $G200;
 box-shadow: 1px 1px 4px 0 $G200;
 
-/* Selected date */
+/* Selected */
 background-color: $G200;
 border: 1px solid $G300;
 color: $G300;
 
-/* Current date */
+/* Current */
 background-color: $O200;
 border: 1px solid $O300;
 color: $G300;
