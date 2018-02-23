@@ -64,3 +64,41 @@ color: $S500;
 
 ---
 
+### Languages
+
+A simple dropdown list to change the language of the application.
+
+#### General guidelines {#general-guidelines}
+
+* Always use short language codes.
+* Always use ALL CAPS for language codes.
+* Always list languages alphabetically.
+* Use 'S' size [dropdown list](//atoms/dropdowns.html).
+
+#### Spacing guidelines {#spacing-guidelines}
+
+* The languages section has a right margin of 32px.
+
+![](/assets/organisms/top-header-languages.png)
+
+```
+/* Languages section */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+text-transform: uppercase;
+color: $B200;
+margin-right: 32px;
+
+/* Link on hover */
+color: $G300;
+
+/* Link current */
+color: $S500;
+
+/* Arrow */
+color: $S500;
+```
+
+
+
