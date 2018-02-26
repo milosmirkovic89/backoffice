@@ -14,5 +14,31 @@ The sidebar is the main navigation menu that contains the links to all pages in 
 
 ![](/assets/organisms/sidebar-sizing.png)
 
+```
+/* Sidebar */
+width: 320px;
+
+/* Sidebar minimized */
+width: 56px;
+```
+
+---
+
+### Header
+
+The header contains only the logo and the icon to minimize/maximize the sidebar.
+
+![](/assets/organisms/sidebar-header-spacing.png)
+
+```
+/* Header */
+padding: 0 12px 0 24px;
+
+/* Header minimized */
+padding: 0 12px 0 12px;
+
+
+```
+
 
 
