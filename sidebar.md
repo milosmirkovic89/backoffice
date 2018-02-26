@@ -81,7 +81,21 @@ color: $S500;
 
 ---
 
-Primary item
+### Primary item
 
+Primary items represent main categories of the Back Office application.
 
+![](/assets/organisms/sidebar-primary-item-sizing.png)![](/assets/organisms/sidebar-primary-item-spacing.png)
+
+```
+/* Primary item */
+width: 320px;
+height: 72px;
+padding: 0 16px 0 16px;
+
+/* Primary item minimized */
+width: 56px;
+```
+
+---
 
