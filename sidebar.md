@@ -28,14 +28,34 @@ width: 56px;
 
 The header contains only the logo and the icon to minimize/maximize the sidebar.
 
+##### Spacing
+
 ![](/assets/organisms/sidebar-header-spacing.png)
 
 ```
 /* Header */
-padding: 0 12px 0 24px;
+padding: 0 12px 0 16px;
+height: 72px;
 
 /* Header minimized */
 padding: 0 12px 0 12px;
+height: 72px;
+```
+
+---
+
+##### Sizing
+
+![](/assets/organisms/sidebar-header-sizing.png)
+
+```
+/* Logo */
+max-height: 40px;
+
+/* Minimize/Maximize base */
+width: 32px;
+height: 32px;
+padding
 
 
 ```
