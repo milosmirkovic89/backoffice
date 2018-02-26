@@ -20,6 +20,7 @@ The sidebar is the main navigation menu that contains the links to all pages in 
 ```
 /* Sidebar */
 width: 320px;
+background-color: $B500;
 
 /* Sidebar minimized */
 width: 56px;
@@ -85,7 +86,7 @@ color: $S500;
 
 Primary items represent main categories of the Back Office application.
 
-![](/assets/organisms/sidebar-primary-item-sizing.png)![](/assets/organisms/sidebar-primary-item-spacing.png)
+![](/assets/organisms/sidebar-primary-item-sizing.png)
 
 ```
 /* Primary item */
@@ -98,4 +99,42 @@ width: 56px;
 ```
 
 ---
+
+![](/assets/organisms/sidebar-primary-item-content-sizing.png)![](/assets/organisms/sidebar-primary-item-content-spacing.png)
+
+```
+/* Primary item icon */
+width: 24px;
+height: 24px;
+margin-right: 16px;
+
+/* Primary item label */
+font-family: Montserrat;
+font-size: 13px;
+text-transform: uppercase;
+
+/* Primary item arrow */
+width: 16px;
+height: 16px;
+margin-left: 16px;
+```
+
+---
+
+![](/assets/organisms/sidebar-primary-item-states.png)
+
+```
+/* Default */
+
+/* Primary item */
+background-color: $B500;
+
+/* Primary item icon */
+color: $B200;
+
+/* Primary item label */
+color: $B100;
+```
+
+
 
