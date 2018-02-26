@@ -31,21 +31,23 @@ width: 56px;
 
 The header contains only the logo and the minimize/maximize icon.
 
-![](/assets/organisms/sidebar-header-spacing.png)
+![](/assets/organisms/sidebar-header-spacing.png)![](/assets/organisms/sidebar-header-sizing.png)
 
 ```
 /* Header */
+width: 320px;
+height: 72px;
 padding: 0 12px 0 16px;
 background-color: $B400;
-height: 72px;
 
 /* Header minimized */
+width: 56px;
 padding: 0 12px 0 12px;
 ```
 
 ---
 
-![](/assets/organisms/sidebar-header-sizing.png)
+![](/assets/organisms/sidebar-header-content.png)
 
 ```
 /* Logo section */
@@ -61,7 +63,7 @@ border-radius: 3px;
 
 ---
 
-![](/assets/organisms/sidebar-header-hover.png)
+![](/assets/organisms/sidebar-header-content-hover.png)
 
 ```
 /* Logo default */
