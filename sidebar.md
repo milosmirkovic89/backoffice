@@ -121,6 +121,7 @@ width: 24px;
 height: 24px;
 
 /* Label */
+width: 216px;
 font-family: Montserrat;
 font-size: 13px;
 text-transform: uppercase;
