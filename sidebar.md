@@ -31,7 +31,7 @@ width: 56px;
 
 The header contains only the logo and the minimize/maximize icon.
 
-![](/assets/organisms/sidebar-header-spacing.png)![](/assets/organisms/sidebar-header-sizing.png)
+![](/assets/organisms/sidebar-header-sizing.png)![](/assets/organisms/sidebar-header-spacing.png)
 
 ```
 /* Header */
@@ -80,6 +80,8 @@ color: $S500;
 ```
 
 ---
+
+Primary item
 
 
 
