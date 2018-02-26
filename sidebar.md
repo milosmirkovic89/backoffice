@@ -17,6 +17,7 @@ The sidebar is the main navigation menu that contains the links to all pages in 
 ```
 /* Sidebar */
 width: 320px;
+height: 72px;
 
 /* Sidebar minimized */
 width: 56px;
@@ -35,11 +36,9 @@ The header contains only the logo and the icon to minimize/maximize the sidebar.
 ```
 /* Header */
 padding: 0 12px 0 16px;
-height: 72px;
 
 /* Header minimized */
 padding: 0 12px 0 12px;
-height: 72px;
 ```
 
 ---
@@ -52,12 +51,10 @@ height: 72px;
 /* Logo */
 max-height: 40px;
 
-/* Minimize/Maximize base */
+/* Minimize/Maximize icon base */
 width: 32px;
 height: 32px;
-padding
-
-
+padding: 8px;
 ```
 
 
