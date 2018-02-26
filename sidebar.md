@@ -92,7 +92,6 @@ Primary items represent main categories of the Back Office application.
 /* Primary item */
 width: 320px;
 height: 72px;
-padding: 0 16px 0 16px;
 
 /* Primary item minimized */
 width: 56px;
@@ -100,15 +99,28 @@ width: 56px;
 
 ---
 
-![](/assets/organisms/sidebar-primary-item-content-sizing.png)![](/assets/organisms/sidebar-primary-item-content-spacing.png)
+![](/assets/organisms/sidebar-primary-item-sections.png)
 
 ```
-/* Primary item icon */
+/* Icon section */
+width: 56px;
+padding: 0 16px 0 16px;
+
+/* Label section */
+width: 264px;
+padding-right: 16px;
+```
+
+---
+
+![](/assets/organisms/sidebar-primary-item-content-sizing.png)
+
+```
+/* Icon */
 width: 24px;
 height: 24px;
-margin-right: 16px;
 
-/* Primary item label */
+/* Label */
 font-family: Montserrat;
 font-size: 13px;
 text-transform: uppercase;
@@ -116,7 +128,6 @@ text-transform: uppercase;
 /* Primary item arrow */
 width: 16px;
 height: 16px;
-margin-left: 16px;
 ```
 
 ---
