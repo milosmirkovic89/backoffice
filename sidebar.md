@@ -88,8 +88,8 @@ Primary items represent main categories of the Back Office application.
 
 #### General guidelines {#spacing-guidelines}
 
-* When collapsed use Outline / down arrow icon.
-* When expanded use Outline / up arrow icon.
+* When collapsed use [Outline / down arrow icon.](//foundations/iconography.html#arrow-icons)
+* When expanded use [Outline / up arrow icon.](//foundations/iconography.html#arrow-icons)
 
 ![](/assets/organisms/sidebar-primary-item-sizing.png)
 
@@ -258,4 +258,6 @@ color: $B200;
 ```
 
 ---
+
+
 
