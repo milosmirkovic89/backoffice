@@ -86,6 +86,11 @@ color: $S500;
 
 Primary items represent main categories of the Back Office application.
 
+#### General guidelines {#spacing-guidelines}
+
+* When collapsed use Outline / down arrow icon.
+* When expanded use Outline / up arrow icon.
+* 
 ![](/assets/organisms/sidebar-primary-item-sizing.png)
 
 ```
@@ -126,7 +131,7 @@ font-family: Montserrat;
 font-size: 13px;
 text-transform: uppercase;
 
-/* Primary item arrow */
+/* Arrow */
 width: 16px;
 height: 16px;
 ```
@@ -138,14 +143,97 @@ height: 16px;
 ```
 /* Default */
 
-/* Primary item */
+/* Icon section */
 background-color: $B500;
 
-/* Primary item icon */
+/* Label section */
+background-color: $B500;
+border-bottom: 1px solid $B400;
+
+/* Icon */
 color: $B200;
 
-/* Primary item label */
+/* Label */
 color: $B100;
+
+/* Arrow */
+display: none;
+```
+
+```
+/* On hover / secondary items not available */
+
+/* Icon section */
+background-color: $B400;
+
+/* Label section */
+background-color: $B400;
+border-bottom: none;
+
+/* Icon */
+color: $S500;
+
+/* Label */
+color: $S300;
+```
+
+```
+/* On hover / secondary items available */
+
+/* Icon section */
+background-color: $B400;
+
+/* Label section */
+background-color: $B400;
+border-bottom: none;
+
+/* Icon */
+color: $S500;
+
+/* Label */
+color: $S300;
+
+/* Arrow */
+display: inline;
+color: $S500;
+```
+
+```
+/* Active / secondary items not available */
+
+/* Icon section */
+background-color: $B400;
+
+/* Label section */
+background-color: $B400;
+border-bottom: none;
+
+/* Icon */
+color: $G300;
+
+/* Label */
+color: $S300;
+```
+
+```
+/* Active / secondary items available */
+
+/* Icon section */
+background-color: $B400;
+
+/* Label section */
+background-color: $B400;
+border-bottom: none;
+
+/* Icon */
+color: $G300;
+
+/* Label */
+color: $S300;
+
+/* Arrow */
+display: inline;
+color: $B200;
 ```
 
 
