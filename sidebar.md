@@ -90,8 +90,7 @@ Primary items represent main categories of the Back Office application.
 
 * When collapsed use Outline / down arrow icon.
 * When expanded use Outline / up arrow icon.
-* 
-![](/assets/organisms/sidebar-primary-item-sizing.png)
+* ![](/assets/organisms/sidebar-primary-item-sizing.png)
 
 ```
 /* Primary item */
@@ -216,7 +215,7 @@ color: $S300;
 ```
 
 ```
-/* Active / secondary items available */
+/* Active / secondary items available / collapsed */
 
 /* Icon section */
 background-color: $B400;
@@ -224,6 +223,27 @@ background-color: $B400;
 /* Label section */
 background-color: $B400;
 border-bottom: none;
+
+/* Icon */
+color: $G300;
+
+/* Label */
+color: $S300;
+
+/* Arrow */
+display: inline;
+color: $S500;
+```
+
+```
+/* Active / secondary items available / expanded */
+
+/* Icon section */
+background-color: $B400;
+
+/* Label section */
+background-color: $B400;
+border-bottom: 1px solid $B500;
 
 /* Icon */
 color: $G300;
