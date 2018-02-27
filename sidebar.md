@@ -90,7 +90,8 @@ Primary items represent main categories of the Back Office application.
 
 * When collapsed use Outline / down arrow icon.
 * When expanded use Outline / up arrow icon.
-* ![](/assets/organisms/sidebar-primary-item-sizing.png)
+
+![](/assets/organisms/sidebar-primary-item-sizing.png)
 
 ```
 /* Primary item */
