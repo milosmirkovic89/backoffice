@@ -280,6 +280,8 @@ padding: 8px 0 8px 0;
 background-color: $B400;
 ```
 
+---
+
 ![](/assets/organisms/sidebar-secondary-item-sections.png)
 
 ```
@@ -287,6 +289,84 @@ background-color: $B400;
 height: 40px;
 padding: 0 16px 0 32px;
 background-color: $B400;
+```
+
+---
+
+![](/assets/organisms/sidebar-secondary-item-content-sizing.png)
+
+```
+/* Indicator */
+width: 16px;
+height: 16px;
+color: $S500;
+margin-right: 8px;
+
+/* Label */
+width: 216px;
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+
+/* Arrow */
+width: 16px;
+height: 16px;
+```
+
+---
+
+![](/assets/organisms/sidebar-secondary-item-states.png)
+
+```
+/* Default / tertiary item not available */
+
+/* Indicator */
+display: none;
+
+/* Label */
+color: $B100;
+
+/* Arrow */
+display: none;
+```
+
+```
+/* Default / tertiary item available */
+
+/* Indicator */
+display: none;
+
+/* Label */
+color: $B100;
+
+/* Arrow */
+color: $B200;
+```
+
+```
+/* On hover / tertiary item not available */
+
+/* Indicator */
+display: none;
+
+/* Label */
+color: $S500;
+
+/* Arrow */
+display: none;
+```
+
+```
+/* On hover / tertiary item available */
+
+/* Indicator */
+display: none;
+
+/* Label */
+color: $S500;
+
+/* Arrow */
+color: $S500;
 ```
 
 
