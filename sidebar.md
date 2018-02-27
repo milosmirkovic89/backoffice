@@ -82,7 +82,7 @@ color: $S500;
 
 ---
 
-### Primary item
+### Primary items
 
 Primary items represent main categories of the Back Office application.
 
@@ -174,7 +174,7 @@ border-bottom: none;
 color: $S500;
 
 /* Label */
-color: $S300;
+color: $S500;
 ```
 
 ```
@@ -191,7 +191,7 @@ border-bottom: none;
 color: $S500;
 
 /* Label */
-color: $S300;
+color: $S500;
 
 /* Arrow */
 display: inline;
@@ -258,6 +258,36 @@ color: $B200;
 ```
 
 ---
+
+### Secondary items
+
+Secondary items fall into the second level group in the navigation menu hierarchy.
+
+#### General guidelines {#spacing-guidelines}
+
+* When collapsed use [Solid / down arrow icon.](https://www.cymonz.design/foundations/iconography.html#arrow-icons)
+* When expanded use [Solid / up arrow icon.](https://www.cymonz.design/foundations/iconography.html#arrow-icons)
+* The active item has an indicator before the label; for this purpose use [Solid / right arrow icon.](//foundations/iconography.html#arrow-icons)
+* There's a padding of 8px before the first and after the last secondary item.
+
+![](/assets/organisms/sidebar-secondary-item-sizing.png)
+
+```
+/* Secondary items section */
+width: 320px;
+height: auto;
+padding: 8px 0 8px 0;
+background-color: $B400;
+```
+
+![](/assets/organisms/sidebar-secondary-item-sections.png)
+
+```
+/* Secondary item */
+height: 40px;
+padding: 0 16px 0 32px;
+background-color: $B400;
+```
 
 
 
