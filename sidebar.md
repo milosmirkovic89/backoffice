@@ -369,5 +369,44 @@ color: $S500;
 color: $S500;
 ```
 
+```
+/* Active / tertiary item not available */
 
+/* Indicator */
+color: $S500;
+
+/* Label */
+color: $S100;
+
+/* Arrow */
+display: none;
+```
+
+```
+/* Active / tertiary item available / collapsed */
+
+/* Indicator */
+color: $S500;
+
+/* Label */
+color: $S500;
+
+/* Arrow */
+color: $S500;
+```
+
+```
+/* Active / tertiary item available / expanded */
+
+/* Indicator */
+color: $S500;
+
+/* Label */
+color: $S500;
+
+/* Arrow */
+color: $B200;
+```
+
+---
 
