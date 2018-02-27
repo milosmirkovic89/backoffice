@@ -410,3 +410,79 @@ color: $B200;
 
 ---
 
+### Tertiary items
+
+Tertiary items fall into the third level group in the navigation menu hierarchy.
+
+#### General guidelines {#spacing-guidelines}
+
+* The active item has an indicator before the label; for this purpose use [Solid / right arrow icon.](//foundations/iconography.html#arrow-icons)
+
+![](/assets/organisms/sidebar-tertiary-item.png)
+
+```
+/* Tertiary items section */
+width: 320px;
+height: auto;
+
+/* Tertiary item */
+height: 40px;
+padding-left: 56px;
+```
+
+---
+
+![](/assets/organisms/sidebar-tertiary-item-content-sizing.png)
+
+```
+/* Indicator */
+width: 16px;
+height: 16px;
+color: $S500;
+margin-right: 8px;
+
+/* Label */
+width: 216px;
+font-family: Open Sans;
+font-size: 13px;
+```
+
+---
+
+![](/assets/organisms/sidebar-tertiary-item-states.png)
+
+```
+/* Default */
+
+/* Indicator */
+display: none;
+
+/* Label */
+font-weight: Regular;
+color: $B100;
+```
+
+```
+/* On hover */
+
+/* Indicator */
+display: none;
+
+/* Label */
+font-weight: Regular;
+color: $S500;
+```
+
+```
+/* Active */
+
+/* Indicator */
+display: inline;
+
+/* Label */
+font-weight: Semibold;
+color: $S100;
+```
+
+---
+
