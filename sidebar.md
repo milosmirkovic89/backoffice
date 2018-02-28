@@ -269,6 +269,7 @@ Secondary items fall into the second level group in the navigation menu hierarch
 * When expanded use [Solid / up arrow icon.](https://www.cymonz.design/foundations/iconography.html#arrow-icons)
 * The active item has an indicator before the label; for this purpose use [Solid / right arrow icon.](//foundations/iconography.html#arrow-icons)
 * There's a padding of 8px before the first and after the last secondary item.
+* Secondary items should be displayed in alphabetical order.
 
 ![](/assets/organisms/sidebar-secondary-item-sizing.png)
 
@@ -417,6 +418,7 @@ Tertiary items fall into the third level group in the navigation menu hierarchy.
 #### General guidelines {#spacing-guidelines}
 
 * The active item has an indicator before the label; for this purpose use [Solid / right arrow icon.](//foundations/iconography.html#arrow-icons)
+* Tertiary items should be displayed in alphabetical order.
 
 ![](/assets/organisms/sidebar-tertiary-item.png)
 
@@ -485,4 +487,6 @@ color: $S100;
 ```
 
 ---
+
+
 
