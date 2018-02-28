@@ -265,8 +265,8 @@ Secondary items fall into the second level group in the navigation menu hierarch
 
 #### General guidelines {#spacing-guidelines}
 
-* When collapsed use [Solid / down arrow icon.](https://www.cymonz.design/foundations/iconography.html#arrow-icons)
-* When expanded use [Solid / up arrow icon.](https://www.cymonz.design/foundations/iconography.html#arrow-icons)
+* When collapsed use [Outline / down arrow icon.](https://www.cymonz.design/foundations/iconography.html#arrow-icons)
+* When expanded use [Outline / up arrow icon.](https://www.cymonz.design/foundations/iconography.html#arrow-icons)
 * The active item has an indicator before the label; for this purpose use [Solid / right arrow icon.](//foundations/iconography.html#arrow-icons)
 * There's a padding of 8px before the first and after the last secondary item.
 * Secondary items should be displayed in alphabetical order.
@@ -488,5 +488,32 @@ color: $S100;
 
 ---
 
+### Minimized
 
+The sidebar can be minimized by user or can be displayed by default on browsers with small width.
+
+#### General guidelines {#spacing-guidelines}
+
+* On hover, show only the Primary item label. If the mouse cursor moves away from the sidebar the dialog with Primary item label should instantly disappear.
+* On press, the dialog should stay on top of everything and should disappear only if user clicks outside of it.
+
+#### Spacing guidelines {#spacing-guidelines}
+
+* Primary item has increased width size to 320px, because of a left padding of 56px.
+* Secondary and Tertiary items keep exactly the same CSS properties.
+
+![](/assets/organisms/sidebar-minimized-secondary-items.png)
+
+```
+/* Primary label section on Minimized Sidebar */
+
+
+/* Label section */
+width: 320px;
+padding-right: 56px;
+```
+
+---
+
+![](/assets/organisms/sidebar-minimized-states.png)
 
