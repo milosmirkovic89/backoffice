@@ -517,3 +517,9 @@ padding-right: 56px;
 
 ![](/assets/organisms/sidebar-minimized-states.png)
 
+```
+/* The CSS properties of Primary, Secondary and Tertiary item states stay exactly the same */
+```
+
+
+
