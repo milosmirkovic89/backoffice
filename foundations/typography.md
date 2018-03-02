@@ -19,7 +19,7 @@ This typeface is used in two different weights: **Regular** and **Semibold**.
 
 ##### Text size
 
-Open Sans typeface is used in following sizes: **23pt,** **19pt, 15pt, 13pt and 11pt.**
+Open Sans typeface is used in following sizes: **23pt,** **19pt, 15pt, 13pt, 12pt **and** 11pt.**
 
 ![](/assets/foundations/typography-open-sans-text-size.png)
 
@@ -41,7 +41,7 @@ This typeface is used only in **Regular** weight.
 
 ##### Text size
 
-Montserrat typeface is used in following sizes: **14pt, 13pt, 12pt.**
+Montserrat typeface is used in following sizes: **14pt, 13pt **and** 12pt.**
 
 ![](/assets/foundations/typography-montserrat-text-size.png)
 
