@@ -192,6 +192,7 @@ Used when at least a sentence of text is expected or necessary to be entered.
 /* Default */
 min-height: 108px;
 line-height: 21px;
+padding: 12px 0 12px 0;
 color: $S500;
 
 /* On focus */
