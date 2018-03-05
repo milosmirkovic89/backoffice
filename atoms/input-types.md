@@ -175,7 +175,14 @@ color: $G200;
 
 ### Textarea
 
-Used when at least a sentence of text is expected or necessary to be entered. Consider setting a minimum 4 rows. This increases the height of the text area to 106px, making it clearer to the user that they can write more. When the expectation is for the user to write significantly more, consider setting the the number of rows to 10\(+\) so they know they can write more, and there’s less vertical scroll for them as they type.
+Used when at least a sentence of text is expected or necessary to be entered.
+
+#### General guidelines
+
+* Consider setting a minimum 4 rows.
+* The line height is set to 21px \(font size of: 13px + 8px\).
+* This increases the height of the text area to 108px, making it clearer to the user that they can write more.
+* When the expectation is for the user to write significantly more, consider setting the the number of rows to 10\(+\) so they know they can write more, and there’s less vertical scroll for them as they type.
 
 ![](/assets/atoms/input-types-text-area-states.png)
 
