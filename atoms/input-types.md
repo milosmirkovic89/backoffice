@@ -190,7 +190,7 @@ Used when at least a sentence of text is expected or necessary to be entered.
 /* Differences compared to Text input CSS */
 
 /* Default */
-min-height: 106px;
+min-height: 108px;
 line-height: 21px;
 color: $S500;
 
@@ -201,6 +201,11 @@ color: $B200;
 /* Filled out */
 font-weight: Regular;
 color: $B200;
+
+/* Uneditable */
+font-weight: Regular;
+color: $B200;
+border: none;
 ```
 
 
