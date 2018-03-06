@@ -19,6 +19,7 @@
   * [Forms](molecules/forms.md)
   * [Pagination](molecules/pagination.md)
 * [Organisms](organisms.md)
+  * [Headers](headers.md)
   * [Sidebar](sidebar.md)
   * [Tables](tables.md)
   * [Top header](organisms/top-header.md)

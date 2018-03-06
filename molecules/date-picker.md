@@ -25,7 +25,7 @@ width: 380px;
 width: 182px;
 margin-right: 8px;
 
-/* Filter date range */
+/* Filter range */
 width: 182px;
 margin-right: 8px;
 ```
