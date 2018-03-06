@@ -21,8 +21,13 @@ Date pickers are mostly used in forms as data inputs or in header sections as da
 /* Form input */
 width: 380px;
 
-/* Filter input */
+/* Filter date */
 width: 182px;
+margin-right: 8px;
+
+/* Filter date range */
+width: 182px;
+margin-right: 8px;
 ```
 
 ---
