@@ -60,7 +60,7 @@ Arrow icons fall into the group of small icons that contain 16x16px container. T
 
 ### Flags
 
-Flag images fall into the group of medium icons that contain 24x24px container. All flag images have a dimensions of 96x96px which is the exact size needed for @4x retina screens. @1x, @2x and @3x should use the same images, just downscaled accordingly.
+Flag images fall into the group of medium icons that contain 24x24px container. All flag images have a dimensions of 96x96px which is the exact size needed for @4x retina screens. @1x, @2x and @3x should use the same images, just downscaled.
 
 ![](/assets/foundations/iconography-flags.png)
 
