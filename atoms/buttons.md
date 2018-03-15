@@ -89,7 +89,7 @@ Positive buttons come in 2 different height sizes: **40px** and **32px**. Each o
 /* Default All */
 background-color: $S200;
 border-radius: 3px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 transition: all 0.2s;
 font-family: Montserrat;
 color: $G300;
@@ -106,11 +106,9 @@ font-size: 13px;
 
 /* On-hover All */
 background-color: $S300;
-border: 1px solid $S500;
 
 /* On-focus All */
 background-color: $S400;
-border: 1px solid $S500;
 
 /* Loading Icon All*/
 color: $G300;
@@ -134,7 +132,7 @@ Negataive buttons come in 2 different height sizes: **40px** and **32px**. Each 
 /* Default All */
 background-color: $S200;
 border-radius: 3px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 transition: all 0.2s;
 font-family: Montserrat;
 color: $R300;
@@ -151,11 +149,9 @@ font-size: 13px;
 
 /* On-hover All */
 background-color: $S300;
-border: 1px solid $S500;
 
 /* On-focus All */
 background-color: $S400;
-border: 1px solid $S500;
 
 /* Loading Icon All*/
 color: $red300;
@@ -179,7 +175,7 @@ Neutral buttons come in 2 different height sizes: **40px** and **32px**. Each of
 /* Default All */
 background-color: $S200;
 border-radius: 3px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 transition: all 0.2s;
 font-family: Montserrat;
 color: $B200;
@@ -196,11 +192,9 @@ font-size: 13px;
 
 /* On-hover All */
 background-color: $S300;
-border: 1px solid $S500;
 
 /* On-focus All */
 background-color: $S400;
-border: 1px solid $S500;
 
 /* Loading Icon All*/
 color: $black300;
