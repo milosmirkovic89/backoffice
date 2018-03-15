@@ -29,7 +29,7 @@ Single-select checkboxes are standalone and they are used as an enable/disable a
 width: 24px;
 height: 24px;
 background: $S100;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 3px;
 margin: 8px 8px 8px 0;
 

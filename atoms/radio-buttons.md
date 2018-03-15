@@ -23,7 +23,7 @@ Radio buttons are mostly used when there are multiple choices, but only one opti
 background: $S100;
 width: 20px;
 height: 20px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 100%;
 margin: 10px 8px 10px 0;
 

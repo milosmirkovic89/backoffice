@@ -24,7 +24,7 @@ Toggles are a quick way to view and switch between enabled or disabled states. T
 background: $S100;
 width: 48px;
 height: 24px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 100%;
 
 /* Default / on icons */

@@ -41,7 +41,7 @@ Text inputs are used for simple text fields such as name, email address, phone n
 background-color: $S100;
 height: 40px;
 padding: 0 16px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 3px;
 font-family: Open Sans;
 font-weight: Regular;

@@ -47,7 +47,7 @@ width: 83px;
 background-color: $S200;
 height: 40px;
 padding: 0 16px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 3px;
 font-family: Open Sans;
 font-weight: Regular;
@@ -67,7 +67,7 @@ border: 1px solid $G200;
 /* On focus list item */
 height: 48px;
 padding: 0 16px 0 16px;
-border-bottom: 1px solid $S400;
+border-bottom: 1px solid $S500;
 background: $S100;
 font-family: Open Sans;
 font-weight: Semibold;
@@ -77,7 +77,7 @@ color: $B200;
 background: $S200;
 
 /* On focus list base */
-border: 1px solid $S400;
+border: 1px solid $S500;
 box-shadow: 2px 2px 4px 0 #E0E0E0;
 border-radius: 3px;
 
@@ -162,7 +162,7 @@ color: $B300;
 /* On focus / default / checkbox base */
 width: 24px;
 height: 24px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 3px;
 margin-right: 8px;
 
