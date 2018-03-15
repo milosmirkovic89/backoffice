@@ -39,7 +39,7 @@ margin-right: 8px;
 background-color: $S200;
 height: 40px;
 padding: 0 16px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 3px;
 font-family: Open Sans;
 font-weight: Regular;

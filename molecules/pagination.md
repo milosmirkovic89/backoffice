@@ -35,7 +35,7 @@ Page numbers have 4 different states: Default, On-hover, On-focus and Active. Th
 /* Default */
 background: $S100;
 height: 32px;
-border: 1px solid $S400;
+border: 1px solid $S500;
 border-radius: 3px;
 margin: 0 4px 0 4px;
 padding: 0 12px 0 12px;

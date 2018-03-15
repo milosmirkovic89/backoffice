@@ -23,7 +23,7 @@ width: 100px;
 height:72px;
 padding: 0 32px 0 32px;
 background-color: $S100;
-border-bottom: 1px solid $S400;
+border-bottom: 1px solid $S500;
 ```
 
 ---
