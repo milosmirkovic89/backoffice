@@ -15,5 +15,10 @@ Header \#1 is the main content header of the Back Office application and it indi
 * Besides the name of the page, the left side of the Header \#1 is reserved to show additional dropdown options or additional information such as the status of customers \(active, disabled...\).
 * The right side of the Header \#1 is reserved for various action buttons as well as the search function and the date range filters.
 
+#### Spacing guidelines {#general-guidelines}
 
+* Header \#1 use 100% width size of the content section.
+* Header \#1 has a hight size of 88px.
+
+![](/assets/organisms/headers-sizing.png)
 
