@@ -38,8 +38,8 @@ border-left: 8px solid $G200;
 #### Left side
 
 * There is a left padding of 32px.
-* The margin between elements is always 16px \(8+8\).
-* The margin between elements in a group is always 8px \(4+4\).
+* The margin between elements is always 16px.
+* The margin between elements in a group is always 8px.
 * Group elements are always divided by the separator.
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
@@ -51,13 +51,11 @@ font-family: OpenSans;
 font-size: 19px;
 font-weight: Regular:
 color: $B300;
-margin-right: 8px;
 
 /* Status tag / active */
 background: $G200;
 border-radius: 3px;
 padding: 0 8px 0 8px;
-margin: 0 8px 0 8px;
 font-family: OpenSans;
 font-weight: Semibold:
 font-size: 11px;
@@ -67,7 +65,6 @@ color: $G300;
 background: $R200;
 border-radius: 3px;
 padding: 0 8px 0 8px;
-margin: 0 8px 0 8px;
 font-family: OpenSans;
 font-weight: Semibold:
 font-size: 11px;
@@ -77,14 +74,12 @@ color: $R300;
 width: 2px;
 height: 16px;
 background: #D0D0D0;
-margin: 0 8px 0 8px;
 
 /* Dropdown label */
 font-family: OpenSans;
 font-weight: Regular;
 font-size: 13px;
 color: $B200;
-margin: 0 4px 0 8px;
 
 /* Dropdown */
 /* Use Dropdown Single-select at size M */
@@ -106,4 +101,34 @@ margin: 0 4px 0 8px;
 * Use 40px hight size [Buttons](/atoms/buttons.md).
 
 ![](/assets/organisms/headers-header-1-spacing-right.png)![](/assets/organisms/headers-header-1-atoms-right.png)
+
+```
+/* Button / primary */
+/* Use 40 height size  */
+
+/* Button / positive */
+/* Use 40 height size  */
+
+/* Button / negative */
+/* Use 40 height size  */
+
+/* Button / neutral */
+/* Use 40 height size  */
+
+/* Dropdown */
+/* Use Dropdown Single-select at size M */
+
+/* Search input */
+/* Use size M */
+
+/* Date picker */
+/* Use size M */
+
+/* Separator */
+width: 2px;
+height: 16px;
+background: #D0D0D0;
+```
+
+
 
