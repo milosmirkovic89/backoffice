@@ -26,12 +26,23 @@ Header \#1 is the main content header of the Back Office application and it indi
 
 * There is a left padding of 32px.
 * The padding between elements is always 16px.
+* The padding between elements in a group is always 8px.
+* Group elements are always divided by the separator.
 
 ![](/assets/organisms/headers-header-1-spacing-left.png)
 
-#### Atoms
+#### Left side elements
 
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
 ![](/assets/organisms/headers-header-1-atoms-left.png)
+
+#### Right side
+
+* There is a right padding of 32px.
+* The padding between elements is always 16px.
+* The padding between elements in a group is always 8px.
+* Group elements are always divided by the separator.
+
+![](/assets/organisms/headers-header-1-spacing-right.png)
 
