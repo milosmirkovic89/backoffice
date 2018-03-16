@@ -11,7 +11,7 @@ Header \#1 is the main content header of the Back Office application and it indi
 #### General guidelines {#general-guidelines}
 
 * There can be only one Header \#1 per page.
-* In cases where there is an additional level of hierarchy such a Client Information for specific user there's an 'X' \(close\) button on the far right.
+* In cases where there is an additional level of hierarchy, such as Client Information for specific user, there is an 'X' \(close\) button on the far right.
 * Besides the name of the page, the left side of the Header \#1 is reserved to show additional dropdown options or additional information such as the status of customers \(active, disabled...\).
 * The right side of the Header \#1 is reserved for various action buttons as well as the search function and the date range filters.
 
