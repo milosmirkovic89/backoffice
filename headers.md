@@ -22,11 +22,24 @@ Header \#1 is the main content header of the Back Office application and it indi
 
 ![](/assets/organisms/headers-header-1-sizing.png)
 
+```
+/* Header #1 */
+width: 100%;
+height: 88px;
+padding: 0 32px 0 32px;
+background-color: $S100;
+border-radius: 3px 3px 0 0;
+border-bottom: 1px solid $S500;
+border-left: 8px solid $G200;
+```
+
+---
+
 #### Left side
 
 * There is a left padding of 32px.
-* The padding between elements is always 16px.
-* The padding between elements in a group is always 8px.
+* The margin between elements is always 16px \(8+8\).
+* The margin between elements in a group is always 8px \(4+4\).
 * Group elements are always divided by the separator.
 
 ![](/assets/organisms/headers-header-1-spacing-left.png)
@@ -37,11 +50,62 @@ Header \#1 is the main content header of the Back Office application and it indi
 
 ![](/assets/organisms/headers-header-1-atoms-left.png)
 
+```
+/* Headline */
+font-family: OpenSans;
+font-size: 19px;
+font-weight: Regular:
+color: $B300;
+margin-right: 8px;
+
+/* Status tag / active */
+background: $G200;
+border-radius: 3px;
+padding: 0 8px 0 8px;
+margin: 0 8px 0 8px;
+font-family: OpenSans;
+font-weight: Semibold:
+font-size: 11px;
+color: $G300;
+
+
+/* Status tag / disabled */
+background: $R200;
+border-radius: 3px;
+padding: 0 8px 0 8px;
+margin: 0 8px 0 8px;
+font-family: OpenSans;
+font-weight: Semibold:
+font-size: 11px;
+color: $R300;
+
+
+/* Separator */
+width: 2px;
+height: 16px;
+background: #D0D0D0;
+margin: 0 8px 0 8px;
+
+
+/* Dropdown label */
+font-family: OpenSans;
+font-weight: Regular;
+font-size: 13px;
+color: $B200;
+margin: 0 4px 0 8px;
+
+/* Dropdown */
+/* Use Dropdown Single-select at size M */
+
+/* Security question icon */
+/* Use Help icon from UI Icons */
+```
+
 #### Right side
 
 * There is a right padding of 32px.
-* The padding between elements is always 16px.
-* The padding between elements in a group is always 8px.
+* The margin between elements is always 16px.
+* The margin between elements in a group is always 8px.
 * Group elements are always divided by the separator.
 
 ![](/assets/organisms/headers-header-1-spacing-right.png)
@@ -53,6 +117,4 @@ Header \#1 is the main content header of the Back Office application and it indi
 * Use 40px hight size [Buttons](/atoms/buttons.md).
 
 ![](/assets/organisms/headers-header-1-atoms-right.png)
-
-
 
