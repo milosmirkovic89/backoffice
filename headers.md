@@ -101,6 +101,8 @@ margin: 0 4px 0 8px;
 /* Use Help icon from UI Icons */
 ```
 
+---
+
 #### Right side
 
 * There is a right padding of 32px.
