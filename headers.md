@@ -52,5 +52,7 @@ Header \#1 is the main content header of the Back Office application and it indi
 * Use 'M' size for [Input types](/atoms/input-types.md).
 * Use 40px hight size [Buttons](/atoms/buttons.md).
 
+![](/assets/organisms/headers-header-1-atoms-right.png)
+
 
 
