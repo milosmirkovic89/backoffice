@@ -41,14 +41,9 @@ border-left: 8px solid $G200;
 * The margin between elements is always 16px \(8+8\).
 * The margin between elements in a group is always 8px \(4+4\).
 * Group elements are always divided by the separator.
-
-![](/assets/organisms/headers-header-1-spacing-left.png)
-
-#### Left atoms
-
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
-![](/assets/organisms/headers-header-1-atoms-left.png)
+![](/assets/organisms/headers-header-1-spacing-left.png)![](/assets/organisms/headers-header-1-atoms-left.png)
 
 ```
 /* Headline */
@@ -68,7 +63,6 @@ font-weight: Semibold:
 font-size: 11px;
 color: $G300;
 
-
 /* Status tag / disabled */
 background: $R200;
 border-radius: 3px;
@@ -79,13 +73,11 @@ font-weight: Semibold:
 font-size: 11px;
 color: $R300;
 
-
 /* Separator */
 width: 2px;
 height: 16px;
 background: #D0D0D0;
 margin: 0 8px 0 8px;
-
 
 /* Dropdown label */
 font-family: OpenSans;
@@ -109,14 +101,9 @@ margin: 0 4px 0 8px;
 * The margin between elements is always 16px.
 * The margin between elements in a group is always 8px.
 * Group elements are always divided by the separator.
-
-![](/assets/organisms/headers-header-1-spacing-right.png)
-
-#### Right atoms
-
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 * Use 'M' size for [Input types](/atoms/input-types.md).
 * Use 40px hight size [Buttons](/atoms/buttons.md).
 
-![](/assets/organisms/headers-header-1-atoms-right.png)
+![](/assets/organisms/headers-header-1-spacing-right.png)![](/assets/organisms/headers-header-1-atoms-right.png)
 
