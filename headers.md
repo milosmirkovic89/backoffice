@@ -32,7 +32,6 @@ Header \#1 is the main content header of the Back Office application and it indi
 
 #### Atoms
 
-* 
 ![](/assets/organisms/headers-header-1-atoms-left.png)
 
 
