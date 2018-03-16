@@ -44,7 +44,7 @@ border-left: 8px solid $G200;
 
 ![](/assets/organisms/headers-header-1-spacing-left.png)
 
-#### Left side elements
+#### Left atoms
 
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
@@ -112,7 +112,7 @@ margin: 0 4px 0 8px;
 
 ![](/assets/organisms/headers-header-1-spacing-right.png)
 
-#### Right side elements
+#### Right atoms
 
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 * Use 'M' size for [Input types](/atoms/input-types.md).
