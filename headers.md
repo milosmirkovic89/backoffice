@@ -26,13 +26,12 @@ Header \#1 is the main content header of the Back Office application and it indi
 
 * There is a left padding of 32px.
 * The padding between elements is always 16px.
-* Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
 ![](/assets/organisms/headers-header-1-spacing-left.png)
 
 #### Atoms
 
+* Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
+
 ![](/assets/organisms/headers-header-1-atoms-left.png)
-
-
 
