@@ -103,6 +103,20 @@ color: $B200;
 ![](/assets/organisms/headers-header-1-spacing-right.png)![](/assets/organisms/headers-header-1-atoms-right.png)
 
 ```
+/* Close button / default */
+width: 40px;
+height: 40px;
+background: $S100;
+border: 1px solid $S500;
+border-radius: 3px;
+color: $S500;
+
+/* Close button / on hover */
+background: $S200;
+
+/* Close button / on focus */
+background: $S300;
+
 /* Button / primary */
 /* Use 40 height size  */
 
