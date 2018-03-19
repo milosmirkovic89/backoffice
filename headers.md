@@ -200,19 +200,55 @@ When there are multiple sections that fall into the same category we should use 
 #### General guidelines {#general-guidelines}
 
 * There can be multiple Header \#3 per page.
+* Header \#3 can be used in full width size or as a column header on pages such as 'CP Statements'.
 
-![](/assets/organisms/headers-header-3-sizing.png)
+##### Full width
+
+![](/assets/organisms/headers-header-3-full.png)
 
 ```
-/* Header #3 */
+/* Header #3 / full width */
 width: 100%;
 height: 48px;
-padding: 0 32px 0 32px;
+padding-left: 32px;
 background-color: $S200;
 border-top: 1px solid $S500;
 border-bottom: 1px solid $S500;
 border-left: 8px solid $O200;
 ```
+
+---
+
+##### Column
+
+![](/assets/organisms/headers-header-3-column.png)
+
+```
+/* Header #3 / column */
+width: auto;
+height: 48px;
+padding-left: 32px;
+background-color: $S200;
+border-top: 1px solid $S500;
+border-bottom: 1px solid $S500;
+border-left: 8px solid $O200;
+```
+
+---
+
+##### Atoms
+
+![](/assets/organisms/headers-header-3-atoms.png)
+
+```
+/* Headline #3 */
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Semibold:
+color: $B200;
+```
+
+---
 
 
 
