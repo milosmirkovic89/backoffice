@@ -11,9 +11,6 @@ Header \#1 is the main content header of the Back Office application and it indi
 #### General guidelines {#general-guidelines}
 
 * There can be only one Header \#1 per page.
-* In cases where there is an additional level of hierarchy, such as Client Information for specific user, there is an 'X' \(close\) button on the far right.
-* Besides the name of the page, the left side of the Header \#1 is reserved to show additional dropdown options or additional information such as the status of customers \(active, disabled...\).
-* The right side of the Header \#1 is reserved for various action buttons as well as the search function and the date range filters.
 
 #### Spacing guidelines {#general-guidelines}
 
@@ -37,7 +34,8 @@ border-left: 8px solid $G200;
 
 #### Left side
 
-* There is a left padding of 32px.
+* Besides the name of the page, the left side of the Header \#1 is reserved to show additional dropdown options or additional information such as the status of customers \(active, disabled...\).
+* The first letter of every word should be capitalized, \(except for "and", "of", "in"...\).
 * The margin between elements is always 16px.
 * The margin between elements in a group is always 8px.
 * Group elements are always divided by the separator.
@@ -46,7 +44,7 @@ border-left: 8px solid $G200;
 ![](/assets/organisms/headers-header-1-spacing-left.png)![](/assets/organisms/headers-header-1-atoms-left.png)
 
 ```
-/* Headline */
+/* Headline #1 */
 font-family: OpenSans;
 font-size: 19px;
 font-weight: Regular:
@@ -92,7 +90,8 @@ color: $B200;
 
 #### Right side
 
-* There is a right padding of 32px.
+* In cases where there is an additional level of hierarchy, such as 'Client Information' for specific user, there is an 'X' \(close\) button on the far right.
+* The right side of the Header \#1 is reserved for various action buttons as well as the search function and the date range filters.
 * The margin between elements is always 16px.
 * The margin between elements in a group is always 8px.
 * Group elements are always divided by the separator.
@@ -142,6 +141,46 @@ background: $S300;
 width: 2px;
 height: 16px;
 background: #D0D0D0;
+```
+
+---
+
+### Header \#2
+
+Header \#2 is the secondary header of the application with very small differences compared to the Header \#1. The details below contain only those differences.
+
+#### General guidelines {#general-guidelines}
+
+* There can be multiple Header \#2 per page.
+* There is no 'X' \(close\) button in Header \#2.
+
+![](/assets/organisms/headers-header-2-sizing.png)
+
+```
+/* Differences compared to the Header #1 */
+
+/* Header #2 */
+border-radius: 0;
+border-left: 0;
+```
+
+---
+
+#### Left side
+
+* Only first letter of the headline should be capitalized.
+
+![](/assets/organisms/headers-header-2-spacing-left.png)
+
+```
+/* Differences compared to the Header #1 */
+
+
+/* Headline #2 */
+font-family: OpenSans;
+font-size: 15px;
+font-weight: Regular:
+color: $B300;
 ```
 
 
