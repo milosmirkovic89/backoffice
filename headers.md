@@ -195,12 +195,7 @@ color: $B300;
 
 ### Header \#3
 
-When there are multiple sections that fall into the same category we should use Header \#3 to group the elements in it \(example: 'Buy time' and 'Sell time' on the 'Trading time' page\).
-
-#### General guidelines {#general-guidelines}
-
-* There can be multiple Header \#3 per page.
-* Header \#3 can be used in full width size or as a column header on pages such as 'CP Statements'.
+When there are multiple sections that fall into the same category we should use Header \#3 to group the elements in it \(example: 'Buy time' and 'Sell time' on the 'Trading time' page\). Header \#3 can be used in **full width** size or as a **column** header on pages such as 'CP Statements'.
 
 ##### Full width
 
