@@ -172,11 +172,8 @@ border-left: 0;
 
 ![](/assets/organisms/headers-header-2-spacing-left.png)![](/assets/organisms/headers-header-2-atoms-left.png)
 
-
-
 ```
 /* Differences compared to the Header #1 */
-
 
 /* Headline #2 */
 font-family: OpenSans;
