@@ -195,5 +195,24 @@ color: $B300;
 
 ### Header \#3
 
+When there are multiple sections that fall into the same category we should use Header \#3 to group the elements in it \(example: 'Buy time' and 'Sell time' on the 'Trading time' page\).
+
+#### General guidelines {#general-guidelines}
+
+* There can be multiple Header \#3 per page.
+
+![](/assets/organisms/headers-header-3-sizing.png)
+
+```
+/* Header #3 */
+width: 100%;
+height: 48px;
+padding: 0 32px 0 32px;
+background-color: $S200;
+border-top: 1px solid $S500;
+border-bottom: 1px solid $S500;
+border-left: 8px solid $O200;
+```
+
 
 
