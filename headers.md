@@ -152,7 +152,6 @@ Header \#2 is the secondary header of the application with very small difference
 #### General guidelines {#general-guidelines}
 
 * There can be multiple Header \#2 per page.
-* There is no 'X' \(close\) button in Header \#2.
 
 ![](/assets/organisms/headers-header-2-sizing.png)
 
@@ -181,6 +180,20 @@ font-size: 15px;
 font-weight: Regular:
 color: $B300;
 ```
+
+---
+
+#### Right side
+
+* There is no 'X' \(close\) button in Header \#2.
+
+```
+/* The right side of the Header #2 use the same CSS properties as Header #1 */
+```
+
+---
+
+### Header \#3
 
 
 
