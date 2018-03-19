@@ -1,6 +1,6 @@
 # Headers
 
-Because of complexity of the app there is a need for different types of content headers: **Header \#1**, **Header \#2**, **Header \#3**, **Header \#4,** **Header \#5 **and** Header \#6.**
+Because of complexity of the app there is a need for different types of content headers: **Header \#1**, **Header \#2**, **Header \#3 **and **Header \#4.**
 
 **Note: **All CSS shown is for guiding purposes and it's not absolute.
 
