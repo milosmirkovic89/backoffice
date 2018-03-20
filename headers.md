@@ -233,7 +233,7 @@ border-left: 8px solid $O200;
 /* Use exactly the same CSS properties as Header #3 / full width */
 ```
 
-##### Atoms
+---
 
 ![](/assets/organisms/headers-header-3-atoms.png)
 
