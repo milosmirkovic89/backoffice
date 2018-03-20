@@ -40,7 +40,11 @@ border-left: 8px solid $G200;
 * Group elements are always divided by the separator.
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
-![](/assets/organisms/headers-header-1-spacing-left.png)![](/assets/organisms/headers-header-1-atoms-left.png)
+![](/assets/organisms/headers-header-1-spacing-left.png)
+
+##### Atoms
+
+ ![](/assets/organisms/headers-header-1-atoms-left.png)
 
 ```
 /* Headline #1 */
@@ -98,7 +102,11 @@ color: $B200;
 * Use 'M' size for [Input types](/atoms/input-types.md).
 * Use 40px hight size [Buttons](/atoms/buttons.md).
 
-![](/assets/organisms/headers-header-1-spacing-right.png)![](/assets/organisms/headers-header-1-atoms-right.png)
+![](/assets/organisms/headers-header-1-spacing-right.png)   
+
+##### Atoms
+
+ ![](/assets/organisms/headers-header-1-atoms-right.png)
 
 ```
 /* Close button / default */
@@ -200,7 +208,9 @@ color: $B300;
 
 When there are multiple sections that fall into the same category we should use Header \#3 to group the elements in it \(example: 'Buy time' and 'Sell time' on the 'Trading time' page\). Header \#3 can be used in **full width** size or as a **column** header on pages such as 'CP Statements'. Also, there's an additional Header \#3 that contains **toggle** switch actions.
 
-##### Full width
+#### Full width
+
+This is the most common use of Header \#3 with a full width related to the main content wrapper.
 
 ![](/assets/organisms/headers-header-3-full.png)
 
@@ -216,7 +226,9 @@ border-left: 8px solid $O200;
 
 ---
 
-##### Column
+#### Column
+
+Sometimes there is a need to have separated two-column layout within the main content wrapper. In this cases Header \#3 is used as a Column header.
 
 ![](/assets/organisms/headers-header-3-column.png)
 
@@ -227,9 +239,10 @@ border-left: 8px solid $O200;
 
 ---
 
-##### Toggle
+#### Toggle
 
-* Use [toggles](/atoms/toggles.md) when needed to activate or disable the section below \(example: 'Transaction Monitoring Settings / Transactions'\)
+Use [toggles](/atoms/toggles.md) when needed to activate or disable the form below the Header \#3 \(example: 'Transaction Monitoring Settings / Transactions'\).
+
 * There is an 8px margin between toggles and headlines.
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
@@ -241,6 +254,8 @@ border-left: 8px solid $O200;
 ```
 
 ---
+
+##### Atoms
 
 ![](/assets/organisms/headers-header-3-atoms.png)
 
