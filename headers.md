@@ -243,6 +243,15 @@ font-family: OpenSans;
 font-size: 13px;
 font-weight: Semibold:
 color: $B200;
+
+/* Toggle / off */
+/* See Toggles in Atoms category   */
+
+/* Toggle / on */
+/* See Toggles in Atoms category   */
+
+/* Dropdown */
+/* Use size M */
 ```
 
 ---
