@@ -21,7 +21,6 @@ Header \#1 is the main content header of the Back Office application and it indi
 
 ```
 /* Header #1 */
-width: 100%;
 height: 88px;
 padding: 0 32px 0 32px;
 background-color: $S100;
@@ -195,7 +194,7 @@ color: $B300;
 
 ### Header \#3
 
-When there are multiple sections that fall into the same category we should use Header \#3 to group the elements in it \(example: 'Buy time' and 'Sell time' on the 'Trading time' page\). Header \#3 can be used in **full width** size or as a **column** header on pages such as 'CP Statements'.
+When there are multiple sections that fall into the same category we should use Header \#3 to group the elements in it \(example: 'Buy time' and 'Sell time' on the 'Trading time' page\). Header \#3 can be used in **full width** size or as a **column** header on pages such as 'CP Statements'. Also, there's an additional Header \#3 that contains **toggle** switch actions.
 
 ##### Full width
 
@@ -203,7 +202,6 @@ When there are multiple sections that fall into the same category we should use 
 
 ```
 /* Header #3 / full width */
-width: 100%;
 height: 48px;
 padding-left: 32px;
 background-color: $S200;
@@ -220,7 +218,6 @@ border-left: 8px solid $O200;
 
 ```
 /* Header #3 / column */
-width: auto;
 height: 48px;
 padding-left: 32px;
 background-color: $S200;
@@ -230,6 +227,20 @@ border-left: 8px solid $O200;
 ```
 
 ---
+
+##### Toggle
+
+![](/assets/organisms/headers-header-3-toggle.png)
+
+```
+/* Header #3 / toggle */
+height: 48px;
+padding-left: 32px;
+background-color: $S200;
+border-top: 1px solid $S500;
+border-bottom: 1px solid $S500;
+border-left: 8px solid $O200;
+```
 
 ##### Atoms
 
@@ -244,6 +255,8 @@ color: $B200;
 ```
 
 ---
+
+### Header \#4
 
 
 
