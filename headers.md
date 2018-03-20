@@ -200,7 +200,7 @@ color: $B300;
 
 When there are multiple sections that fall into the same category we should use Header \#3 to group the elements in it \(example: 'Buy time' and 'Sell time' on the 'Trading time' page\). Header \#3 can be used in **full width** size or as a **column** header on pages such as 'CP Statements'. Also, there's an additional Header \#3 that contains **toggle** switch actions.
 
-#### Full width
+##### Full width
 
 This is the most common use of Header \#3 with a full width related to the main content wrapper.
 
@@ -218,7 +218,7 @@ border-left: 8px solid $O200;
 
 ---
 
-#### Column
+##### Column
 
 Sometimes there is a need to have separated two-column layout within the main content wrapper. In this cases Header \#3 is used as a Column header.
 
@@ -231,9 +231,9 @@ Sometimes there is a need to have separated two-column layout within the main co
 
 ---
 
-#### Toggle
+##### Toggle
 
-Use [toggles](/atoms/toggles.md) when needed to activate or disable the form below the Header \#3 \(example: 'Transaction Monitoring Settings / Transactions'\).
+Use [toggles](/atoms/toggles.md) when an option to activate or disable the form below the Header \#3 is needed \(example: 'Transaction Monitoring Settings / Transactions'\).
 
 * There is an 8px margin between toggles and headlines.
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
@@ -247,7 +247,7 @@ Use [toggles](/atoms/toggles.md) when needed to activate or disable the form bel
 
 ---
 
-#### Atoms
+###### Atoms
 
 ![](/assets/organisms/headers-header-3-atoms.png)
 
