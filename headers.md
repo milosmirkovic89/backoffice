@@ -272,5 +272,28 @@ color: $B200;
 
 ### Header \#4
 
+![](/assets/organisms/headers-header-4-sizing.png)
+
+```
+/* Header #3 */
+height: 40px;
+padding-left: 32px;
+background-color: $S200;
+```
+
+---
+
+##### Atoms
+
+![](/assets/organisms/headers-header-4-atoms.png)
+
+```
+/* Headline #4 */
+font-family: OpenSans;
+font-size: 12px;
+font-weight: Semibold:
+color: $B200;
+```
+
 
 
