@@ -158,7 +158,11 @@ Header \#2 is the secondary header of the application with very small difference
 /* Differences compared to the Header #1 */
 
 /* Header #2 */
+height: 88px;
+padding: 0 32px 0 32px;
+background-color: $S100;
 border-radius: 0;
+border-bottom: 1px solid $S500;
 border-left: 0;
 ```
 
@@ -171,10 +175,13 @@ border-left: 0;
 ![](/assets/organisms/headers-header-2-spacing-left.png)![](/assets/organisms/headers-header-2-atoms-left.png)
 
 ```
-/* Differences compared to the Headline #1 */
+/* Differences compared to the Header #1 */
 
 /* Headline #2 */
+font-family: OpenSans;
 font-size: 15px;
+font-weight: Regular:
+color: $B300;
 ```
 
 ---
