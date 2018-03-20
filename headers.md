@@ -42,7 +42,9 @@ border-left: 8px solid $G200;
 
 ![](/assets/organisms/headers-header-1-spacing-left.png)
 
-##### Atoms![](/assets/organisms/headers-header-1-atoms-left.png)
+#### Atoms
+
+![](/assets/organisms/headers-header-1-atoms-left.png)
 
 ```
 /* Headline #1 */
@@ -102,7 +104,7 @@ color: $B200;
 
 ![](/assets/organisms/headers-header-1-spacing-right.png)
 
-##### Atoms
+#### Atoms
 
 ![](/assets/organisms/headers-header-1-atoms-right.png)
 
@@ -178,7 +180,11 @@ border-left: 0;
 
 * Only first letter of the headline should be capitalized.
 
-![](/assets/organisms/headers-header-2-spacing-left.png)![](/assets/organisms/headers-header-2-atoms-left.png)
+![](/assets/organisms/headers-header-2-spacing-left.png)
+
+#### Atoms
+
+![](/assets/organisms/headers-header-2-atoms-left.png)
 
 ```
 /* Differences compared to the Header #1 */
@@ -253,7 +259,7 @@ Use [toggles](/atoms/toggles.md) when needed to activate or disable the form bel
 
 ---
 
-##### Atoms
+#### Atoms
 
 ![](/assets/organisms/headers-header-3-atoms.png)
 
