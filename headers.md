@@ -247,7 +247,7 @@ Use [toggles](/atoms/toggles.md) when an option to activate or disable the form 
 
 ---
 
-##### Atoms
+##### Header \#3 elements
 
 ![](/assets/organisms/headers-header-3-atoms.png)
 
@@ -272,6 +272,8 @@ color: $B200;
 
 ### Header \#4
 
+Header \#4 is mostly used in pages that use the grid layout such as 'Quote Screen' or 'CP Statements'. The style of the Header \#4 is very similar to label row in tables.
+
 ![](/assets/organisms/headers-header-4-sizing.png)
 
 ```
@@ -283,7 +285,7 @@ background-color: $S200;
 
 ---
 
-##### Atoms
+##### Header \#4 elements
 
 ![](/assets/organisms/headers-header-4-atoms.png)
 
