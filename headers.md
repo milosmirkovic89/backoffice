@@ -218,28 +218,22 @@ border-left: 8px solid $O200;
 
 ```
 /* Header #3 / column */
-height: 48px;
-padding-left: 32px;
-background-color: $S200;
-border-top: 1px solid $S500;
-border-bottom: 1px solid $S500;
-border-left: 8px solid $O200;
+/* Use exactly the same CSS properties as Header #3 / full width */
 ```
 
 ---
 
 ##### Toggle
 
+* Use [toggles](/atoms/toggles.md) when needed to activate or disable the section below \(example: 'Transaction Monitoring Settings / Transactions'\)
+* There is an 8px margin between toggles and headlines.
+* Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
+
 ![](/assets/organisms/headers-header-3-toggle.png)
 
 ```
 /* Header #3 / toggle */
-height: 48px;
-padding-left: 32px;
-background-color: $S200;
-border-top: 1px solid $S500;
-border-bottom: 1px solid $S500;
-border-left: 8px solid $O200;
+/* Use exactly the same CSS properties as Header #3 / full width */
 ```
 
 ##### Atoms
