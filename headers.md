@@ -247,7 +247,7 @@ Use [toggles](/atoms/toggles.md) when an option to activate or disable the form 
 
 ---
 
-###### Atoms
+##### Atoms
 
 ![](/assets/organisms/headers-header-3-atoms.png)
 
