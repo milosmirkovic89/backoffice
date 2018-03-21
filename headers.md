@@ -297,7 +297,7 @@ background-color: $S200;
 
 ---
 
-##### Header \#4 elements
+##### Elements
 
 ![](/assets/organisms/headers-header-4-atoms.png)
 
