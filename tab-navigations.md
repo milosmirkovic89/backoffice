@@ -31,3 +31,10 @@ border-bottom: 1px solid $S500;
 
 ---
 
+#### Nav arrows
+
+* [Nav arrows](/atoms/nav-arrows.md) should be visible only in cases when there are more items on the left or the right side, or both.
+* When [Nav arrows](/atoms/nav-arrows.md) are visible there is an gradient mask of 64px in width next to them.
+
+![](/assets/organisms/tab-navigations-primary-nav-arrows.png)
+
