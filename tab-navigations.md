@@ -39,14 +39,30 @@ border-bottom: 1px solid $S500;
 ![](/assets/organisms/tab-navigations-primary-nav-arrows.png)
 
 ```
+/* Nav arrow / left */
+float: left;
+
 /* Gradient mask / left */
+width: 64px;
 background-image: linear-gradient(90deg, $S100 0%, $S200 75%);
 
+/* Nav arrow / left */
+float: right;
+
 /* Gradient mask / right */
+width: 64px;
 background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 ```
 
 ---
 
-Primary elements
+##### Items
+
+![](/assets/organisms/tab-navigations-primary-items.png)
+
+```
+
+```
+
+
 
