@@ -21,7 +21,7 @@ The primary tab navigation contains the pages that are built-in the system, for 
 ![](/assets/organisms/tab-navigations-primary-sizing.png)
 
 ```
-/* Primary */
+/* Primary base */
 height: 72px;
 padding: 0 16px 0 16px;
 background-color: $S200;
@@ -61,8 +61,24 @@ background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 ![](/assets/organisms/tab-navigations-primary-items.png)
 
 ```
+/* Primary item / default */
+height: 16px;
+padding: 0 16px 0 16px;
+border-right: 2px solid $S400;
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Semibold:
+color: $B200;
 
+/* Primary item / on-hover */
+color: $S500;
+
+/* Primary item / on-hover */
+color: $B100;
+
+/* Primary item / on-hover */
+color: $G300;
 ```
 
-
+---
 
