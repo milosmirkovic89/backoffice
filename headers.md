@@ -31,7 +31,7 @@ border-left: 8px solid $G200;
 
 ---
 
-#### Left side
+##### Left side
 
 * Besides the name of the page, the left side of the Header \#1 is reserved to show additional dropdown options or additional information such as the status of customers \(active, disabled...\).
 * The first letter of every word should be capitalized, \(except for "and", "of", "in"...\).
@@ -87,7 +87,7 @@ color: $B200;
 
 ---
 
-#### Right side
+##### Right side
 
 * In cases where there is an additional level of hierarchy, such as 'Client Information' for specific user, there is an 'X' \(close\) button on the far right.
 * The right side of the Header \#1 is reserved for various action buttons as well as the search function and the date range filters.
@@ -168,7 +168,7 @@ border-left: 0;
 
 ---
 
-#### Left side
+##### Left side
 
 * Only first letter of the headline should be capitalized.
 
@@ -186,7 +186,7 @@ color: $B300;
 
 ---
 
-#### Right side
+##### Right side
 
 * There is no 'X' \(close\) button in Header \#2.
 
