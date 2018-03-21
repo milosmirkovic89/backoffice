@@ -56,7 +56,7 @@ background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 
 ---
 
-##### Items
+##### Elements
 
 ![](/assets/organisms/tab-navigations-primary-items.png)
 
