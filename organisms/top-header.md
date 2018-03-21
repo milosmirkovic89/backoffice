@@ -1,6 +1,6 @@
 # Top header
 
-In other words, the main header on all pages across the back office application. It contains breadcrumbs, language, support and account options.
+In other words, Top header is the main header on all pages across the back office application. It contains breadcrumbs, language, support and account options.
 
 **Note: **All CSS shown is for guiding purposes and it's not absolute.
 

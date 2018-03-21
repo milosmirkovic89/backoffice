@@ -22,6 +22,7 @@
   * [Headers](headers.md)
   * [Sidebar](sidebar.md)
   * [Tables](tables.md)
+  * [Tab navigations](tab-navigations.md)
   * [Top header](organisms/top-header.md)
 * [Templates](templates.md)
 * [Pages](pages.md)
