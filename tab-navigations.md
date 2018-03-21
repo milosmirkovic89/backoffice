@@ -15,8 +15,19 @@ The primary tab navigation contains the pages that are built-in the system, for 
 
 #### Spacing guidelines {#spacing-guidelines}
 
-* The height of the Primary TN is 72px.
+* The height of the Primary tab navigation is 72px.
 * There are paddings on the left and right of 16px.
 
 ![](/assets/organisms/tab-navigations-primary-sizing.png)
+
+```
+/* Primary */
+height: 72px;
+padding: 0 16px 0 16px;
+background-color: $S200;
+border-top: 1px solid $S500;
+border-bottom: 1px solid $S500;
+```
+
+---
 
