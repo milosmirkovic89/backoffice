@@ -40,7 +40,11 @@ border-left: 8px solid $G200;
 * Group elements are always divided by the separator.
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 
-![](/assets/organisms/headers-header-1-spacing-left.png)![](/assets/organisms/headers-header-1-atoms-left.png)
+![](/assets/organisms/headers-header-1-spacing-left.png)
+
+##### Elements
+
+![](/assets/organisms/headers-header-1-atoms-left.png)
 
 ```
 /* Headline #1 */
@@ -98,7 +102,11 @@ color: $B200;
 * Use 'M' size for [Input types](/atoms/input-types.md).
 * Use 40px hight size [Buttons](/atoms/buttons.md).
 
-![](/assets/organisms/headers-header-1-spacing-right.png)![](/assets/organisms/headers-header-1-atoms-right.png)
+![](/assets/organisms/headers-header-1-spacing-right.png)
+
+##### Elements
+
+![](/assets/organisms/headers-header-1-atoms-right.png)
 
 ```
 /* Close button / default */
@@ -251,7 +259,7 @@ Use [toggles](/atoms/toggles.md) when an option to activate or disable the form 
 
 ---
 
-##### Header \#3 elements
+##### Elements
 
 ![](/assets/organisms/headers-header-3-atoms.png)
 
