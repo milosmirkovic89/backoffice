@@ -172,7 +172,11 @@ border-left: 0;
 
 * Only first letter of the headline should be capitalized.
 
-![](/assets/organisms/headers-header-2-spacing-left.png)![](/assets/organisms/headers-header-2-atoms-left.png)
+![](/assets/organisms/headers-header-2-spacing-left.png)
+
+##### Elements
+
+![](/assets/organisms/headers-header-2-atoms-left.png)
 
 ```
 /* Differences compared to the Header #1 */
