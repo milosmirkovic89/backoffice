@@ -12,6 +12,7 @@ The primary tab navigation contains the pages that are built-in the system, for 
 
 * Only first letter of the tab label should be capitalized.
 * When number of tab items exceed the width of the content wrapper use [Nav arrows](/atoms/nav-arrows.md).
+* Primary tab items should always link to the new page.
 
 #### Spacing guidelines {#spacing-guidelines}
 
@@ -34,7 +35,7 @@ border-bottom: 1px solid $S500;
 ##### Nav arrows
 
 * [Nav arrows](/atoms/nav-arrows.md) should be visible only in cases when there are more items on the left or the right side, or both.
-* When [Nav arrows](/atoms/nav-arrows.md) are visible there is a gradient mask of 64px in width next to them.
+* When [Nav arrows](/atoms/nav-arrows.md) are visible there is a gradient mask of 32px in width next to them.
 
 ![](/assets/organisms/tab-navigations-primary-nav-arrows.png)
 
@@ -43,14 +44,14 @@ border-bottom: 1px solid $S500;
 float: left;
 
 /* Gradient mask / left */
-width: 64px;
+width: 32px;
 background-image: linear-gradient(90deg, $S100 0%, $S200 75%);
 
 /* Nav arrow / left */
 float: right;
 
 /* Gradient mask / right */
-width: 64px;
+width: 32px;
 background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 ```
 
@@ -81,6 +82,16 @@ color: $G300;
 ```
 
 ---
+
+# Secondary
+
+The secondary tab navigation is data-driven, therefore the admin or users need to make an action that will create the tab items \(example: currency list in 'Trading Time'\).
+
+#### General guidelines {#spacing-guidelines}
+
+* Only first letter of the tab label should be capitalized.
+* When number of tab items exceed the width of the content wrapper use [Nav arrows](/atoms/nav-arrows.md).
+* When switching between secondary tab items only the data below should be changed, no new page should be opened.
 
 
 
