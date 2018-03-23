@@ -80,10 +80,10 @@ color: $B200;
 /* Primary item text / on-hover */
 color: $S500;
 
-/* Primary item text / on-hover */
+/* Primary item text / on-focus */
 color: $B100;
 
-/* Primary item text / on-hover */
+/* Primary item text / active */
 color: $G300;
 ```
 
@@ -95,7 +95,6 @@ The secondary tab navigation is data-driven, therefore the admin or users need t
 
 #### General guidelines {#spacing-guidelines}
 
-* Only first letter of the tab label should be capitalized.
 * When number of tab items exceed the width of the content wrapper use [Nav arrows](/atoms/nav-arrows.md).
 * When switching between secondary tab items only the data below should be changed, no new page should be opened.
 
@@ -107,9 +106,9 @@ The secondary tab navigation is data-driven, therefore the admin or users need t
 ![](/assets/organisms/tab-navigations-secondary-sizing.png)
 
 ```
-/* Secondary base */
+/* Secondary section */
 height: 56px;
-padding: 0 32px 0 32px;
+padding: 12px 16px 12px 16px;
 background-color: $S200;
 border-top: 1px solid $S500;
 border-bottom: 1px solid $S500;
@@ -144,32 +143,42 @@ background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 
 ##### Elements
 
+* Display "Show All" tab item in cases when there is a need to show all items combined
+
 ![](/assets/organisms/tab-navigations-secondary-items.png)
 
 ```
-/* Secondary item base */
+/* Secondary item base / default, on-hover, on-focus */
 width: auto;
 height: 32px;
-padding: 16px;
-border-right: 2px solid $S400;
+padding: 8px 16px 8px 16px;
 background-color: $S200; 
 
-/* Primary item text / default */
+/* Secondary item text / default, show-all */
 line-height: 16px;
 font-family: OpenSans;
-font-size: 13px;
+font-size: 12px;
 font-weight: Semibold:
 text-align: center;
 color: $B200;
 
-/* Primary item text / on-hover */
+/* Secondary item text / on-hover */
 color: $S500;
 
-/* Primary item text / on-hover */
+/* Secondary item text / on-focus */
 color: $B100;
 
-/* Primary item text / on-hover */
+/* Secondary item base / active */
+background-color: $S100;
+
+/* secondary item text / active */
 color: $G300;
+
+/* Secondary item base / active */
+background-color: $S100;
+
+/* Secondary item base / show-all */
+color: $S300;
 ```
 
 
