@@ -83,7 +83,7 @@ color: $G300;
 
 ---
 
-# Secondary
+### Secondary
 
 The secondary tab navigation is data-driven, therefore the admin or users need to make an action that will create the tab items \(example: currency list in 'Trading Time'\).
 
@@ -92,6 +92,22 @@ The secondary tab navigation is data-driven, therefore the admin or users need t
 * Only first letter of the tab label should be capitalized.
 * When number of tab items exceed the width of the content wrapper use [Nav arrows](/atoms/nav-arrows.md).
 * When switching between secondary tab items only the data below should be changed, no new page should be opened.
+
+#### Spacing guidelines {#spacing-guidelines}
+
+* The height of the Secondary tab navigation is 56px.
+* There are paddings on the left and right of 32px.
+
+![](/assets/organisms/tab-navigations-secondary-sizing.png)
+
+```
+/* Secondary base */
+height: 56px;
+padding: 0 32px 0 32px;
+background-color: $S200;
+border-top: 1px solid $S500;
+border-bottom: 1px solid $S500;
+```
 
 
 
