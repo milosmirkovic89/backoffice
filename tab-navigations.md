@@ -24,7 +24,7 @@ The primary tab navigation contains the pages that are built-in the system, for 
 ```
 /* Primary section */
 height: 72px;
-padding: 0 16px 0 16px;
+padding: 16px;
 background-color: $S200;
 border-top: 1px solid $S500;
 border-bottom: 1px solid $S500;
@@ -62,28 +62,28 @@ background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 ![](/assets/organisms/tab-navigations-primary-items.png)
 
 ```
-/* Primary item / base */
+/* Primary item base */
+width: auto;
 height: 48px;
 padding: 16px;
-
-
-/* Primary item / default */
-height: 16px;
-padding: 0 16px 0 16px;
 border-right: 2px solid $S400;
+background-color: $S200; 
+
+/* Primary item text / default */
+line-height: 16px;
 font-family: OpenSans;
 font-size: 13px;
 font-weight: Semibold:
 text-align: center;
 color: $B200;
 
-/* Primary item / on-hover */
+/* Primary item text / on-hover */
 color: $S500;
 
-/* Primary item / on-hover */
+/* Primary item text / on-hover */
 color: $B100;
 
-/* Primary item / on-hover */
+/* Primary item text / on-hover */
 color: $G300;
 ```
 
@@ -147,23 +147,28 @@ background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 ![](/assets/organisms/tab-navigations-secondary-items.png)
 
 ```
-/* Secondary item / default */
-height: 16px;
-padding: 0 16px 0 16px;
+/* Secondary item base */
+width: auto;
+height: 32px;
+padding: 16px;
 border-right: 2px solid $S400;
+background-color: $S200; 
+
+/* Primary item text / default */
+line-height: 16px;
 font-family: OpenSans;
 font-size: 13px;
 font-weight: Semibold:
 text-align: center;
 color: $B200;
 
-/* Primary item / on-hover */
+/* Primary item text / on-hover */
 color: $S500;
 
-/* Primary item / on-hover */
+/* Primary item text / on-hover */
 color: $B100;
 
-/* Primary item / on-hover */
+/* Primary item text / on-hover */
 color: $G300;
 ```
 
