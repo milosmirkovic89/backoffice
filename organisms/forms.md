@@ -31,21 +31,38 @@ hight: 40px;
 
 ### Labels
 
-Labels are used inline before all text inputs, text areas and drop-downs. For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\). The max width of labels is 380px.
+Labels are used inline before all text inputs, text areas, dropdowns and rest of the input fields.
+
+#### General guidelines {#spacing-guidelines}
+
+* For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\)
+
+* Only first letter of the label should be capitalized.
 
 ![](/assets/organisms/forms-labels-sizing.png)
 
 ```
-/* Label */
-max-width: 380px;
+/* Label section */
+width: 380px;
 height: 40px;
+
+/* Label / default */
+line-height: 20px;
 font-family: Open Sans;
 font-weight: Regular;
-line-height: 20px;
+font-size: 13px;
 color: $B200;
 
-/* Label Asterisk */
+/* Label / important / asterisk */
 color: $R300;
+
+/* Label / two rows */
+/* Same as Label / default */
+
+/* Label / message */
+font-weight: Semibold;
+font-size: 11px;
+color: $B200;
 ```
 
 ---
