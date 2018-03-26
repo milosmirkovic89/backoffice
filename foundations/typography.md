@@ -47,7 +47,7 @@ Montserrat typeface is used in following sizes: **14pt, 13pt **and** 12pt.**
 
 ##### Color
 
-Montserrat typeface is used in following colors: **Black 300**, **Black 200**, **Black 100**, **Shade 500**, **Shade 300**, **Shade 100**, **Green 300**, **Green 200**, **Red 300** and **Red 200**.
+Montserrat typeface is used in following colors: **Black 300**, **Black 200**, **Black 100**, **Shade 500**, **Shade 100**, **Green 300 **and **Red 300.**
 
-![](/assets/foundations/typography-montserrat-color.png)
+![](/assets/foundations/typography-open-sans-color.png)
 
