@@ -74,13 +74,6 @@ Inputs can be displayed in a **Single-row **\(when there is only one input per l
 
 ![](/assets/organisms/forms-single-input-types.png)
 
-```
-/* Row */
-hight: 40px;
-```
-
----
-
 ##### Multi-rows
 
 ![](/assets/organisms/forms-multi-input-types.png)
