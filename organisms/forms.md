@@ -1,5 +1,9 @@
 # Forms
 
+Besides tables, forms are mostly used organisms in the Back Office application. Due to the big number of input data per page, labels and input types are displayed inline on desktop resolutions.
+
+**Note: **All CSS shown is for guiding purposes and it's not absolute.
+
 #### General guidelines {#spacing-guidelines}
 
 * On desktop resolutions labels and inputs are displayed inline.
