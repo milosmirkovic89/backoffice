@@ -26,35 +26,6 @@ padding: 32px;
 
 ---
 
-##### Single rows
-
-![](/assets/organisms/forms-single-rows-sizing.png)
-
-```
-/* Row */
-hight: 40px;
-```
-
----
-
-##### Multi rows
-
-![](/assets/organisms/forms-multi-rows-sizing.png)
-
-
-
-##### Row hover
-
-![](/assets/organisms/forms-rows-hover.png)
-
-```
-/* Row hover */
-width: 100%;
-background-color: $O100;
-```
-
----
-
 ### Labels
 
 Labels are used inline before all text inputs, text areas, dropdowns and rest of the input fields.
@@ -89,6 +60,37 @@ color: $R300;
 font-weight: Semibold;
 font-size: 11px;
 color: $B200;
+```
+
+---
+
+### Input types
+
+
+
+##### Single rows
+
+![](/assets/organisms/forms-single-rows-sizing.png)
+
+```
+/* Row */
+hight: 40px;
+```
+
+---
+
+##### Multi rows
+
+![](/assets/organisms/forms-multi-rows-sizing.png)
+
+##### Row hover
+
+![](/assets/organisms/forms-rows-hover.png)
+
+```
+/* Row hover */
+width: 100%;
+background-color: $O100;
 ```
 
 ---
