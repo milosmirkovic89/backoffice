@@ -33,6 +33,15 @@ hight: 40px;
 
 ---
 
+![](/assets/organisms/forms-row-hover.png)
+
+```
+/* Row / hover */
+height: 48px;
+width: 100%;
+background-color: $O100;
+```
+
 ### Labels
 
 Labels are used inline before all text inputs, text areas, dropdowns and rest of the input fields.
