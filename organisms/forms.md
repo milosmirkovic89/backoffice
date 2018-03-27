@@ -33,7 +33,6 @@ Labels are used inline before all text inputs, text areas, dropdowns and rest of
 #### General guidelines {#spacing-guidelines}
 
 * For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\)
-
 * Only first letter of the label should be capitalized.
 
 ![](/assets/organisms/forms-labels-sizing.png)
@@ -66,11 +65,11 @@ color: $B200;
 
 ### Input types
 
+Input types can be displayed in a **Single-row **\(when there is only one input type per label\)** **or **Multi-rows **\(where there are several input types per label\).
 
+##### Single-row
 
-##### Single rows
-
-![](/assets/organisms/forms-single-rows-sizing.png)
+![](/assets/organisms/forms-single-input-types.png)
 
 ```
 /* Row */
@@ -79,9 +78,9 @@ hight: 40px;
 
 ---
 
-##### Multi rows
+##### Multi-rows
 
-![](/assets/organisms/forms-multi-rows-sizing.png)
+![](/assets/organisms/forms-multi-input-types.png)
 
 ##### Row hover
 
