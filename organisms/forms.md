@@ -35,7 +35,7 @@ hight: 40px;
 
 ---
 
-![](/assets/organisms/forms-row-hover.png)
+![](/assets/organisms/forms-rows-hover.png)
 
 ```
 /* Row / on hover */
