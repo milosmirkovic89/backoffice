@@ -65,7 +65,7 @@ color: $B200;
 
 ### Inputs
 
-Input can be displayed in a **Single-row **\(when there is only one input per label\)** **or **Multi-rows **\(where there are several inputs per label\).
+Inputs can be displayed in a **Single-row **\(when there is only one input per label\)** **or **Multi-rows **\(where there are several inputs per label\).
 
 ##### Single-row
 
