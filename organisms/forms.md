@@ -6,7 +6,9 @@ Besides tables, forms are mostly used organisms in the Back Office application. 
 
 #### General guidelines {#spacing-guidelines}
 
-* On desktop resolutions labels and inputs are displayed inline.
+* On desktop resolutions, labels and inputs are displayed inline.
+* Every row has a hover effect to make it easier for users to focus on a single input type.
+* Hover effect's height depends on the height of the row/s with additional 4px on top and on bottom.
 
 #### Spacing guidelines {#spacing-guidelines}
 
@@ -36,8 +38,8 @@ hight: 40px;
 ![](/assets/organisms/forms-row-hover.png)
 
 ```
-/* Row / hover */
-height: 48px;
+/* Row / on hover */
+height: auto;
 width: 100%;
 background-color: $O100;
 ```
