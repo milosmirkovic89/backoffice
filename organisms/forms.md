@@ -8,7 +8,7 @@ Besides tables, forms are mostly used organisms in the Back Office application. 
 
 * On desktop resolutions, labels and inputs are displayed inline.
 * Every row has a hover effect to make it easier for users to focus on a single input type.
-* Hover effect's height depends on the height of the row/s with additional 4px on top and on bottom.
+* The height of the over background depends on the height of a row plus the additional 4px on top and on bottom.
 
 #### Spacing guidelines {#spacing-guidelines}
 
@@ -26,7 +26,9 @@ padding: 32px;
 
 ---
 
-![](/assets/organisms/forms-sizing.png)
+##### Single rows
+
+![](/assets/organisms/forms-single-rows-sizing.png)
 
 ```
 /* Row */
@@ -35,14 +37,23 @@ hight: 40px;
 
 ---
 
+##### Multi rows
+
+![](/assets/organisms/forms-multi-rows-sizing.png)
+
+
+
+##### Row hover
+
 ![](/assets/organisms/forms-rows-hover.png)
 
 ```
-/* Row / on hover */
-height: auto;
+/* Row hover */
 width: 100%;
 background-color: $O100;
 ```
+
+---
 
 ### Labels
 
