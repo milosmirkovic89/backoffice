@@ -7,8 +7,6 @@ Besides tables, forms are mostly used organisms in the Back Office application. 
 #### General guidelines {#spacing-guidelines}
 
 * On desktop resolutions, labels and inputs are displayed inline.
-* Every row has a hover effect to make it easier for users to focus on a single input.
-* The height of the over background depends on the height of a row plus the additional 4px on top and on bottom.
 
 #### Spacing guidelines {#spacing-guidelines}
 
@@ -76,9 +74,19 @@ Inputs can be displayed in a **Single-row **\(when there is only one input per l
 
 ##### Multi-rows
 
+* Grouped inputs should always be displayed under each other.
+* The padding between grouped inputs is always 8px.
+* The first checkmark in a group \(24px\) has a padding top of 8px.
+* The last checkmark in a group \(24px\) has a padding top of 8px.
+* The first radio button in a group \(20px\) has a padding top of 10px.
+* The last checkmark in a group \(20px\) has a padding top of 10px.
+
 ![](/assets/organisms/forms-multi-input-types.png)
 
 ##### Row hover
+
+* Every row has a hover effect to make it easier for users to focus on an individual input.
+* The height of the hover background depends on the height of a row plus the additional 4px on the top and bottom.
 
 ![](/assets/organisms/forms-rows-hover.png)
 
