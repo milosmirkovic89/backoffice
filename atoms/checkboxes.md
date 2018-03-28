@@ -11,13 +11,6 @@ There are two types of checkboxes: **Single-select** \(without a label\) in case
 * A checkbox does not apply a setting at an instant. Instead, it’s accompanied by a submit button and takes effect after the user presses it.
 * If the instantaneous action is required, then use the [_Toggles_](/atoms/toggles.md) instead. Switches always indicate whether a setting is on or off, and the action is instant, does not require a submit button press.
 
-#### Spacing guidelines
-
-* The width and height of the checkbox base are always 24px.
-* Checkboxes have a top, right and bottom margin of 8px.
-
-![](/assets/atoms/checkboxes-spacing.png)
-
 ### Single-select
 
 Single-select checkboxes are standalone and they are used as an enable/disable action in forms but require a submit button press in order for action to take the effect.
