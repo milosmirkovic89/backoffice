@@ -11,9 +11,8 @@ Besides tables, forms are mostly used organisms in the Back Office application. 
 #### Spacing guidelines {#spacing-guidelines}
 
 * Form section has a padding of 32px.
-* The height of rows is 40px.
-* The padding between rows is 16px.
-* The padding between the last data row and action buttons at the bottom is 32px. 
+* The margin between rows is 16px.
+* The margin between the last input row and the action buttons is 32px. 
 
 ![](/assets/organisms/forms-spacing.png)
 
@@ -26,7 +25,7 @@ padding: 32px;
 
 ##### Row hover
 
-* Every row has a hover effect to make it easier for users to focus on an individual input.
+* Every row has a hover effect to make it easier for users to focus on an individual input or input group.
 * The height of the hover background depends on the height of a row plus the additional 4px on the top and bottom.
 
 ![](/assets/organisms/forms-rows-hover.png)
@@ -91,8 +90,4 @@ Inputs can be displayed in a **Single-row **\(when there is only one input per l
 * The margin between grouped inputs is always 8px.
 
 ![](/assets/organisms/forms-multi-input-types.png)
-
-
-
-
 
