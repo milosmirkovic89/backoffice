@@ -24,6 +24,21 @@ padding: 32px;
 
 ---
 
+##### Row hover
+
+* Every row has a hover effect to make it easier for users to focus on an individual input.
+* The height of the hover background depends on the height of a row plus the additional 4px on the top and bottom.
+
+![](/assets/organisms/forms-rows-hover.png)
+
+```
+/* Row hover */
+width: 100%;
+background-color: $O100;
+```
+
+---
+
 ### Labels
 
 Labels are used inline before all text inputs, text areas, dropdowns and rest of the inputs.
@@ -68,35 +83,16 @@ Inputs can be displayed in a **Single-row **\(when there is only one input per l
 ##### Single-row
 
 * The height of the single-row input is always 40px.
-* If an input is smaller than 40px there should be a top and bottom padding \(example: when using checkmarks there is an 8px padding\). 
 
 ![](/assets/organisms/forms-single-input-types.png)
 
 ##### Multi-rows
 
-* Grouped inputs should always be displayed under each other.
-* The padding between grouped inputs is always 8px.
-* The first checkmark in a group \(24px\) has a padding top of 8px.
-* The last checkmark in a group \(24px\) has a padding top of 8px.
-* The first radio button in a group \(20px\) has a padding top of 10px.
-* The last checkmark in a group \(20px\) has a padding top of 10px.
+* The margin between grouped inputs is always 8px.
 
 ![](/assets/organisms/forms-multi-input-types.png)
 
-##### Row hover
 
-* Every row has a hover effect to make it easier for users to focus on an individual input.
-* The height of the hover background depends on the height of a row plus the additional 4px on the top and bottom.
-
-![](/assets/organisms/forms-rows-hover.png)
-
-```
-/* Row hover */
-width: 100%;
-background-color: $O100;
-```
-
----
 
 
 
