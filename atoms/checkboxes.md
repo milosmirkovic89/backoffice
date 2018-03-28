@@ -22,7 +22,7 @@ Single-select checkboxes are standalone and they are used as an enable/disable a
 ![](/assets/atoms/checkboxes-single-select-states.png)
 
 ```
-/* Default */
+/* Single-select checkbox/ default */
 width: 24px;
 height: 24px;
 background: $S100;
@@ -30,14 +30,14 @@ border: 1px solid $S500;
 border-radius: 3px;
 margin: 8px 0 8px 0;
 
-/* On hover */
+/* Single-select checkbox / on hover */
 box-shadow: 1px 1px 4px 0 $S300;
 
-/* On focus */
+/* Single-select checkbox / on focus */
 border: 1px solid $G200;
 box-shadow: 1px 1px 4px 0 $G200;
 
-/* Disabled */
+/* Single-select checkbox / disabled */
 opacity: 50%;
 ```
 
@@ -52,39 +52,55 @@ Multi-select checkboxes are used when there are multiple choices, and more than 
 * The margin between Multi-selects is 8px.
 * The first Multi-select in a group has a margin top of 8px.
 * The last Multi-select in a group has a margin bottom of 8px.
+* There is a margin of 8px between a checkbox and a checkbox label.
+* Only first letter of the checkbox label should be capitalized.
 
 ![](/assets/atoms/checkboxes-multi-select-states.png)
 
 ```
-/* Differences compared to the Single-select */
+/* Multi-select checkbox / default */
+width: 24px;
+height: 24px;
+background: $S100;
+border: 1px solid $S500;
+border-radius: 3px;
+margin: 8px 8px 8px 0;
 
-/* Default */
+/* Multi-select label / default */
 font-family: Open Sans;
 font-weight: Regular;
 font-size: 13px;
 color: $B300;
 
-/* On hover */
+/* Multi-select checkbox / on hover */
+box-shadow: 1px 1px 4px 0 $S300;
+
+/* Multi-select label / on hover */
 color: $S500;
 
-/* On focus */
-color: $S500;
+/* Multi-select checkbox / on focus */
+border: 1px solid $G200;
+box-shadow: 1px 1px 4px 0 $G200;
 
-/* Disabled */
+/* Multi-select label / on focus */
+color: $B100;
+
+/* Multi-select checkbox / disabled */
 opacity: 50%;
 
-/* Error */
+/* Multi-select label / disabled */
+opacity: 50%;
+
+/* Multi-select checkbox / error */
 border: 1px solid $G300;
 
-/* Error message */
-margin-top: 8px;
+/* Multi-select error message */
 font-family: Open Sans;
 font-weight: Semibold;
 font-size: 11px;
 color: $R300;
 
-/* Hint message */
-margin-top: 8px;
+/* Multi-select hint message */
 font-family: Open Sans;
 font-weight: Semibold;
 font-size: 11px;
