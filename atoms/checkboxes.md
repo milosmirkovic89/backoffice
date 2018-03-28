@@ -13,7 +13,10 @@ There are two types of checkboxes: **Single-select** \(without a label\) in case
 
 ### Single-select
 
-Single-select checkboxes are standalone and they are used as an enable/disable action in forms but require a submit button press in order for action to take the effect.
+Single-select checkboxes are standalone and they are used as an enable/disable action in [Forms](/organisms/forms.md) but require a submit button press in order for action to take the effect.
+
+* The width and height size of Single-select checkmarks is 24px.
+* Since the height size of a single row in forms is 40px, there is a top and bottom margin of 8px to fill the gap.
 
 ![](/assets/atoms/checkboxes-single-select-states.png)
 
@@ -42,6 +45,9 @@ opacity: 50%;
 ### Multi-select
 
 Multi-select checkboxes are used when there are multiple choices, and more than one option can be selected. Like Single-select checkboxes, these ones require a submit button press as well.
+
+* The margin between radio buttons is 8px.
+* The last checkmark in a group \(24px\) has a padding top of 8px.
 
 ![](/assets/atoms/checkboxes-multi-select-states.png)
 
