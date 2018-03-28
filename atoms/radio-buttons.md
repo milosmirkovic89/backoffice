@@ -14,7 +14,9 @@ Radio buttons are mostly used when there are multiple choices, but only one opti
 #### Spacing guidelines
 
 * The width and height of the radio buttons are always 20px.
-* Radio buttons have a top and bottom margin of 10px and a right margin of 8px.
+* The margin between radio buttons is 8px.
+* The first radio button in a group has a padding top of 10px.
+* The last radio button in a group has a padding top of 10px.
 
 ![](/assets/atoms/radio-buttons-states.png)
 
@@ -25,7 +27,6 @@ width: 20px;
 height: 20px;
 border: 1px solid $S500;
 border-radius: 100%;
-margin: 10px 8px 10px 0;
 
 /* Default label */
 font-family: Open Sans;
