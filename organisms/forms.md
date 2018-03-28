@@ -91,3 +91,7 @@ Inputs can be displayed in a **Single-row **\(when there is only one input per l
 
 ![](/assets/organisms/forms-multi-input-types.png)
 
+### Buttons
+
+The Buttons can be used at the bottom of the form or inline with inputs for instant action.
+
