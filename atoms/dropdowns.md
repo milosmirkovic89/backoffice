@@ -15,19 +15,19 @@ Dropdown list menus are categorized in two main groups: **Single-select** and **
 
 ```
 /* Dropdown XL */
-width: 380px;
+width: 376px;
 
 /* Dropdown L */
-width: 281px;
+width: 276px;
 
 /* Dropdown M */
-width: 182px;
+width: 184px;
 
 /* Dropdown S */
-width: 116px;
+width: 120px;
 
 /* Dropdown XS */
-width: 83px;
+width: 92px;
 ```
 
 ---

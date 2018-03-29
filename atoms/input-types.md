@@ -8,26 +8,26 @@ There are 5 types of input fields: **Text inputs**, **Prefix & suffix**, **Value
 
 * Based on their width size, input types are categorized in 5 groups: **XL**, **L**, **M**, **S** and **XS**.
 * Input types are mostly used in forms so the group sizes are designed to fit them perfectly.
-* In forms, the total width of the input types per row must be 380px, therefore use width sizes depending on how much input fields are needed in a single row.
-* The margin between input types in a single row must be 16px.
+* In forms, the total width of the input types per row must be 376px, therefore use width sizes depending on how much input fields are needed in a single row.
+* The margin between input types in a single row is 16px.
 
 ![](/assets/atoms/input-types-sizes.png)
 
 ```
 /* Input XL */
-width: 380px;
+width: 376px;
 
 /* Input L */
-width: 281px;
+width: 276px;
 
 /* Input M */
-width: 182px;
+width: 184px;
 
 /* Input S */
-width: 116px;
+width: 120px;
 
 /* Input XS */
-width: 83px;
+width: 92px;
 ```
 
 ### Text inputs
@@ -133,7 +133,7 @@ color: $B100;
 
 ### Value inputs
 
-Value inputs are used for currency amount fields only. The increased font size of 2px is the only difference compared to text inputs.
+Value inputs are used for currency amount fields only. The increased font size is the only difference compared to text inputs.
 
 ![](/assets/atoms/input-types-value-input-states.png)
 
