@@ -50,7 +50,7 @@ Labels are used inline before all text inputs, text areas, dropdowns and rest of
 ![](/assets/organisms/forms-labels-sizing.png)
 
 ```
-/* Label section */
+/* Label base */
 width: 380px;
 height: 40px;
 
@@ -64,10 +64,7 @@ color: $B200;
 /* Label / important / asterisk */
 color: $R300;
 
-/* Label / two rows */
-/* Same as Label / default */
-
-/* Label / message */
+/* Empty state message */
 font-weight: Semibold;
 font-size: 11px;
 color: $B200;
