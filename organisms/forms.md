@@ -78,13 +78,13 @@ Inputs can be displayed in a **Single-row **\(when there is only one input per l
 
 ##### Single-row
 
-* The height of the single-row input is always 40px.
+* The height of the single-row is always 40px.
 
 ![](/assets/organisms/forms-single-input-types.png)
 
 ##### Multi-rows
 
-* The margin between grouped inputs is always 8px.
+* The height of the multi-row depends on the number of inputs per label.
 
 ![](/assets/organisms/forms-multi-input-types.png)
 
