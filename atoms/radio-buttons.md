@@ -17,11 +17,6 @@ Radio buttons are mostly used when there are multiple choices, but only one opti
 * The height size of the radio buttons is 20px.
 * The margin between radio buttons is 8px.
 
-### Stand-alone
-
-* The first radio button in a Stand-alone group has a margin top of 10px.
-* The last radio button in a Stand-alone group has a margin bottom of 10px.
-
 ![](/assets/atoms/radio-buttons-states.png)
 
 ```
@@ -32,18 +27,18 @@ height: 20px;
 border: 1px solid $S500;
 border-radius: 100%;
 
-/* Default label */
-font-family: Open Sans;
-font-weight: Regular;
-font-size: 13px;
-color: $B300;
-
 /* Default dot */
 background: $G300;
 width: 10px;
 height: 10px;
 border-radius: 100%;
 margin: 5px 0 0 5px
+
+/* Default label */
+font-family: Open Sans;
+font-weight: Regular;
+font-size: 13px;
+color: $B300;
 
 /* On hover base */
 box-shadow: 1px 1px 4px 0 $S300;
@@ -67,6 +62,15 @@ font-weight: Semibold;
 font-size: 11px;
 color: $B300;
 ```
+
+### Stand-alone
+
+* The first radio button in a Stand-alone group has a margin top of 10px.
+* The last radio button in a Stand-alone group has a margin bottom of 10px.
+
+![](/assets/atoms/radio-buttons-stand-alone.png)
+
+
 
 
 
