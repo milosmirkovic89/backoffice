@@ -1,6 +1,6 @@
 # Radio buttons
 
-Radio buttons are mostly used when there are multiple choices, but only one option can be selected. They have up to 5 states, including: default, on-hover, on-focus, disabled and hint.
+Radio buttons are mostly used when there are multiple choices, but only one option can be selected. Radio buttons can be displayed as a Stand-alone and as a Sub-options. They have up to 5 states, including: default, on-hover, on-focus, disabled and hint.
 
 **Note: **All CSS shown is for guiding purposes, it's not absolute.
 
@@ -16,8 +16,11 @@ Radio buttons are mostly used when there are multiple choices, but only one opti
 * The width size of the radio buttons is 20px.
 * The height size of the radio buttons is 20px.
 * The margin between radio buttons is 8px.
-* The first radio button in a group has a margin top of 10px.
-* The last radio button in a group has a margin bottom of 10px.
+
+### Stand-alone
+
+* The first radio button in a Stand-alone group has a margin top of 10px.
+* The last radio button in a Stand-alone group has a margin bottom of 10px.
 
 ![](/assets/atoms/radio-buttons-states.png)
 
