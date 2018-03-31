@@ -47,27 +47,22 @@ Labels are used inline before all text inputs, text areas, dropdowns and rest of
 * For elements that are a required field, the label or legend should include an asterisk `*` after the label/legend, separated by a space \(`e.g. First name *`\)
 * Only first letter of the label should be capitalized.
 
-![](/assets/organisms/forms-labels-sizing.png)
+![](/assets/organisms/forms-labels.png)
 
 ```
 /* Label base */
-width: 380px;
+max-width: 376px;
 height: 40px;
 
-/* Label / default */
+/* Label text */
 line-height: 20px;
 font-family: Open Sans;
 font-weight: Regular;
 font-size: 13px;
 color: $B200;
 
-/* Label / important / asterisk */
+/* Label asterisk */
 color: $R300;
-
-/* Empty state message */
-font-weight: Semibold;
-font-size: 11px;
-color: $B200;
 ```
 
 ---
