@@ -79,6 +79,35 @@ color: $R300;
 
 ---
 
+### Data types
+
+Besides Input types, Dropdowns, Checkboxes and so on... Forms contain additional types of data, such as: **Texts**, **Links** and **Hints**.
+
+![](/assets/organisms/forms-data-types.png)
+
+```
+/* Data types base */
+max-width: 376px;
+height: 40px;
+
+/* Texts */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 13px;
+color: $B300;
+
+/* Links */
+/* See Links section in Buttons page  */
+
+/* Hints */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $B200;
+```
+
+---
+
 ### Buttons
 
 The Buttons can be used at the bottom of the form or inline with inputs for instant action.
