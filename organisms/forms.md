@@ -25,11 +25,15 @@ When there is only one input per label. The height of the single-row is always 4
 
 ![](/assets/organisms/forms-single-input-types.png)
 
+---
+
 ##### Multi-row inputs
 
 When there are several inputs per label. The height of the multi-row depends on the number of inputs per label.
 
 ![](/assets/organisms/forms-multi-input-types.png)
+
+---
 
 ##### Row hover
 
