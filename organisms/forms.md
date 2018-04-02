@@ -116,7 +116,7 @@ There are two ways to use Buttons: **CTA** - at the bottom of the form \(applies
 
 * Always use 40px height buttons.
 * If a user just opened a page all Buttons should have the 'Disabled' state.
-*  Set 'Default' state once some changes are made.
+* Set 'Default' state once some changes are made.
 
 ##### CTA
 
@@ -125,9 +125,17 @@ There are two ways to use Buttons: **CTA** - at the bottom of the form \(applies
 
 ![](/assets/organisms/forms-cta-buttons.png)
 
+---
+
 ##### Inline
 
 * There is a margin of 8px between inputs and buttons.
 
 ![](/assets/organisms/forms-inline-buttons.png)
+
+---
+
+### Icons
+
+
 
