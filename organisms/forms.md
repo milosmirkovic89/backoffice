@@ -112,3 +112,7 @@ color: $B200;
 
 The Buttons can be used at the bottom of the form or inline with inputs for instant action.
 
+##### Inline
+
+
+
