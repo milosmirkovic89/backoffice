@@ -110,9 +110,24 @@ color: $B200;
 
 ### Buttons
 
-The Buttons can be used at the bottom of the form or inline with inputs for instant action.
+There are two ways to use Buttons: **CTA** - at the bottom of the form \(applies to the entire form\) and **Inline -** next to the label or input \(applies only to the specific row where the button is\).
+
+#### General guidelines {#spacing-guidelines}
+
+* Always use 40px height buttons.
+* If a user just opened a page all Buttons should have the 'Disabled' state.
+*  Set 'Default' state once some changes are made.
+
+##### CTA
+
+* The [Primary](//atoms/buttons.html#primary) buttons should always be displayed at the far left.
+* The margin between CTA buttons is 16px.
+
+![](/assets/organisms/forms-cta-buttons.png)
 
 ##### Inline
 
+* There is a margin of 8px between inputs and buttons.
 
+![](/assets/organisms/forms-inline-buttons.png)
 
