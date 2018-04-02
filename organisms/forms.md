@@ -110,7 +110,7 @@ color: $B200;
 
 ### Buttons
 
-There are two ways to use Buttons: **CTA** - at the bottom of the form \(applies to the entire form\) and **Inline -** next to the label or input \(applies only to the specific row where the button is\).
+There are two ways to use Buttons: **General** - at the bottom of the form \(applies to the entire form\) and **Inline -** next to the label or input \(applies only to the specific row where the button is\).
 
 #### General guidelines {#spacing-guidelines}
 
@@ -118,12 +118,12 @@ There are two ways to use Buttons: **CTA** - at the bottom of the form \(applies
 * If a user just opened a page all [Primary](//atoms/buttons.html#primary) and [Positive](//atoms/buttons.html#positive) buttons should be set to 'Disabled' state.
 * Set 'Default' state once some changes are made.
 
-##### CTA
+##### General
 
 * The [Primary](//atoms/buttons.html#primary) buttons should always be displayed at the far left.
-* The margin between CTA buttons is 16px.
+* The margin between General buttons is 16px.
 
-![](/assets/organisms/forms-cta-buttons.png)
+![](/assets/organisms/forms-general-buttons.png)
 
 ---
 
