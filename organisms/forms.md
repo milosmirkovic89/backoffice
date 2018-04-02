@@ -115,7 +115,7 @@ There are two ways to use Buttons: **CTA** - at the bottom of the form \(applies
 #### General guidelines {#spacing-guidelines}
 
 * Always use 40px height buttons.
-* If a user just opened a page all Buttons should have the 'Disabled' state.
+* If a user just opened a page [Primary](//atoms/buttons.html#primary) and [Positive](//atoms/buttons.html#positive) buttons should be set to 'Disabled' state.
 * Set 'Default' state once some changes are made.
 
 ##### CTA
