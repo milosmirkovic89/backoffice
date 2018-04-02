@@ -81,7 +81,7 @@ color: $R300;
 
 ### Data types
 
-Besides Input types, Dropdowns, Checkboxes and so on... Forms contain additional types of data, such as: **Texts**, **Links** and **Hints**.
+Besides Input types, Dropdowns, Checkboxes and so on... Forms contain additional types of data, such as: **Texts**, [**Links**](//atoms/buttons.html#links) and **Hints**.
 
 ![](/assets/organisms/forms-data-types.png)
 
