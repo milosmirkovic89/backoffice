@@ -209,6 +209,7 @@ opacity: 33%;
 
 In other words, Links are text-only buttons with underline text decoration and they are mostly used in Forms and Tables.
 
+* Ideal for actions such as: 'View', '\(name of the page/document\).
 * Links have only four states: Default, On-hover, On-focus and Disabled.
 
 ![](/assets/atoms/buttons-links.png)
