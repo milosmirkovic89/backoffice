@@ -129,6 +129,7 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 ##### Inline
 
 * There is a margin of 8px between inputs and buttons.
+* If there is no input data in a row, use a button just after the label instead \(e.g. Annual income and Edit\).
 
 ![](/assets/organisms/forms-inline-buttons.png)
 
@@ -136,5 +137,7 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 
 ### Icons
 
+In 
 
+![](/assets/organisms/forms-icons.png)
 
