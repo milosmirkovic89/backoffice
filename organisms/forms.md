@@ -110,7 +110,9 @@ color: $B200;
 
 ### Buttons
 
-There are two ways to use Buttons: **General** - at the bottom of the form \(applies to the entire form\) and **Inline -** next to the label or input \(applies only to the specific row where the button is\).
+There are two ways to use Buttons: At the **Bottom** of the form \(applies to the entire form\) and **Inline -** next to the label or input \(applies only to the specific row where the button is\).
+
+#### General guidelines {#spacing-guidelines}
 
 * Always use 40px height buttons.
 * All [Primary](//atoms/buttons.html#primary) and [Positive](//atoms/buttons.html#positive) buttons in Forms should be set to 'Disabled' state on the page load.
@@ -118,7 +120,7 @@ There are two ways to use Buttons: **General** - at the bottom of the form \(app
 * Therefore, Primary and Positive buttons have a role for 'Submitting' previously made action.
 * For options such as 'Add New Margin' or 'Edit'... use [Neutral](//atoms/buttons.html#neutral) buttons, since they do not require previous actions.
 
-##### General
+##### Bottom
 
 * The Primary buttons should always be displayed at the far left.
 * The margin between General buttons is 16px.
