@@ -8,6 +8,7 @@
 .markdown-section hr {height: 4px; background-color: #f0f0f0; margin-bottom: 60px;}
 .book-summary ul.summary li a, .book-summary ul.summary li span {padding: 10px 20px;}
 .markdown-section h3 {color: #4CAF50; font-size: 2em; margin-bottom: .35em;}
+.markdown-section h5 {margin-bottom: 0em;}
 .markdown-section h1 {font-size: 5em; margin-bottom: 0.2em;}
 .markdown-section pre {padding: 1em 1.5em; margin-top: 10px;}
 .markdown-section pre>code {font-size: .7em;}
