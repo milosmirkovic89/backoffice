@@ -115,10 +115,7 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 #### General guidelines {#spacing-guidelines}
 
 * Always use 40px height buttons.
-* All [Primary](//atoms/buttons.html#primary) and [Positive](//atoms/buttons.html#positive) buttons in Forms should be set to 'Disabled' state on the page load.
-* Once some changes are made in a form switch state to 'Default'.
-* Therefore, Primary and Positive buttons have a role for 'Submitting' previously made action.
-* For options such as 'Add New Margin' or 'Edit'... use [Neutral](//atoms/buttons.html#neutral) buttons, since they do not require previous actions.
+* Set buttons to 'Disabled' state if they have role to submit the action that is not done yet \(example: 'Save Changes' button should be displayed in 'Default' state only when some changes are made in form\).
 
 ##### Bottom
 
