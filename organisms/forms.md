@@ -113,8 +113,7 @@ color: $B200;
 There are two ways to use Buttons: **General** - at the bottom of the form \(applies to the entire form\) and **Inline -** next to the label or input \(applies only to the specific row where the button is\).
 
 * Always use 40px height buttons.
-* If a user just opened a page all [Primary](//atoms/buttons.html#primary) and [Positive](//atoms/buttons.html#positive) buttons should be set to 'Disabled' state.
-* Set 'Default' state once some changes are made.
+* All [Primary](//atoms/buttons.html#primary) and [Positive](//atoms/buttons.html#positive) buttons in Forms should be set to 'Disabled' state and once some changes are made switch state to 'Default'.
 
 ##### General
 
