@@ -122,7 +122,7 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 * The Primary buttons should always be displayed at the far left.
 * The margin between General buttons is 16px.
 
-![](/assets/organisms/forms-general-buttons.png)
+![](/assets/organisms/forms-bottom-buttons.png)
 
 ---
 
