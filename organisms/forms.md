@@ -139,5 +139,9 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 
 Use Icons as actions next to a data text or link.
 
+#### Spacing guidelines {#spacing-guidelines}
+
+* There is a margin right of 8px between text/link and icons.
+
 ![](/assets/organisms/forms-icons.png)
 
