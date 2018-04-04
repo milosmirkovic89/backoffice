@@ -145,3 +145,21 @@ Use Icons as actions next to a data text or link.
 
 ![](/assets/organisms/forms-icons.png)
 
+---
+
+### Empty state
+
+If there is no data to interact with show an empty state message.
+
+![](/assets/organisms/forms-empty-state.png)
+
+```
+/* Empty state message */
+font-family: Open Sans;
+font-weight: Semibold;
+font-size: 11px;
+color: $B200;
+```
+
+
+
