@@ -129,7 +129,6 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 ##### Inline
 
 * There is a margin of 8px between inputs and buttons.
-* Some labels require an expanded form, in that case show an 'Edit' button just next to the label which would open a new dedicated page for the specific label \(e.g. Risk Scoring / Point Scoring\).
 
 ![](/assets/organisms/forms-inline-buttons.png)
 
