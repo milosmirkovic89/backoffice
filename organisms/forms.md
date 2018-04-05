@@ -129,6 +129,7 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 ##### Inline
 
 * There is a margin of 8px between inputs and buttons.
+* Use a button for 'Edit' options only in cases where a new page is required to edit data.
 
 ![](/assets/organisms/forms-inline-buttons.png)
 
@@ -137,6 +138,10 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 ### Icons
 
 Use Icons as actions next to a data text or link.
+
+#### General guidelines {#spacing-guidelines}
+
+* Use an icon for 'Edit' options only in cases where a popup is required to edit data.
 
 #### Spacing guidelines {#spacing-guidelines}
 
