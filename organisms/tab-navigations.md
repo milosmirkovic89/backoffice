@@ -143,7 +143,7 @@ background-image: linear-gradient(-90deg, $S100 0%, $S200 75%);
 
 ##### Elements
 
-* Display "Show All" tab item in cases when there is a need to show all items combined
+* Display "Show All" tab item in cases when there is a need to show all items at once.
 
 ![](/assets/organisms/tab-navigations-secondary-items.png)
 
