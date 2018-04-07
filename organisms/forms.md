@@ -130,6 +130,7 @@ There are two ways to use Buttons: At the **Bottom** of the form \(applies to th
 
 * There is a margin of 8px between inputs and buttons.
 * Use a button for 'Edit' options only in cases where a new page is required to edit data.
+* Always shown a hint message \(e.g. 3 points added\) between a label and an 'Edit' button.
 
 ![](/assets/organisms/forms-inline-buttons.png)
 
