@@ -33,7 +33,7 @@ Primary buttons come in 3 different height sizes: **48px**, **40px** and **32px*
 * Action oriented button. Think: 'Save', 'Next', 'Submit'.
 * Normally the primary positive action in any scenario.
 * Some scenarios are more suited to the **Positive** button style as the primary positive action, when the action doesn't need to be so prominent / stand-out.
-* Ideally there should only be one Primary button on any screen/scenario \(the core action to proceed/progress/take action on the page\). If there isn’t any one clear primary action, then consider using one or a combination of the other button styles.
+* Ideally there should only be one Primary button on any screen/scenario \(the core action to proceed/progress/take action on the page\).
 
 ![](/assets/atoms/buttons-primary.png)
 
@@ -43,6 +43,7 @@ background-color: $green300;
 border-radius: 3px;
 transition: all 0.2s;
 font-family: Montserrat;
+font-weight: Semibold;
 color: $S100;
 
 /* Default 32px */
@@ -92,6 +93,7 @@ border-radius: 3px;
 border: 1px solid $S500;
 transition: all 0.2s;
 font-family: Montserrat;
+font-weight: Semibold;
 color: $G300;
 
 /* Default 32px */
@@ -135,6 +137,7 @@ border-radius: 3px;
 border: 1px solid $S500;
 transition: all 0.2s;
 font-family: Montserrat;
+font-weight: Semibold;
 color: $R300;
 
 /* Default 32px */
@@ -178,6 +181,7 @@ border-radius: 3px;
 border: 1px solid $S500;
 transition: all 0.2s;
 font-family: Montserrat;
+font-weight: Semibold;
 color: $B200;
 
 /* Default 32px */
