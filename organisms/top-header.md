@@ -48,6 +48,7 @@ The main purpose of breadcrumbs is to enhance the way users find their way aroun
 ```
 /* Link default */
 font-family: Montserrat;
+font-weight: Semibold;
 font-size: 13px;
 text-transform: uppercase;
 color: $B200;
