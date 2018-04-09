@@ -35,7 +35,7 @@ Open Sans typeface is used in following colors: **Black 300**, **Black 200**, **
 
 ##### Weight
 
-This typeface is used only in **Regular** weight.
+This typeface is used only in **Semibold** weight.
 
 ![](/assets/foundations/typography-montserrat-weight.png)
 
