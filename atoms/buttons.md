@@ -221,7 +221,7 @@ In other words, Links are text-only buttons with underline text decoration and t
 ```
 /* Default */
 font-family: Open Sans;
-font-weight: Regular;
+font-weight: Semibold;
 font-size: 13px;
 text-decoration: underline;
 color: $G300;
