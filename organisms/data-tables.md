@@ -20,3 +20,32 @@ padding-right: 16px;
 
 ---
 
+##### Columns {#single-row-inputs}
+
+* The width of the columns is dynamic and it depends of the data.
+* Each column has a left and right padding of 16px.
+
+![](/assets/organisms/data-tables-column-spacing.png)
+
+```
+/* Columns */
+width: auto;
+padding-left: 16px;
+padding-right: 16px;
+```
+
+---
+
+##### Rows
+
+* The hight of the rows is 64px.
+
+![](/assets/organisms/data-tables-row-spacing.png)
+
+```
+/* Rows */
+height: 64px;
+```
+
+---
+
