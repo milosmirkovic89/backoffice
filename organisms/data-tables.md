@@ -55,9 +55,12 @@ border-bottom: 1px solid $S500;
 
 #### General guidelines
 
-* The height of the Labels section is 40px.
 * Only the first letter of labels should be capitalized.
-* There can be an icon next to the label that indicates if the data in the column can be sorted alphanumerically.
+* There can be an icon next to the label that indicates if the data in the column can be sorted alphanumerically.Spacing guidelines.
+
+#### Spacing guidelines
+
+* The height of the Labels section is 40px.
 * There is no margin between the label and the 'sort' icons which have have a 16x16px container.
 
 ![](/assets/organisms/data-tables-labels.png)
@@ -76,4 +79,16 @@ color: $B200;
 ```
 
 ---
+
+### Footers
+
+##### With pagination
+
+Footer with pagination contains following molecules: A dropdown option to select a number of entries per page, the '[Pagination](/molecules/pagination.md)' and a 'Go to page' option.
+
+
+
+![](/assets/organisms/data-tables-footer-with-pagination-spacing.png)
+
+
 
