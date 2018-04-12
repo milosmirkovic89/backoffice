@@ -178,7 +178,7 @@ border-left: 0;
 
 ##### Left side
 
-* Only first letter of the headline should be capitalized.
+* Only the first letter of the headline should be capitalized.
 
 ![](/assets/organisms/headers-header-2-spacing-left.png)
 

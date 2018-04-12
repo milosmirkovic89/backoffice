@@ -10,7 +10,7 @@ The primary tab navigation contains the pages that are built-in the system, for 
 
 #### General guidelines {#spacing-guidelines}
 
-* Only first letter of the tab label should be capitalized.
+* Only the first letter of the tab label should be capitalized.
 * When number of tab items exceed the width of the content wrapper use [Nav arrows](/atoms/nav-arrows.md).
 * Primary tab items should always link to the new page.
 

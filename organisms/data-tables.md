@@ -45,6 +45,34 @@ padding-right: 16px;
 ```
 /* Rows */
 height: 64px;
+background-color: $S100;
+border-bottom: 1px solid $S500;
+```
+
+---
+
+### Labels
+
+#### General guidelines
+
+* The height of the Labels section is 40px.
+* Only the first letter of labels should be capitalized.
+* There can be an icon next to the label that indicates if the data in the column can be sorted alphanumerically.
+* There is no margin between the label and the 'sort' icons which have have a 16x16px container.
+
+![](/assets/organisms/data-tables-labels.png)
+
+```
+/* Label section */
+height: 40px;
+background-color: $S200;
+border-bottom: 1px solid $S500;
+
+/* Label */
+font-family: OpenSans;
+font-size: 12px;
+font-weight: Semibold:
+color: $B200;
 ```
 
 ---
