@@ -80,15 +80,13 @@ color: $B200;
 
 ---
 
-### Footers
-
-##### With pagination
+### Footer w/ pagination
 
 Footer with pagination contains following molecules: A dropdown option to select a number of entries per page, the '[Pagination](/molecules/pagination.md)' and a 'Go to page' option.
+
+#### Spacing guidelines
 
 
 
 ![](/assets/organisms/data-tables-footer-with-pagination-spacing.png)
-
-
 
