@@ -51,7 +51,7 @@ border-bottom: 1px solid $S500;
 
 ---
 
-### Labels
+### Header
 
 #### General guidelines
 
@@ -63,7 +63,7 @@ border-bottom: 1px solid $S500;
 * The height of the Labels section is 40px.
 * There is no margin between the label and the 'sort' icons which have have a 16x16px container.
 
-![](/assets/organisms/data-tables-labels.png)
+![](/assets/organisms/data-tables-header.png)
 
 ```
 /* Label section */
@@ -80,19 +80,18 @@ color: $B200;
 
 ---
 
-### Footer w/ pagination
+### Footer
 
-Footer with a pagination contains following molecules: The dropdown option to select a number of entries per page, the '[Pagination](/molecules/pagination.md)' and the 'Go to page' option.
+##### With pagination
 
-#### Spacing guidelines
-
+* Show pagination if there are more than 10 rows.
 * There is a left and right padding of 32px.
 * The height of the Footer w/ pagination is 64px.
 
-![](/assets/organisms/data-tables-footer-with-pagination-spacing.png)
+![](/assets/organisms/data-tables-footer-pagination.png)
 
 ```
-/* Footer w/ pagination section */
+/* Footer with pagination */
 width: 100%;
 height: 64px;
 padding-left: 32px;
@@ -104,12 +103,29 @@ border-bottom: 1px solid $S500;
 
 ---
 
+##### With counter
+
+* In case there are less than 10 rows the pagination is not needed, in that case only show the row counter.
+
+![](/assets/organisms/data-tables-footer-counter.png)
+
+```
+/* Footer with counter */
+width: 100%;
+height: 48px;
+padding-left: 32px;
+background-color: $S100;
+border-top: 1px solid $S500;
+```
+
+---
+
 ##### Elements
 
 * Entries per page: the margin between texts and the dropdown is 8px.
 * Go to page: the margin between text and the input field is 8px.
 
-![](/assets/organisms/data-tables-footer-with-pagination-elements.png)
+![](/assets/organisms/data-tables-footer-elements.png)
 
 ```
 /* Entries per page */
