@@ -114,8 +114,8 @@ border-bottom: 1px solid $S500;
 ```
 /* Entries per page */
 font-family: OpenSans;
-font-size: 13px;
-font-weight: Regular:
+font-size: 11px;
+font-weight: Semibold:
 color: $B200;
 
 /* Pagination */
@@ -123,10 +123,12 @@ See 'Pagination' in Molecules section.
 
 /* Go to page */
 font-family: OpenSans;
-font-size: 13px;
-font-weight: Regular:
+font-size: 11px;
+font-weight: Semibold:
 color: $B200;
 ```
 
 ---
+
+
 
