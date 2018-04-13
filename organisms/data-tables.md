@@ -1,6 +1,6 @@
 # Data tables
 
-Data table is the most used organism in the Back Office application.
+Besides Forms, Data tables are most frequently used organisms in the Back Office application.
 
 **Note: **All CSS shown is for guiding purposes and it's not absolute.
 

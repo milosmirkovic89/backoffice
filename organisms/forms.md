@@ -1,6 +1,6 @@
 # Forms
 
-Besides tables, forms are mostly used organisms in the Back Office application. Due to the big number of input data per page, labels and inputs are displayed inline on desktop resolutions.
+Besides tables, forms are most frequently used organisms in the Back Office application. Due to the big number of input data per page, labels and inputs are displayed inline on desktop resolutions.
 
 **Note: **All CSS shown is for guiding purposes and it's not absolute.
 
