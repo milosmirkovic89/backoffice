@@ -53,6 +53,8 @@ border-bottom: 1px solid $S500;
 
 ##### Row hover
 
+* The background color of the row changes from $S100 to $O100 on hover.
+
 ![](/assets/organisms/data-tables-row-hover.png)
 
 ```
