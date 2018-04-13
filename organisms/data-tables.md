@@ -43,7 +43,7 @@ padding-right: 16px;
 ![](/assets/organisms/data-tables-row-spacing.png)
 
 ```
-/* Rows */
+/* Row */
 height: 64px;
 background-color: $S100;
 border-bottom: 1px solid $S500;
