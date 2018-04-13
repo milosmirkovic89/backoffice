@@ -91,3 +91,18 @@ Footer with a pagination contains following molecules: The dropdown option to se
 
 ![](/assets/organisms/data-tables-footer-with-pagination-spacing.png)
 
+```
+/* Footer w/ pagination section */
+width: 100%;
+height: 64px;
+padding-left: 32px;
+padding-right: 32px;
+background-color: $S200;
+border-top: 1px solid $S500;
+border-bottom: 1px solid $S500;
+```
+
+---
+
+
+
