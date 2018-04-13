@@ -51,6 +51,18 @@ border-bottom: 1px solid $S500;
 
 ---
 
+##### Row hover
+
+![](/assets/organisms/data-tables-row-hover.png)
+
+```
+/* Row hover */
+width: 100%;
+background-color: $O100;
+```
+
+---
+
 ### Header
 
 #### General guidelines
