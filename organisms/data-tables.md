@@ -106,6 +106,8 @@ border-bottom: 1px solid $S500;
 ##### With counter
 
 * In case there are less than 10 rows the pagination is not needed, in that case only show the row counter.
+* There is a left padding of 32px.
+* The height of the Footer w/ counter is 48px.
 
 ![](/assets/organisms/data-tables-footer-counter.png)
 
