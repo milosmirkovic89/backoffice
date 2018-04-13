@@ -104,5 +104,29 @@ border-bottom: 1px solid $S500;
 
 ---
 
+##### Elements
 
+* Entries per page: the margin between texts and the dropdown is 8px.
+* Go to page: the margin between text and the input field is 8px.
+
+![](/assets/organisms/data-tables-footer-with-pagination-elements.png)
+
+```
+/* Entries per page */
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Regular:
+color: $B200;
+
+/* Pagination */
+See 'Pagination' in Molecules section.
+
+/* Go to page */
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Regular:
+color: $B200;
+```
+
+---
 
