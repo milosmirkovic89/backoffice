@@ -67,6 +67,20 @@ background-color: $O100;
 
 ---
 
+##### Row total
+
+The background color of the Row total changes from $S100 to $G100 and it shows the total sum per column.
+
+![](/assets/organisms/data-tables-row-total.png)
+
+```
+/* Row total */
+width: 100%;
+background-color: $G100;
+```
+
+---
+
 ### Header
 
 #### General guidelines
