@@ -8,6 +8,7 @@ Besides Forms, Data tables are most frequently used organisms in the Back Office
 
 * Tables use 100% width size of the content section.
 * The table container has a left and right padding of 16px.
+* The table section has a margin bottom of 32px.
 
 ![](/assets/organisms/data-tables-spacing.png)
 
@@ -16,6 +17,7 @@ Besides Forms, Data tables are most frequently used organisms in the Back Office
 width: 100%;
 padding-left: 16px;
 padding-right: 16px;
+margin-bottom: 32px;
 ```
 
 ---
