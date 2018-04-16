@@ -72,7 +72,8 @@ background-color: $O100;
 #### General guidelines
 
 * Only the first letter of labels should be capitalized.
-* There can be an icon next to the label that indicates if the data in the column can be sorted alphanumerically.Spacing guidelines.
+* There can be an icon next to the label that indicates if the data in the column can be sorted alphanumerically.
+* Also, there are ascending and descending icons that indicate which column is currently being used for sorting.
 
 #### Spacing guidelines
 
@@ -103,6 +104,7 @@ color: $B200;
 * Show pagination if there are more than 10 rows.
 * There is a left and right padding of 32px.
 * The height of the Footer w/ pagination is 64px.
+* Limit rows per page to 500.
 
 ![](/assets/organisms/data-tables-footer-pagination.png)
 
@@ -146,20 +148,26 @@ border-top: 1px solid $S500;
 ![](/assets/organisms/data-tables-footer-elements.png)
 
 ```
-/* Entries per page */
+/* Entries per page text */
 font-family: OpenSans;
 font-size: 11px;
 font-weight: Semibold:
 color: $B200;
+
+/* Entries per page dropdown */
+width: 80px;
 
 /* Pagination */
 See 'Pagination' in Molecules section.
 
-/* Go to page */
+/* Go to page text */
 font-family: OpenSans;
 font-size: 11px;
 font-weight: Semibold:
 color: $B200;
+
+/* Go to page input */
+width: 56px;
 ```
 
 ---
