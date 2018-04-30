@@ -74,7 +74,7 @@ color: $R300;
 /* Separator */
 width: 2px;
 height: 16px;
-background: #D0D0D0;
+background: $S400;
 
 /* Dropdown label */
 font-family: OpenSans;
@@ -147,7 +147,7 @@ background: $S300;
 /* Separator */
 width: 2px;
 height: 16px;
-background: #D0D0D0;
+background: $S400;
 ```
 
 ---

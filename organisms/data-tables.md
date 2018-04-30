@@ -81,7 +81,7 @@ background-color: $G100;
 
 ---
 
-##### Row selection
+##### Row selected
 
 Row selection should be used whenever there are same but separate actions for each row so that user can select multiple rows  and perform a batch actions.
 
@@ -91,6 +91,44 @@ Row selection should be used whenever there are same but separate actions for ea
 /* Row selected */
 width: 100%;
 background-color: $G100;
+```
+
+---
+
+##### Batch action section
+
+* The width of the batch action section is the same as the table width.
+* The height of the batch action section is 64px.
+* The section is positioned at the bottom of the Content wrapper on top of all other elements.
+* There is a left and right padding of 32px.
+
+![](/assets/organisms/data-tables-batch-action-section.png)
+
+```
+/* Batch action section */
+width: 100%;
+height: 64px;
+padding: 0 32px 0 32px;
+background-color: $S100;
+border: 1px solid #C0C0C0;
+box-shadow: 0 -4px 4px 0 $S300;
+```
+
+---
+
+![](/assets/organisms/data-tables-batch-action-elements.png)
+
+```
+/* Left side text */
+font-family: OpenSans;
+font-size: 11px;
+font-weight: Semibold:
+color: $B200;
+
+/* Separator */
+width: 2px;
+height: 16px;
+background: $S400;
 ```
 
 ---
