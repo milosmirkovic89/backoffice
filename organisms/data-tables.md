@@ -111,6 +111,15 @@ color: $B200;
 
 ---
 
+##### Elements
+
+* There is no margin between the label name and the sort icon.
+* There is an 8px margin between the label name and the details icon.
+
+![](/assets/organisms/data-tables-header-elements.png)
+
+---
+
 ### Footer
 
 ##### With pagination
