@@ -178,19 +178,13 @@ font-weight: Semibold:
 color: $B200;
 
 /* Entries per page dropdown */
+/* Differences compared to 'Dropdowns' in Atoms section. */
 width: 72px;
 height: 32px;
-background-color: $S200;
 padding: 0 12px;
-border: 1px solid $S500;
-border-radius: 3px;
-font-family: Open Sans;
-font-weight: Regular;
-font-size: 13px;
-color: $B100;
 
 /* Pagination */
-See 'Pagination' in Molecules section.
+/* See 'Pagination' in Molecules section.*/
 
 /* Go to page text */
 font-family: OpenSans;
@@ -199,7 +193,10 @@ font-weight: Semibold:
 color: $B200;
 
 /* Go to page input */
+/* Differences compared to 'Input types' in Atoms section. */
 width: 56px;
+height: 32px;
+padding: 0 12px;
 ```
 
 ---
