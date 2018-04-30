@@ -81,6 +81,20 @@ background-color: $G100;
 
 ---
 
+##### Row selection
+
+Row selection should be used whenever there are same but separate actions for each row so that user can select multiple rows  and perform a batch actions.
+
+![](/assets/organisms/data-tables-row-selection.png)
+
+```
+/* Row selected */
+width: 100%;
+background-color: $G100;
+```
+
+---
+
 ### Header
 
 #### General guidelines
