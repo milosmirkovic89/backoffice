@@ -178,7 +178,16 @@ font-weight: Semibold:
 color: $B200;
 
 /* Entries per page dropdown */
-width: 80px;
+width: 72px;
+height: 32px;
+background-color: $S200;
+padding: 0 12px;
+border: 1px solid $S500;
+border-radius: 3px;
+font-family: Open Sans;
+font-weight: Regular;
+font-size: 13px;
+color: $B100;
 
 /* Pagination */
 See 'Pagination' in Molecules section.
