@@ -95,7 +95,7 @@ background-color: $G100;
 
 ---
 
-##### Batch action section
+##### Batch action
 
 * The width of the batch action section is the same as the table width.
 * The height of the batch action section is 64px.
