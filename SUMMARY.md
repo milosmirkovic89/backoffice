@@ -13,6 +13,7 @@
   * [Input types](atoms/input-types.md)
   * [Nav arrows](atoms/nav-arrows.md)
   * [Radio buttons](atoms/radio-buttons.md)
+  * [Table cells](atoms/table-cells.md)
   * [Toggles](atoms/toggles.md)
 * [Molecules](molecules.md)
   * [Date picker](molecules/date-picker.md)
