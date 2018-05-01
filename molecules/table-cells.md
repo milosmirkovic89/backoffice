@@ -4,7 +4,7 @@ There are two different cell types that are used in tables: **Data text** and **
 
 #### General guidelines {#general-guidelines}
 
-* Table cells are always aligned to the right.
+* Table cells are always aligned to the left.
 
 #### Spacing guidelines {#general-guidelines}
 
@@ -68,4 +68,6 @@ color: $B300;
 ```
 
 ---
+
+
 
