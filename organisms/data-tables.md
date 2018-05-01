@@ -41,10 +41,9 @@ padding-right: 16px;
 ##### Rows
 
 * The hight of the rows is 64px.
+* There is a padding top and bottom of 12px.
 
 ![](/assets/organisms/data-tables-row-spacing.png)![](/assets/organisms/data-tables-row-padding.png)
-
-
 
 ```
 /* Row */
