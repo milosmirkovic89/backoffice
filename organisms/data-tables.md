@@ -42,11 +42,14 @@ padding-right: 16px;
 
 * The hight of the rows is 64px.
 
-![](/assets/organisms/data-tables-row-spacing.png)
+![](/assets/organisms/data-tables-row-spacing.png)![](/assets/organisms/data-tables-row-padding.png)
+
+
 
 ```
 /* Row */
 height: 64px;
+padding: 12px 0 12px 0;
 background-color: $S100;
 border-bottom: 1px solid $S500;
 ```
