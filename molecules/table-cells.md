@@ -71,5 +71,8 @@ color: $B300;
 
 ### Actions
 
+* Use only 40px [Button](/atoms/buttons.md) size.
+* Use only 'M' and 'L' size for [Dropdowns](/atoms/dropdowns.md) and [Input types](/atoms/input-types.md).
 
+![](/assets/molecules/table-cells-actions.png)
 
