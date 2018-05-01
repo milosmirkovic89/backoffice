@@ -1,6 +1,6 @@
 # Table cells
 
-There are two different cell types that are used in tables: **Data text** and **Action**.
+There are two different cell types that are used in tables: **Data text** and **Actions**.
 
 #### General guidelines {#general-guidelines}
 
@@ -68,6 +68,8 @@ color: $B300;
 ```
 
 ---
+
+### Actions
 
 
 
