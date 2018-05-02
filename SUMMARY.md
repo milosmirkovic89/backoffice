@@ -22,6 +22,7 @@
   * [Data tables](organisms/data-tables.md)
   * [Forms](organisms/forms.md)
   * [Headers](organisms/headers.md)
+  * [Option tables](organisms/option-tables.md)
   * [Sidebar](organisms/sidebar.md)
   * [Tab navigations](organisms/tab-navigations.md)
   * [Top header](organisms/top-header.md)
