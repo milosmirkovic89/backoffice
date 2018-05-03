@@ -12,7 +12,7 @@ Option tables are a mix of the [Data tables](/organisms/data-tables.md) and [For
 ![](/assets/organisms/option-tables-spacing.png)
 
 ```
-/* Option tables section */
+/* Option table section */
 width: 100%;
 padding-left: 16px;
 padding-right: 16px;
@@ -35,4 +35,11 @@ padding-right: 16px;
 ```
 
 ---
+
+##### Rows {#rows}
+
+* The height of rows is 40px.
+* There is a padding top and bottom of 12px.
+
+![](/assets/organisms/option-tables-row-sizing.png)![](/assets/organisms/option-tables-row-spacing.png)
 

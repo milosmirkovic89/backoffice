@@ -6,14 +6,14 @@ Besides Forms, Data tables are most frequently used organisms in the Back Office
 
 #### Spacing guidelines {#general-guidelines}
 
-* Tables use 100% width size of the content section.
+* Data tables use 100% width size of the content section.
 * The table container has a left and right padding of 16px.
 * The table section has a margin bottom of 32px.
 
 ![](/assets/organisms/data-tables-spacing.png)
 
 ```
-/* Table section */
+/* Data table section */
 width: 100%;
 padding-left: 16px;
 padding-right: 16px;
@@ -40,7 +40,7 @@ padding-right: 16px;
 
 ##### Rows
 
-* The hight of the rows is 64px.
+* The height of the rows is 64px.
 * There is a padding top and bottom of 12px.
 
 ![](/assets/organisms/data-tables-row-spacing.png)![](/assets/organisms/data-tables-row-padding.png)
