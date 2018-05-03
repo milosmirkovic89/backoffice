@@ -118,44 +118,47 @@ height: 40px;
 ![](/assets/organisms/option-tables-cells-text.png)
 
 ```
-/* Text */
-line-height: 20px;
-
 /* Default */
 font-family: OpenSans;
 font-size: 13px;
 font-weight: Regular:
 color: $B200;
+line-height: 20px;
 
 /* Green */
 font-family: OpenSans;
 font-size: 13px;
 font-weight: Regular:
 color: $G300;
+line-height: 20px;
 
 /* Orange */
 font-family: OpenSans;
 font-size: 13px;
 font-weight: Regular:
 color: $O300;
+line-height: 20px;
 
 /* Red */
 font-family: OpenSans;
 font-size: 13px;
 font-weight: Regular:
 color: $R300;
+line-height: 20px;
 
 /* Hint */
 font-family: OpenSans;
 font-size: 11px;
 font-weight: Semibold:
 color: $B200;
+line-height: 20px;
 
 /* Large */
 font-family: OpenSans;
 font-size: 15px;
 font-weight: Semibold:
 color: $B300;
+line-height: 20px;
 ```
 
 ---
