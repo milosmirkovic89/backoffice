@@ -255,5 +255,21 @@ padding: 0 12px;
 
 ---
 
+### Cells
+
+There are two different cell types that are used in tables: **Data text **and **Actions.**
+
+* Table cells are always aligned to the left.
+* The height of table cells is always 40px.
+
+![](/assets/organisms/data-tables-cell-sizing.png)
+
+```
+/* Table cells */
+height: 40px;
+```
+
+---
+
 
 
