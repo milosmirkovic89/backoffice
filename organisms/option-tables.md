@@ -11,3 +11,28 @@ Option tables are a mix of the [Data tables](/organisms/data-tables.md) and [For
 
 ![](/assets/organisms/option-tables-spacing.png)
 
+```
+/* Option tables section */
+width: 100%;
+padding-left: 16px;
+padding-right: 16px;
+```
+
+---
+
+##### Columns {#single-row-inputs}
+
+* The width of the columns is dynamic and it depends of the content.
+* Each column has a left and right padding of 16px.
+
+![](/assets/organisms/option-tables-column-spacing.png)
+
+```
+/* Columns */
+width: auto;
+padding-left: 16px;
+padding-right: 16px;
+```
+
+---
+
