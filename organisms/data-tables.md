@@ -271,5 +271,53 @@ height: 40px;
 
 ---
 
+##### Text
 
+* The line height of the text in cells is 20px.
+* If the space is limited text in cells should be displayed in two lines.
+
+![](/assets/organisms/data-tables-cells-text.png)
+
+```
+/* Data text */
+line-height: 20px;
+
+/* Default */
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Regular:
+color: $B200;
+
+/* Green */
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Regular:
+color: $G300;
+
+/* Orange */
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Regular:
+color: $O300;
+
+/* Red */
+font-family: OpenSans;
+font-size: 13px;
+font-weight: Regular:
+color: $R300;
+
+/* Hint */
+font-family: OpenSans;
+font-size: 11px;
+font-weight: Semibold:
+color: $B200;
+
+/* Large */
+font-family: OpenSans;
+font-size: 15px;
+font-weight: Semibold:
+color: $B300;
+```
+
+---
 
