@@ -39,7 +39,33 @@ padding-right: 16px;
 ##### Rows {#rows}
 
 * The height of rows is 40px.
-* There is a padding top and bottom of 12px.
+* There is a margin between each row of 16px.
+* The first row has a margin top of 32px.
+* The last row has a margin bottom of 32px.
 
 ![](/assets/organisms/option-tables-row-sizing.png)![](/assets/organisms/option-tables-row-spacing.png)
+
+```
+/* Row */
+height: 40px;
+```
+
+---
+
+##### Row hover {#row-hover}
+
+* Every row has a hover effect to make it easier for users to focus on an individual input or input group.
+* The height of the hover is 48px.
+
+![](/assets/organisms/option-tables-row-hover.png)
+
+```
+/* Row hover */
+width: 100%;
+background-color: $O100;
+```
+
+---
+
+
 
