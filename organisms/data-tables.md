@@ -321,3 +321,14 @@ color: $B300;
 
 ---
 
+##### Actions
+
+* Use only 40px [Button](/atoms/buttons.md) size.
+* Use only 'M' and 'L' size for [Dropdowns](/atoms/dropdowns.md) and [Input types](/atoms/input-types.md).
+* [Toggles](/atoms/toggles.md) and [Checkboxes](/atoms/checkboxes.md) have a top and bottom margins of 8px.
+* There is a margin of 8px between links and icons.
+
+![](/assets/organisms/option-tables-cell-actions.png)
+
+
+
