@@ -67,5 +67,16 @@ background-color: $O100;
 
 ---
 
+### Header {#header}
+
+#### General guidelines {#general-guidelines}
+
+* Only the first letter of labels should be capitalized.
+
+#### Spacing guidelines {#spacing-guidelines}
+
+* The height of the Labels section is 40px.
+
+  
 
 
