@@ -112,8 +112,8 @@ height: 40px;
 
 ##### Text
 
-* The line height of the data text is 20px.
-* If the space is limited data text should be displayed in two lines.
+* The line height of the text in cells is 20px.
+* If the space is limited text in cells should be displayed in two lines.
 
 ![](/assets/organisms/option-tables-cells-text.png)
 
