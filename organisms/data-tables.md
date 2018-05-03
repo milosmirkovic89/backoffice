@@ -257,7 +257,7 @@ padding: 0 12px;
 
 ### Cells
 
-There are two different cell types that are used in tables: **Data text **and **Actions.**
+There are two different cell types that are used in tables: **Text **and **Actions.**
 
 * Table cells are always aligned to the left.
 * The height of table cells is always 40px.
@@ -329,6 +329,4 @@ color: $B300;
 * There is a margin of 8px between links and icons.
 
 ![](/assets/organisms/option-tables-cell-actions.png)
-
-
 
