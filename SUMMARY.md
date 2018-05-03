@@ -17,7 +17,6 @@
 * [Molecules](molecules.md)
   * [Date picker](molecules/date-picker.md)
   * [Pagination](molecules/pagination.md)
-  * [Table cells](molecules/table-cells.md)
 * [Organisms](organisms.md)
   * [Data tables](organisms/data-tables.md)
   * [Forms](organisms/forms.md)
