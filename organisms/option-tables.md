@@ -77,6 +77,20 @@ background-color: $O100;
 
 * The height of the Labels section is 40px.
 
-  
+![](/assets/organisms/option-tables-header.png)
 
+```
+/* Label section */
+height: 40px;
+background-color: $S200;
+border-bottom: 1px solid $S500;
+
+/* Label */
+font-family: OpenSans;
+font-size: 12px;
+font-weight: Semibold:
+color: $B200;
+```
+
+---
 
