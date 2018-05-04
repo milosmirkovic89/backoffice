@@ -14,6 +14,7 @@
   * [Nav arrows](atoms/nav-arrows.md)
   * [Radio buttons](atoms/radio-buttons.md)
   * [Toggles](atoms/toggles.md)
+  * [Tooltips](atoms/tooltips.md)
 * [Molecules](molecules.md)
   * [Date picker](molecules/date-picker.md)
   * [Pagination](molecules/pagination.md)
