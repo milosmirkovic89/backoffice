@@ -4,6 +4,7 @@
 * [Overview](overview.md)
 * [Foundations](/foundations.md#foundations)
   * [Color](foundations/colors.md)
+  * [Formatting](foundations/formatting.md)
   * [Iconography](foundations/iconography.md)
   * [Typography](foundations/typography.md)
 * [Atoms](atoms.md)
