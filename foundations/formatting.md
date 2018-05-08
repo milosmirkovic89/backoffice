@@ -51,7 +51,16 @@
 * The day of the month should always be accompanied by a month. The month followed by the number, and separated by a space. The year should now be separated by a comma and a space, to differentiate from the day number before it.
 * Any times, shown inline with a date should separated from the date with a space.
 
-### 
+| Do | Don't |
+| :--- | :--- |
+| Nov 2018 |  |
+| November 2018 |  |
+| Nov 2, 2018 |  |
+| November 2, 2018 |  |
+| Nov 2, 2018 • 08:57 AM |  |
+| November 2, 2018 • 08:57 AM |  |
+| Fri, Nov 2, 2018 • 08:57 AM |  |
+| Friday, Nov 2, 2018 • 08:57 AM |  |
 
-
+---
 
