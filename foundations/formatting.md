@@ -40,3 +40,18 @@
 
 ---
 
+### Date format
+
+* Day of the week can \(if needed\) be shortened to 3 characters \(e.g. Friday becomes Fri\).
+* Month can \(if needed\) be shortened to 3 characters \(e.g. November becomes Nov\).
+* If day of the week is included, it should be first in the order, followed by a comma.
+* A month should always be accompanied by a year, for clarity.
+* A year should never be abbreviated. Use the full 4 digits.
+* The day of the month should be a singular number, don’t include “st”, “nd” or “th”.
+* The day of the month should always be accompanied by a month. The month followed by the number, and separated by a space. The year should now be separated by a comma and a space, to differentiate from the day number before it.
+* Any times, shown inline with a date should separated from the date with a space.
+
+### 
+
+
+
