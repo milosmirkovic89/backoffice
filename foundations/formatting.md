@@ -100,6 +100,7 @@
 
 | Do | Don't |
 | :--- | :--- |
+| 7:00 | 7:00 am |
 | 19:00 | 19:00 pm |
 
 ---
@@ -115,7 +116,21 @@
 
 ---
 
+##### Time zones
+
 * Specify a time zone if the scenario requires it, for clarity.
+* If displaying a timezone, the time should always be accompanied by a space, followed by the time zone abbreviation in brackets.
+
+| Do | Don't |
+| :--- | :--- |
+| 7:00 pm \(EDT\) | 7:00 pm EDT |
+| 19:00 \(EDT\) | 19:00 EDT |
+| 7:00 pm - 8:00 pm \(EDT\) | 7:00 pm \(EDT\) - 8:00 pm \(EDT\) |
+| 19:00 - 20:00 \(EDT\) | 19:00 \(EDT\) - 20:00 \(EDT\) |
+
+---
+
+
 
 * Any times, shown inline with a date should separated from the date with a bullet `[date] • [time]`.
 
