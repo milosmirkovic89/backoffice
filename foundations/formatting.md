@@ -50,6 +50,7 @@
 * A year should never be abbreviated. Use the full 4 digits.
 * The day of the month should be a singular number, don’t include “st”, “nd” or “th”.
 * The day of the month should always be accompanied by a month. The month followed by the number, and separated by a space. The year should now be separated by a comma and a space, to differentiate from the day number before it.
+* Dates for today and tomorrow can be expressed as “today” or “tomorrow”. Dates further in the future, or in the past should be expressed more explicitly.
 
 | Do | Don't |
 | :--- | :--- |
@@ -59,6 +60,7 @@
 | November 2, 2018 | 2nd Nov, 2018 |
 | Fri, Nov 2, 2018 | Fri Nov 2, 2018 |
 | Friday, Nov 2, 2018 | Friday Nov 2, 2018 |
+| Today | Today, Nov 2, 2018 |
 
 ---
 
