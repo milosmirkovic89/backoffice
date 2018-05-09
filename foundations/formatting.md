@@ -15,6 +15,7 @@ On this page we can get instructions on how specific things are formatted. As an
 | 10.00 | 10 |
 | 100.00 | 100 |
 | 1,000.00 | 1000 |
+|  |  |
 | USD 1.00 | USD1.00 |
 | USD 10.00 | $10.00 |
 | USD 100.00 | 100.00 dollars |
@@ -34,8 +35,10 @@ On this page we can get instructions on how specific things are formatted. As an
 | :--- | :--- |
 | A sentence like this. | A Sentence Like This. |
 | A sentence like this and this. | A sentence like this & this. |
+|  |  |
 | A Header \#1 Like This | A header \#1 like this |
 | A Header \#1 Like This and This | A Header \#1 Like This & This |
+|  |  |
 | A header \#2/3/4 like this | A Header \#2/3/4 Like This |
 | A header \#2/3/4 like this and this | A header \#2/3/4 like this & this |
 
@@ -58,11 +61,15 @@ On this page we can get instructions on how specific things are formatted. As an
 | :--- | :--- |
 | Nov 2018 | Nov |
 | November 2018 | November |
+|  |  |
 | Nov 2, 2018 | 2 Nov, 2018 |
 | November 2, 2018 | 2nd Nov, 2018 |
+|  |  |
 | Fri, Nov 2, 2018 | Fri Nov 2, 2018 |
 | Friday, Nov 2, 2018 | Friday Nov 2, 2018 |
+|  |  |
 | Today | Today, Nov 2, 2018 |
+| Tomorrow | Tomorrow, Nov 3, 2018 |
 
 ---
 
