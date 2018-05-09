@@ -1,3 +1,5 @@
+# Formatting
+
 ### Numbers
 
 * Numbers should always have at least two decimals .
