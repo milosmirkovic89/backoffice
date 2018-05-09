@@ -56,8 +56,8 @@
 | November 2, 2018 | 2nd Nov, 2018 |
 | Nov 2, 2018 • 08:57 AM | Nov 2, 2018 08:57 AM |
 | November 2, 2018 • 08:57 AM | November 2, 2018 • 08:57AM |
-| Fri, Nov 2, 2018 • 08:57 AM |  |
-| Friday, Nov 2, 2018 • 08:57 AM |  |
+| Fri, Nov 2, 2018 • 08:57 AM | Fri Nov 2, 2018 • 08:57 AM |
+| Friday, Nov 2, 2018 • 08:57 AM | Friday Nov 2, 2018 • 08:57 AM |
 
 ---
 
