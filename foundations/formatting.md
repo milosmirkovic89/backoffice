@@ -2,6 +2,7 @@
 * Numbers should always have at least two decimals .
 
 * Numbers over 3 digits get commas.
+
 * Always prefix a currency amount with the code for the currency \(with a space\).
 * Avoid using abbreviations for, or rounding up/down long numbers \(e.g. 10K\).
 
@@ -64,11 +65,11 @@
 * Use 4 digits for the year, so as not to be mistaken for a day or month.
 * Use the correct date format for the country \(see below for more info\).
 
-|  | Do | Don't |
-| :--- | :--- | :--- |
-|  | MM/DD/YYYY \(US\) | MM/DD/YY \(US\) |
-| DD/MM/YYYY \(International\) |  | DD/MM/YY \(International\) |
-|  | YYYY/MM/DD \(China\) | YY/MM/DD \(China\) |
+| Do | Don't |
+| :--- | :--- |
+| MM/DD/YYYY \(US\) | MM/DD/YY \(US\) |
+| DD/MM/YYYY \(International\) | DD/MM/YY \(International\) |
+| YYYY/MM/DD \(China\) | YY/MM/DD \(China\) |
 
 ---
 
