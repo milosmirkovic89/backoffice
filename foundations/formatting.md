@@ -21,8 +21,6 @@ On this page we can get instructions on how specific things are formatted. As an
 | USD 100.00 | 100.00 dollars |
 | USD 100,000.00 | $100K |
 
----
-
 ### Writing
 
 * [Sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) should be used wherever possible, as it's easier to read and friendlier. This applies to all copy, including , paragraph copy, captions and form labels & inputs.
