@@ -44,6 +44,7 @@
 ##### Written format
 
 * Day of the week can \(if needed\) be shortened to 3 characters \(e.g. Friday becomes Fri\).
+* If day of the week is included, it should be first in the order, followed by a comma.
 * Month can \(if needed\) be shortened to 3 characters \(e.g. November becomes Nov\).
 * A month should always be accompanied by a year, for clarity.
 * A year should never be abbreviated. Use the full 4 digits.
@@ -78,7 +79,44 @@
 
 ### Time
 
-* If day of the week is included, it should be first in the order, followed by a comma.
+* A colon should be used between the hour and minutes.
+
+##### 12-Hour clock
+
+* Use the 12-hour clock in the United States.
+* Where a 12-hour format is used, the time should always be accompanied by a space, followed by “am” or “pm” \(lowercase\).
+
+| Do | Don't |
+| :--- | :--- |
+| 7:00 am | 7:00AM |
+| 7:00 pm | 7pm |
+
+---
+
+##### 24-Hour clock
+
+* Use the 24-hour clock internationally.
+* The 24-hour format has no need for ‘am’ or ‘pm’.
+
+| Do | Don't |
+| :--- | :--- |
+| 19:00 | 19:00 pm |
+
+---
+
+##### Time range
+
+* If displaying a time range, use a hyphen \( - \) to separate the start and end time. Where a 12-hour clock is used, the “am” and/or “pm” should be included for both the start and end times, not singularly at the end.
+
+| Do | Don't |
+| :--- | :--- |
+| 7:00 pm - 8:00 pm | 7:00am to 3:00 pm |
+| 19:00 - 20:00 | 19:00 to 20:00 |
+
+---
+
+* Specify a time zone if the scenario requires it, for clarity.
+
 * Any times, shown inline with a date should separated from the date with a bullet `[date] • [time]`.
 
 
