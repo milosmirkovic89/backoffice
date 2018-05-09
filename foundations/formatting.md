@@ -1,4 +1,4 @@
-### Numbers
+* [ ] ### Numbers
 
 * Numbers should always have at least two decimals .
 * Numbers over 3 digits get commas.
@@ -37,16 +37,16 @@
 
 ---
 
-### Date format
+### Date
+
+##### Written format
 
 * Day of the week can \(if needed\) be shortened to 3 characters \(e.g. Friday becomes Fri\).
 * Month can \(if needed\) be shortened to 3 characters \(e.g. November becomes Nov\).
-* If day of the week is included, it should be first in the order, followed by a comma.
 * A month should always be accompanied by a year, for clarity.
 * A year should never be abbreviated. Use the full 4 digits.
 * The day of the month should be a singular number, don’t include “st”, “nd” or “th”.
 * The day of the month should always be accompanied by a month. The month followed by the number, and separated by a space. The year should now be separated by a comma and a space, to differentiate from the day number before it.
-* Any times, shown inline with a date should separated from the date with a bullet `[date] • [time]`.
 
 | Do | Don't |
 | :--- | :--- |
@@ -54,12 +54,26 @@
 | November 2018 | November |
 | Nov 2, 2018 | 2 Nov, 2018 |
 | November 2, 2018 | 2nd Nov, 2018 |
-| Nov 2, 2018 • 08:57 AM | Nov 2, 2018 08:57 AM |
-| November 2, 2018 • 08:57 AM | November 2, 2018 • 08:57AM |
-| Fri, Nov 2, 2018 • 08:57 AM | Fri Nov 2, 2018 • 08:57 AM |
-| Friday, Nov 2, 2018 • 08:57 AM | Friday Nov 2, 2018 • 08:57 AM |
 
 ---
+
+##### Numerical format
+
+* Use 4 digits for the year, so as not to be mistaken for a day or month.
+* Use the correct date format for the country \(see below for more info\).
+
+| Do | Don't |
+| :--- | :--- |
+| MM/DD/YYYY \(US\) | MM/DD/YY \(US\) |
+| DD/MM/YYYY \(International\) |  | DD/MM/YY \(International\) |
+| YYYY/MM/DD \(China\) | YY/MM/DD \(China\) |
+
+---
+
+### Time
+
+* If day of the week is included, it should be first in the order, followed by a comma.
+* Any times, shown inline with a date should separated from the date with a bullet `[date] • [time]`.
 
 
 
