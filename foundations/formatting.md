@@ -1,5 +1,7 @@
 # Formatting
 
+On this page we can get instructions on how specific things are formatted. As an international company, localization, respecting different formats, and time zones are all important.
+
 ### Numbers
 
 * Numbers should always have at least two decimals .
