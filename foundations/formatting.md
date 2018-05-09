@@ -130,9 +130,14 @@
 
 ---
 
-
+##### Time with date
 
 * Any times, shown inline with a date should separated from the date with a bullet `[date] • [time]`.
+
+| Do | Don't |
+| :--- | :--- |
+| Nov 2, 2018 • 8:57 pm | Nov 2, 2018 8:57 pm |
+| Fri, Nov 2, 2018 • 20:57 | Fri, Nov 2, 2018 / 20:57 |
 
 
 
