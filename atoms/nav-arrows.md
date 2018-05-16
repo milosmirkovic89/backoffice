@@ -20,7 +20,7 @@ Nav arrows are mostly used to navigate back and forth when there's no enough roo
 /* Default left */
 width: 24px;
 height: 32px;
-background: $S100;
+background-color: $S100;
 border: 1px solid $S500;
 border-radius: 0 3px 0 3px;
 padding: 8px 4px 8px 4px;
@@ -29,7 +29,7 @@ color: $B100;
 /* Default right */
 width: 24px;
 height: 32px;
-background: $S100;
+background-color: $S100;
 border: 1px solid $S500;
 border-radius: 3px 0 3px 0;
 padding: 8px 4px 8px 4px;
