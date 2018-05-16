@@ -1,4 +1,4 @@
-# Content layout
+# Layout types
 
 To date, all pages in the Back Office app are using one of the three layout types: **Layout \#1**, **Layout \#2** and **Layout \#3**.
 
