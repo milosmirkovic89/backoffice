@@ -48,7 +48,7 @@ This layout have the full width of the content wrapper container, and it is the 
 
 ##### Layout \#2
 
-In this layout type the content wrapper is divided by two.
+In this layout type the content wrapper is divided by two so it forms exact columns.
 
 ![](/assets/foundations/layout-layout-2.png)
 
@@ -56,5 +56,7 @@ In this layout type the content wrapper is divided by two.
 
 ##### Layout \#3
 
+This layout type also contains two columns, but this time the left one is two times bigger in width compared to the right one.
 
+![](/assets/foundations/layout-layout-3.png)
 
