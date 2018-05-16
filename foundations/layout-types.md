@@ -50,6 +50,8 @@ This layout have the full width of the content wrapper container, and it is the 
 
 In this layout type the content wrapper is divided by two so it forms exact columns.
 
+* The margin between content columns is 32px.
+
 ![](/assets/foundations/layout-layout-2.png)
 
 ---
@@ -58,5 +60,9 @@ In this layout type the content wrapper is divided by two so it forms exact colu
 
 This layout type also contains two columns, but this time the left one is two times bigger in width compared to the right one.
 
+* The margin between content columns is 32px.
+
 ![](/assets/foundations/layout-layout-3.png)
+
+
 
