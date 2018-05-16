@@ -6,7 +6,7 @@
   * [Color](foundations/colors.md)
   * [Formatting](foundations/formatting.md)
   * [Iconography](foundations/iconography.md)
-  * [Layout types](foundations/layout.md)
+  * [Layout types](foundations/layout-types.md)
   * [Typography](foundations/typography.md)
 * [Atoms](atoms.md)
   * [Buttons](atoms/buttons.md)
