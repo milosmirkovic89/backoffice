@@ -4,7 +4,7 @@ To date, all pages in the Back Office app are using one of the three layout type
 
 **Note: **All CSS shown is for guiding purposes, it's not absolute.
 
-### Content section
+##### Content section
 
 * The width of the content section is set to 100%.
 * Content section has `background-color: $S200`.
@@ -21,7 +21,7 @@ padding: 24px 32px 24px 32px;
 
 ---
 
-### Content wrapper
+##### Content wrapper
 
 * Content wrapper has `background-color: $S100`.
 * There is a solid border of 1px on all sides.
@@ -37,6 +37,24 @@ border-radius: 3px 3px 0 0;
 ```
 
 ---
+
+##### Layout \#1
+
+This layout have the full width of the content wrapper container, and it is the most used layout in the BO app.
+
+![](/assets/foundations/layout-layout-1.png)
+
+---
+
+##### Layout \#2
+
+In this layout type the content wrapper is divided by two.
+
+![](/assets/foundations/layout-layout-2.png)
+
+---
+
+##### Layout \#3
 
 
 
