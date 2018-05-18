@@ -64,5 +64,3 @@ This layout type also contains two columns, but this time the left one is two ti
 
 ![](/assets/foundations/layout-layout-3.png)
 
-
-
