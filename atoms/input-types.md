@@ -30,6 +30,8 @@ width: 120px;
 width: 92px;
 ```
 
+---
+
 ### Text inputs
 
 Text inputs are used for simple text fields such as name, email address, phone number, etc.
@@ -169,6 +171,22 @@ background-color: $G300;
 
 /* Search icon on focus */
 color: $G200;
+```
+
+---
+
+### Auto-complete inputs
+
+Instant search inputs are a mix of Text and Search inputs. The CSS properties are almost identical to the ones used for Text inputs just with additional Search icon on the left. Compared to the Search inputs, Instant search inputs do not have a button to submit a query. Here, the results are visible instantly in a list below as user types.
+
+![](/assets/atoms/input-types-instant-search-states.png)
+
+```
+/* Differences compared to Text input CSS */
+
+/* Search icon */
+color: $S500;
+margin-right: 8px;
 ```
 
 ---
