@@ -7,7 +7,7 @@ On this page we can get instructions on how specific things are formatted. As an
 * Numbers should always have at least two decimals .
 * Numbers over 3 digits get commas.
 * Always prefix a currency amount with the code for the currency \(with a space\).
-* Use abbreviations only in charts and graphs when space is limited.
+* Use abbreviations only in charts and graphs where space is limited.
 
 | Do | Don't |
 | :--- | :--- |
