@@ -13,14 +13,14 @@ Tooltips can be attached to any element. When you hover the element with your mo
 * There is a padding of 16px on all sides.
 * The height line of the tooltip text is 16px.
 * The arrow indicator has 16x8px \(8x16px\) size.
-* The max width of the tooltip should be 276px \(which is known as 'L' size for Input types or Dropdowns\).
+* The max width of the tooltip should be 376px \(which is known as 'XL' size for Input types or Dropdowns\).
 * Tooltips can be displayed in multiple lines if the text is long.
 
 ![](/assets/atoms/tooltips-sizes.png)
 
 ```
 /* Tooltip base */
-max-width: 276px;
+max-width: 376px;
 background-color: $B400;
 padding: 16px;
 border-radius: 3px;
