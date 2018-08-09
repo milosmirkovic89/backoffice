@@ -97,7 +97,7 @@ color: $B200;
 * The right side of the Header \#1 is reserved for various action buttons as well as the search function and the date range filters.
 * The margin between elements is always 16px.
 * The margin between elements in a group is always 8px.
-* Groups are always divided with the separator if there are other elements outside the group.
+* Groups are always divided with a separator in case there are other elements outside the group.
 * Use 'M' size for [Dropdowns.](/atoms/dropdowns.md)
 * Use 'M' size for [Input types](/atoms/input-types.md).
 * Use 40px hight size [Buttons](/atoms/buttons.md).
