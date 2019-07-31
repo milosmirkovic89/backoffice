@@ -24,7 +24,7 @@ margin-bottom: 32px;
 
 ##### Columns {#single-row-inputs}
 
-* The width of the columns is dynamic and it depends of the data.
+* The width of the columns is dynamic and it depends on the data.
 * Each column has a left and right padding of 16px.
 
 ![](/assets/organisms/data-tables-column-spacing.png)
