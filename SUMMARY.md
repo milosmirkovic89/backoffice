@@ -5,11 +5,11 @@
 * [Foundations](/foundations.md#foundations)
   * [Color](foundations/colors.md)
   * [Formatting](foundations/formatting.md)
+  * Grid
   * [Iconography](foundations/iconography.md)
   * [Layout types](foundations/layout-types.md)
-  * [Typography](foundations/typography.md)
-  * Grid
   * Spacing
+  * [Typography](foundations/typography.md)
 * [Atoms](atoms.md)
   * [Buttons](atoms/buttons.md)
   * [Checkboxes](atoms/checkboxes.md)
