@@ -1,6 +1,6 @@
 # Iconography
 
-Icons are visual representations of commands, files, devices, directories, or common actions and are used to provide visual context and enhance usability. They should be simple, yet bold enough to grab attention and leave a lasting impression.
+Icons are visual representations of commands and directories, or common actions and are used to provide visual context and enhance usability.
 
 #### General guidelines
 
