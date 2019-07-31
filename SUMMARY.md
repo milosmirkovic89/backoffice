@@ -8,6 +8,8 @@
   * [Iconography](foundations/iconography.md)
   * [Layout types](foundations/layout-types.md)
   * [Typography](foundations/typography.md)
+  * Grid
+  * Spacing
 * [Atoms](atoms.md)
   * [Buttons](atoms/buttons.md)
   * [Checkboxes](atoms/checkboxes.md)
