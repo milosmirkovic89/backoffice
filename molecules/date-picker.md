@@ -1,6 +1,6 @@
 # Date picker
 
-Date pickers are mostly used in forms as data inputs or in header sections as data result filters. The data picker has two elements: **input base** and **calendar dialog**. The input base has up to 7 states, including: default, on-hover, on-focus, filled-out, disabled, hint and error.
+Date pickers are mostly used in forms as data inputs or in header sections as data result filters. The data picker has two elements: **input base** and **calendar dialog**. The input base has up to 7 states, including default, on-hover, on-focus, filled-out, disabled, hint and error.
 
 **Note: **All CSS shown is for guiding purposes, it's not absolute.
 
@@ -12,8 +12,8 @@ Date pickers are mostly used in forms as data inputs or in header sections as da
 
 #### Spacing guidelines {#spacing-guidelines}
 
-* In forms, the input base is displayed in full width size of 380px \(XL\).
-* In header sections, the width of the input base is 182px \(M\).
+* In forms, the input base is displayed in full width size of 376px \(XL\).
+* In header sections, the width of the input base is 184px \(M\).
 
 ![](/assets/molecules/data-picker-input-base-sizing.png)
 
