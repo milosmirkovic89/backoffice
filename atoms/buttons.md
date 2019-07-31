@@ -1,6 +1,6 @@
 # Buttons
 
-There are 5 types of buttons: **Primary**, **Positive, Negative,** **Neutral **and** Links**. Each button style has up to 5 states, including: default, on-hover, pressed, loading and disabled. Button types come in three different height size of 48px, 40px and 32px, except Links which do not have a base.
+There are 5 types of buttons: **Primary**, **Positive, Negative,** **Neutral **and** Links**. Each button style has up to 5 states, including default, on-hover, pressed, loading and disabled. Button types come in three different height size of 48px, 40px and 32px, except Links which do not have a base.
 
 **Note:** All CSS shown is for guiding purposes and it's not absolute.
 
@@ -9,12 +9,12 @@ There are 5 types of buttons: **Primary**, **Positive, Negative,** **Neutral **a
 * Montserrat typeface should be always used for the text on buttons \(except Links\).
 * There should be no icons on any type of buttons.
 * There is a subtle fade transition from normal to hover state on buttons \(_transition: all 0.2s;_\).
-* Loading animation \(spinner icon\) on buttons found [here](https://projects.lukehaas.me/css-loaders/).
+* Loading animation on buttons can be found [here](https://projects.lukehaas.me/css-loaders/).
 
 #### Spacing guidelines
 
 * Depending on the height size, buttons have left and right padding of 12px, 16px, or 24px \(except Links\).
-* Buttons contained in narrow spaces \(e.g. quote screen\) should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
+* Buttons contained in narrow spaces \(e.g. quote screen\) should fill 100% of the width available to them.
 * If multiple buttons are horizontally aligned, there should be a 16px margin separating them.
 * If the button is linked to the input field \(e.g. search input\) then the margin between should be 8px. 
 
