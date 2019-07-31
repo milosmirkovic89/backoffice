@@ -23,10 +23,10 @@ On this page we can get instructions on how specific things are formatted. As an
 
 ### Writing
 
-* [Sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) should be used wherever possible, as it's easier to read and friendlier. This applies to all copy, including , paragraph copy, captions and form labels & inputs.
-* Sentences, paragraphs and bullet pointed lists should always end with a period.
-* Headers and sub-headers should never end with a period.
-* Form labels should never end with a period.
+* Use [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) wherever possible. This applies to all copy, including , paragraph copy, captions and form labels & inputs.
+* Sentences, paragraphs and bullet-pointed lists should always end with a period.
+* Never end headers and sub-headers with a period.
+* Never end form labels with a period.
 * Avoid using ampersands wherever possible.
 
 | Do | Don't |
