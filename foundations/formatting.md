@@ -23,7 +23,7 @@ On this page we can get instructions on how specific things are formatted. As an
 
 ### Writing
 
-* Use [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) wherever possible. This applies to all copy, including , paragraph copy, captions and form labels & inputs.
+* Use [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) wherever possible. This applies to all copy, including, paragraph copy, captions and form labels & inputs.
 * Sentences, paragraphs and bullet-pointed lists should always end with a period.
 * Never end headers and sub-headers with a period.
 * Never end form labels with a period.
