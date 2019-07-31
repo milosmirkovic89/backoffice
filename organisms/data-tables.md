@@ -1,6 +1,6 @@
 # Data tables
 
-Besides Forms, Data tables are most frequently used organisms in the Back Office application. This page would explain the rows and columns of the tables as well as table's header and footer. The table's data is explained in [Table cells](/molecules/table-cells.md) page.
+Besides Forms, Data tables are the most frequently used organisms in the Back Office application. This page contains the details about table elements, such as rows, columns, header and footer. Table data is explained in [Table cells](/molecules/table-cells.md) page.
 
 **Note: **All CSS shown is for guiding purposes and it's not absolute.
 
