@@ -8,7 +8,7 @@ Toggles are a quick way to view and switch between enabled or disabled states. T
 
 * Use toggles when your intent is to turn something on or off instantly.
 * Toggles should never require users to press a button to apply the settings.
-* When you require users to press a submit button with a toggle, you may confuse them because it’s not the expected next step. In those cases, use [_Checkboxes_](/atoms/checkboxes.md) instead.
+* Use [_Checkboxes_](/atoms/checkboxes.md) when you require users to press a submit button after the changes are being made.
 
 #### Spacing guidelines
 
