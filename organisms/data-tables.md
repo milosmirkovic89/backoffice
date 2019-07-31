@@ -1,6 +1,6 @@
 # Data tables
 
-Besides Forms, Data tables are the most frequently used organisms across applications. This page contains the details about table elements, such as rows, columns, header and footer. Table data is explained in [Table cells](/molecules/table-cells.md) page.
+Besides Forms, Data tables are the most frequently used organisms across the platform. This page contains the details about table elements, such as rows, columns, header and footer. Table data is explained in [Table cells](/molecules/table-cells.md) page.
 
 **Note: **All CSS shown is for guiding purposes and it's not absolute.
 
