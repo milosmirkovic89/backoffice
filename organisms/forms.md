@@ -1,6 +1,6 @@
 # Forms
 
-Besides tables, forms are the most frequently used organisms across application. Due to the big number of input data per page, labels and inputs are displayed inline on desktop resolutions.
+Besides tables, forms are the most frequently used organisms across the platform. Due to the big number of input data per page, labels and inputs are displayed inline on desktop resolutions.
 
 **Note: **All CSS shown is for guiding purposes and it's not absolute.
 
