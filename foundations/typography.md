@@ -1,13 +1,13 @@
 # Typography
 
-**Open Sans** is the primary typeface for Back Office application while **Montserrat** is the secondary typeface used only in the sidebar, breadcrumbs and buttons.
+**Open Sans** is the primary typeface used in all applications. **Montserrat** is the secondary typeface used only in the navigation, breadcrumbs and buttons.
 
 #### General guidelines
 
 * Only use sizes, weights and colors noted above.
 * Never end a header or label with a period \(.\)
 * Only use a period \(.\) for sentences, paragraphs and copy.
-* Avoid use of all caps wherever possible.
+* Avoid the use of all caps wherever possible.
 
 ### Open Sans
 
