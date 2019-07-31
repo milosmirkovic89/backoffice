@@ -85,7 +85,7 @@ background-color: $G100;
 
 ##### Row selected
 
-Row selection should be used whenever there are same but separate actions for each row so that user can select multiple rows  and perform a batch actions.
+Row selection should be used whenever there are same but separate actions for each row so that the user can select multiple rows and perform batch actions.
 
 ![](/assets/organisms/data-tables-row-selection.png)
 
@@ -146,7 +146,7 @@ background: $S400;
 #### Spacing guidelines
 
 * The height of the Labels section is 40px.
-* There is no margin between the label and the 'sort' icons which have have a 16x16px container.
+* There is no margin between the label and the 'sort' icons which have a 16x16px container.
 
 ![](/assets/organisms/data-tables-header.png)
 
@@ -220,7 +220,7 @@ border-top: 1px solid $S500;
 ##### Elements
 
 * Entries per page: the margin between texts and the dropdown is 8px.
-* Go to page: the margin between text and the input field is 8px.
+* Go to page: the margin between the text and the input field is 8px.
 
 ![](/assets/organisms/data-tables-footer-elements.png)
 
@@ -274,7 +274,7 @@ height: 40px;
 ##### Text
 
 * The line height of the text in cells is 20px.
-* If the space is limited text in cells should be displayed in two lines.
+* If space is limited text in cells should be displayed in two lines.
 
 ![](/assets/organisms/data-tables-cells-text.png)
 
